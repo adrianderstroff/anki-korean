@@ -17,9 +17,6 @@ def row_iterator(csv_file, delimiter=';', skip=True, num=-1):
 
 
 def generate_deck(output_file_name, data, deck_title, deck_id,  model_name, model_id, fields, css, templates):
-    deck_id = deck_id or 1607392319
-    model_id = model_id or 1607492319
-
     # generate card model
     card_model = genanki.Model(
         model_id,
@@ -34,7 +31,7 @@ def generate_deck(output_file_name, data, deck_title, deck_id,  model_name, mode
     for row in data:
         note = genanki.Note(
             model=card_model,
-            fields=[row[0], row[1], row[2]]
+            fields=row
         )
         new_deck.add_note(note)
 
