@@ -121,6 +121,20 @@ def create_template():
     }
 
 
+def extract_examples(data):
+    for row in data:
+        examples = row[2]
+        examples_list = examples.split(";")
+
+        result = '<b class="hangeul2">'+examples_list[0]+"</b>" if len(examples_list) > 0 else ""
+        for i, example in enumerate(examples_list[1:]):
+            if i % 2 == 1:
+                result += "<br><br>" + '<b class="hangeul2">'+example+"</b>"
+            else:
+                result += "<br>" + '<i class="small">'+example+"</i>"
+        row[2] = result
+
+
 def create_media_files():
     return [
         {
@@ -141,5 +155,6 @@ def create_model():
         'fields': create_fields(),
         'css': create_css(),
         'template': create_template(),
+        'post_process': extract_examples,
         'media': create_media_files()
     }
