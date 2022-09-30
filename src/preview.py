@@ -1,5 +1,7 @@
+import random
 import re
 
+import dash_dangerously_set_inner_html
 from dash import Dash, html, dcc, Output, Input, State
 
 
@@ -85,6 +87,34 @@ def process_children(children_info, content):
     return children_out
 
 
+def add_children(children):
+    return dash_dangerously_set_inner_html.DangerouslySetInnerHTML(children)
+
+
+def construct_result_element(elem, className, elemID, style, children):
+    if className and elemID:
+        if len(children) > 0:
+            result = elem(className=className, id=elemID, style=style, children=add_children(children))
+        else:
+            result = elem(className=className, id=elemID, style=style)
+    elif className:
+        if len(children) > 0:
+            result = elem(className=className, style=style, children=add_children(children))
+        else:
+            result = elem(className=className, style=style)
+    elif elemID:
+        if len(children) > 0:
+            result = elem(id=elemID, style=style, children=add_children(children))
+        else:
+            result = elem(id=elemID, style=style)
+    else:
+        if len(children) > 0:
+            result = elem(style=style, children=add_children(children))
+        else:
+            result = elem(style=style)
+    return result
+
+
 def parse_line(line: str, content):
     pattern = '<([^> ]+)\s*(\s*[^> ]+\s*=\s*"[^>]+")?\s*>(?:([^<>]*)<\/\s*([^> ]+)\s*>)?'
     matches = re.findall(pattern, line)
@@ -108,26 +138,7 @@ def parse_line(line: str, content):
     children = process_children(children_info, content)
 
     # construct the actual element
-    if className and elemID:
-        if len(children) > 0:
-            result = elem(className=className, id=elemID, style=style, children=children)
-        else:
-            result = elem(className=className, id=elemID, style=style)
-    elif className:
-        if len(children) > 0:
-            result = elem(className=className, style=style, children=children)
-        else:
-            result = elem(className=className, style=style)
-    elif elemID:
-        if len(children) > 0:
-            result = elem(id=elemID, style=style, children=children)
-        else:
-            result = elem(id=elemID, style=style)
-    else:
-        if len(children) > 0:
-            result = elem(style=style, children=children)
-        else:
-            result = elem(style=style)
+    result = construct_result_element(elem, className, elemID, style, children)
 
     return result
 
@@ -136,8 +147,10 @@ def create_card(data, fields, question_template: str, answer_template: str):
     # create content dict for lookup of data that should be replaced
     content = {}
     for i in range(len(fields)):
-        content[fields[i]['name']] = data[i]
+        if i < len(data):
+            content[fields[i]['name']] = data[i]
 
+    # parse all lines of the front template, we assume there will be only one element per line and no nesting is allowed
     elements_front = []
     for line in iter(question_template.splitlines()):
         line = line.strip()
@@ -148,6 +161,7 @@ def create_card(data, fields, question_template: str, answer_template: str):
     # add info about front card
     content["FrontSide"] = elements_front
 
+    # parse all lines of the back template, we assume there will be only one element per line and no nesting is allowed
     elements_back = []
     for line in iter(answer_template.splitlines()):
         line = line.strip()
@@ -162,7 +176,13 @@ def create_card(data, fields, question_template: str, answer_template: str):
     return elements_front, elements_back
 
 
-def show_card_preview(data, fields, template, css):
+def get_both_card_sides(data, fields, question, answer, card_idx):
+    card_idx = card_idx if card_idx >= 0 else random.randint(0, len(data) - 1)
+    card = data[card_idx]
+    return create_card(card, fields, question, answer)
+
+
+def show_card_preview(data, fields, template, css, card_idx=-1):
     question = template['qfmt']
     answer = template['afmt']
 
@@ -180,7 +200,13 @@ def show_card_preview(data, fields, template, css):
         html.Button(id="switch", children="SHOW ANSWER")
     ])
 
-    question_card, answer_card = create_card(data, fields, question, answer)
+    # grab a single card, if no index is provided then grab a random card
+    question_card, answer_card = get_both_card_sides(data, fields, question, answer, card_idx)
+    sides = {
+        'front': question_card,
+        'back': answer_card
+    }
+
     @app.callback(
         Output('card', 'children'),
         Output('show_front', 'data'),
@@ -189,7 +215,9 @@ def show_card_preview(data, fields, template, css):
     )
     def update_geometry(n_clicks, show_front):
         show_front = show_front if show_front is not None else True
-        card = question_card if show_front else answer_card
+        if show_front:
+            sides['front'], sides['back'] = get_both_card_sides(data, fields, question, answer, card_idx)
+        card = sides['front'] if show_front else sides['back']
         return card, not show_front
 
     app.run_server(debug=True)

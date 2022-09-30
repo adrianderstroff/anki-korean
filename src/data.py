@@ -1,7 +1,7 @@
 import csv
 
 
-def grab_data(file_path, fields, delimiter=";", skipFirstRow=False):
+def grab_data(file_path, column_indices, delimiter=";", skipFirstRow=False):
     data = []
 
     with open(file_path, encoding='utf-8') as f:
@@ -13,7 +13,7 @@ def grab_data(file_path, fields, delimiter=";", skipFirstRow=False):
             if not skipFirstRow or i > 0:
                 try:
                     entries = []
-                    for idx in fields:
+                    for idx in column_indices:
                         entries.append(row[idx])
                     data.append(entries)
                 except Exception as err:

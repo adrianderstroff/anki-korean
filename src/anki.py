@@ -16,7 +16,15 @@ def row_iterator(csv_file, delimiter=';', skip=True, num=-1):
             break
 
 
-def generate_deck(output_file_name, data, deck_title, deck_id,  model_name, model_id, fields, css, templates):
+def generate_deck(output_file_name, data, deck_title, deck_id,  model):
+    # extract variables
+    model_name = model['name']
+    model_id = model['id']
+    fields = model['fields']
+    css = model['css']
+    templates = [model['template']]
+    media_files = model['media'] if 'media' in model else None
+
     # generate card model
     card_model = genanki.Model(
         model_id,
@@ -26,9 +34,25 @@ def generate_deck(output_file_name, data, deck_title, deck_id,  model_name, mode
         css=css
     )
 
-    # create deck and add notes
+    # create deck
     new_deck = genanki.Deck(deck_id, deck_title)
+
+    # create media package
+    package = genanki.Package(new_deck)
+    if media_files:
+        media_file_paths = [p for media_file in media_files for p in media_file['paths']]
+        media_templates = {media_file['field']: media_file['template'] for media_file in media_files if 'field' in media_file}
+        package.media_files = media_file_paths
+
+    # add notes to deck
     for row in data:
+        # we assume all medial fields come after the content fields
+        if len(row) < len(fields) and media_templates:
+            new_row = [el for el in row]
+            for field in fields[len(row):]:
+                new_row.append(media_templates[field['name']])
+            row = new_row
+
         note = genanki.Note(
             model=card_model,
             fields=row
@@ -36,4 +60,4 @@ def generate_deck(output_file_name, data, deck_title, deck_id,  model_name, mode
         new_deck.add_note(note)
 
     # finally create package
-    genanki.Package(new_deck).write_to_file(output_file_name)
+    package.write_to_file(output_file_name)
