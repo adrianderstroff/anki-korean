@@ -44,6 +44,12 @@ def generate_deck(output_file_name, data, deck_title, deck_id,  model):
         media_templates = {media_file['field']: media_file['template'] for media_file in media_files if 'field' in media_file}
         package.media_files = media_file_paths
 
+    # only use the first field for the guid
+    class MyNote(genanki.Note):
+        @property
+        def guid(self):
+            return genanki.guid_for(self.fields[0])
+
     # add notes to deck
     for row in data:
         # we assume all medial fields come after the content fields
@@ -53,7 +59,7 @@ def generate_deck(output_file_name, data, deck_title, deck_id,  model):
                 new_row.append(media_templates[field['name']])
             row = new_row
 
-        note = genanki.Note(
+        note = MyNote(
             model=card_model,
             fields=row
         )

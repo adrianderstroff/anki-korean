@@ -122,7 +122,7 @@ def create_template():
 
 
 def extract_examples(data):
-    for row in data:
+    for j, row in enumerate(data):
         examples = row[2]
         examples_list = examples.split(";")
 
@@ -133,6 +133,10 @@ def extract_examples(data):
             else:
                 result += "<br>" + '<i class="small">'+example+"</i>"
         row[2] = result
+
+        # check if examples were formated properly
+        if len(examples_list) % 2 == 1:
+            print(f'Line {j+1}: Wrong number of example pairs. {len(examples_list)}: {examples_list}')
 
 
 def create_media_files():

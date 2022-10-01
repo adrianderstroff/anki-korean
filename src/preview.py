@@ -210,6 +210,7 @@ def show_card_preview(data, fields, template, css, card_idx=-1):
     @app.callback(
         Output('card', 'children'),
         Output('show_front', 'data'),
+        Output('switch', 'children'),
         Input('switch', 'n_clicks'),
         State('show_front', 'data')
     )
@@ -218,7 +219,8 @@ def show_card_preview(data, fields, template, css, card_idx=-1):
         if show_front:
             sides['front'], sides['back'] = get_both_card_sides(data, fields, question, answer, card_idx)
         card = sides['front'] if show_front else sides['back']
-        return card, not show_front
+        title = 'SHOW ANSWER' if show_front else 'NEXT CARD'
+        return card, not show_front, title
 
     app.run_server(debug=True)
 
