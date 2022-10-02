@@ -183,6 +183,7 @@ def get_both_card_sides(data, fields, question, answer, card_idx):
 
 
 def show_card_preview(data, fields, template, css, card_idx=-1):
+    template = template[0] if isinstance(template, list) else template
     question = template['qfmt']
     answer = template['afmt']
 

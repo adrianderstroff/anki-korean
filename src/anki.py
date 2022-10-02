@@ -16,13 +16,14 @@ def row_iterator(csv_file, delimiter=';', skip=True, num=-1):
             break
 
 
-def generate_deck(output_file_name, data, deck_title, deck_id,  model):
+def generate_deck(output_file_name, data, deck_title, deck_id, model):
     # extract variables
     model_name = model['name']
     model_id = model['id']
+    gui_field = model['gui_field']
     fields = model['fields']
     css = model['css']
-    templates = [model['template']]
+    templates = model['template'] if isinstance(model['template'], list) else [model['template']]
     media_files = model['media'] if 'media' in model else None
 
     # generate card model
@@ -48,7 +49,7 @@ def generate_deck(output_file_name, data, deck_title, deck_id,  model):
     class MyNote(genanki.Note):
         @property
         def guid(self):
-            return genanki.guid_for(self.fields[0])
+            return genanki.guid_for(self.fields[gui_field])
 
     # add notes to deck
     for row in data:

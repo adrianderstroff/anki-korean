@@ -156,6 +156,7 @@ def create_model():
     return {
         'name': 'korean-grammar',
         'id': create_id('korean-grammar'),
+        'gui_field': 0,
         'fields': create_fields(),
         'css': create_css(),
         'template': create_template(),
