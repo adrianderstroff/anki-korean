@@ -1,5 +1,5 @@
 from src.models import korean, grammar
-from src.util import generate, preview
+from src.util import generate, preview, extract_data
 
 
 def vocab_model():
@@ -21,5 +21,6 @@ def grammar_model():
 if __name__ == '__main__':
     csv_path, deck_title, columns, model = vocab_model()
 
-    generate(csv_path, columns, deck_title, model)
-    preview(csv_path, columns, model)
+    data = extract_data(csv_path, columns, model)
+    generate(data, csv_path,deck_title, model)
+    preview(data, model)

@@ -6,15 +6,17 @@ from src.data import grab_data
 from src.preview import show_card_preview
 
 
-def generate(data_path, columns, title, model):
-    # generate output path
-    file_name = Path(data_path).stem
-    out_path = f'../data/{file_name}.apkg'
-
-    # extract data and apply some post-processing if necessary
+def extract_data(data_path, columns, model):
     data = grab_data(data_path, columns, delimiter='\t')
     if 'post_process' in model:
         model['post_process'](data)
+    return data
+
+
+def generate(data, data_path, title, model):
+    # generate output path
+    file_name = Path(data_path).stem
+    out_path = f'../data/{file_name}.apkg'
 
     generate_deck(
         output_file_name=out_path,
@@ -25,12 +27,7 @@ def generate(data_path, columns, title, model):
     )
 
 
-def preview(data_path, columns, model, card_idx=-1):
-    # extract data and apply some post-processing if necessary
-    data = grab_data(data_path, columns, delimiter='\t')
-    if 'post_process' in model:
-        model['post_process'](data)
-
+def preview(data, model, card_idx=-1):
     # display the card preview
     show_card_preview(data, model['fields'], model['template'], model['css'], card_idx)
 

@@ -44,7 +44,7 @@ def create_css():
         #answer {
             display: none;
         }
-        .answer {
+        .explanation {
             width: calc(100% - 30px - 30px);
             margin-top: 10px;
             margin-left: 15px;
@@ -109,7 +109,7 @@ def create_english_template():
 
     answer_page = """
         {{FrontSide}}
-        <div class="center answer hangeul">{{Korean}}</div>
+        <div class="center explanation hangeul">{{Korean}}</div>
         <div class="examples-header">Sentences</div>
         <div class="examples">{{Sentences}}</div>
     """
@@ -128,7 +128,7 @@ def create_korean_template():
 
     answer_page = """
         {{FrontSide}}
-        <div class="center answer">{{English}}</div>
+        <div class="center explanation">{{English}}</div>
         <div class="examples-header">Sentences</div>
         <div class="examples">{{Sentences}}</div>
     """
@@ -138,6 +138,24 @@ def create_korean_template():
         'qfmt': question_page,
         'afmt': answer_page
     }
+
+
+def check_data(data):
+    existing_vocab = {}
+    for j, row in enumerate(data):
+        # make sure rows have only 3 entries
+        if len(row) != 3:
+            print(f'line {j}: number of entries is not 3: {row}')
+
+        # check for duplicates
+        korean = row[1]
+        if korean in existing_vocab:
+            other = existing_vocab[korean]
+            line = other[0]
+            other_vocab = other[1]
+            print(f'line {j}: {row} already existed in {line}: {other_vocab}')
+        else:
+            existing_vocab[korean] = [j, row]
 
 
 def extract_examples(data):
@@ -158,6 +176,11 @@ def extract_examples(data):
             print(f'Line {j+1}: Wrong number of example pairs. {len(examples_list)}: {examples_list}')
 
 
+def post_process(data):
+    check_data(data)
+    extract_examples(data)
+
+
 def create_model():
     return {
         'name': 'korean',
@@ -167,5 +190,5 @@ def create_model():
         'column_indices': create_fields(),
         'css': create_css(),
         'template': [create_english_template(), create_korean_template()],
-        'post_process': extract_examples
+        'post_process': post_process
     }
