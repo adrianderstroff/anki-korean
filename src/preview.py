@@ -182,7 +182,7 @@ def get_both_card_sides(data, fields, question, answer, card_idx):
     return create_card(card, fields, question, answer)
 
 
-def show_card_preview(data, fields, template, css, card_idx=-1):
+def show_card_preview(data, deck_name, fields, template, css, card_idx=-1):
     template = template[0] if isinstance(template, list) else template
     question = template['qfmt']
     answer = template['afmt']
@@ -193,12 +193,15 @@ def show_card_preview(data, fields, template, css, card_idx=-1):
 
     app = Dash(__name__)
 
-    app.layout = html.Div(id="app", children=[
-        html.Div(id="card-container", children=[
-            dcc.Store(id='show_front'),
-            html.Div(id="card", className="card"),
-        ]),
-        html.Button(id="switch", children="SHOW ANSWER")
+    app.layout = html.Div(children=[
+        html.Div(id="deck-title"),
+        html.Div(id="app", children=[
+            html.Div(id="card-container", children=[
+                dcc.Store(id='show_front'),
+                html.Div(id="card", className="card"),
+            ]),
+            html.Button(id="switch", children="SHOW ANSWER")
+        ])
     ])
 
     # grab a single card, if no index is provided then grab a random card
@@ -210,6 +213,7 @@ def show_card_preview(data, fields, template, css, card_idx=-1):
 
     @app.callback(
         Output('card', 'children'),
+        Output('deck-title', 'children'),
         Output('show_front', 'data'),
         Output('switch', 'children'),
         Input('switch', 'n_clicks'),
@@ -221,7 +225,7 @@ def show_card_preview(data, fields, template, css, card_idx=-1):
             sides['front'], sides['back'] = get_both_card_sides(data, fields, question, answer, card_idx)
         card = sides['front'] if show_front else sides['back']
         title = 'SHOW ANSWER' if show_front else 'NEXT CARD'
-        return card, not show_front, title
+        return card, deck_name, not show_front, title
 
     app.run_server(debug=True)
 

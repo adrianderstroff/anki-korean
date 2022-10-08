@@ -27,5 +27,5 @@ def generate_and_preview(model_func):
 
 
 if __name__ == '__main__':
-    generate_and_preview(vocab_model)
-    # generate_and_preview(grammar_model)
+    # generate_and_preview(vocab_model)
+    generate_and_preview(grammar_model)

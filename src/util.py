@@ -29,7 +29,7 @@ def generate(data, data_path, title, model):
 
 def preview(data, model, card_idx=-1):
     # display the card preview
-    show_card_preview(data, model['fields'], model['template'], model['css'], card_idx)
+    show_card_preview(data, model['name'], model['fields'], model['template'], model['css'], card_idx)
 
 
 def sdbm_hash_string(str):
