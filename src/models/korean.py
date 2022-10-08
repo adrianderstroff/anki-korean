@@ -69,7 +69,7 @@ def create_css():
             border-top-left-radius: 2px;
             background: steelblue;
             color: white;
-            font-size: 0.7em;
+            font-size: 1em;
         }
         .examples {
             width: calc(100% - 30px - 4px - 30px);
@@ -93,7 +93,7 @@ def create_css():
             font-family: HoonGothic;
         }
         .small {
-            font-size: 0.5em;
+            font-size: 0.7em;
         }
         .center {
             text-align: center;

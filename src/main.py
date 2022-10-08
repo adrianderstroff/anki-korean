@@ -18,9 +18,14 @@ def grammar_model():
     return csv_path, deck_title, columns, model
 
 
-if __name__ == '__main__':
-    csv_path, deck_title, columns, model = vocab_model()
+def generate_and_preview(model_func):
+    csv_path, deck_title, columns, model = model_func()
 
     data = extract_data(csv_path, columns, model)
-    generate(data, csv_path,deck_title, model)
+    generate(data, csv_path, deck_title, model)
     preview(data, model)
+
+
+if __name__ == '__main__':
+    generate_and_preview(vocab_model)
+    # generate_and_preview(grammar_model)
