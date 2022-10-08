@@ -16,7 +16,7 @@ def extract_data(data_path, columns, model):
 def generate(data, data_path, title, model):
     # generate output path
     file_name = Path(data_path).stem
-    out_path = f'../data/{file_name}.apkg'
+    out_path = f'../data/apkg/{file_name}.apkg'
 
     generate_deck(
         output_file_name=out_path,

@@ -3,16 +3,16 @@ from src.util import generate, preview, extract_data
 
 
 def vocab_model():
-    csv_path = "../data/korean2b.csv"
-    deck_title = "Korean Vocab 2B"
+    csv_path = "../data/tsv/korean2a.csv"
+    deck_title = "Korean Vocab 2A"
     columns = [1, 2, 3]
     model = korean.create_model()
     return csv_path, deck_title, columns, model
 
 
 def grammar_model():
-    csv_path = "../data/grammar2b.tsv"
-    deck_title = "Korean Grammar 2B"
+    csv_path = "../data/tsv/grammar2a.tsv"
+    deck_title = "Korean Grammar 2A"
     columns = [1, 2, 3]
     model = grammar.create_model()
     return csv_path, deck_title, columns, model

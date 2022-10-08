@@ -145,7 +145,7 @@ def check_data(data):
     for j, row in enumerate(data):
         # make sure rows have only 3 entries
         if len(row) != 3:
-            print(f'line {j}: number of entries is not 3: {row}')
+            print(f'line {j+1}: number of entries is not 3: {row}')
 
         # check for duplicates
         korean = row[1]
@@ -153,7 +153,7 @@ def check_data(data):
             other = existing_vocab[korean]
             line = other[0]
             other_vocab = other[1]
-            print(f'line {j}: {row} already existed in {line}: {other_vocab}')
+            print(f'line {j+1}: {row} already existed in {line+1}: {other_vocab}')
         else:
             existing_vocab[korean] = [j, row]
 
