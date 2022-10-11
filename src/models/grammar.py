@@ -1,7 +1,9 @@
+from src.data import Data
+from src.type import Fields, Template, Media, Model
 from src.util import create_id
 
 
-def create_fields():
+def create_fields() -> Fields:
     return [
         {'name': 'Grammar'},
         {'name': 'Explanation'},
@@ -9,7 +11,7 @@ def create_fields():
     ]
 
 
-def create_css():
+def create_css() -> str:
     css = """
         @font-face {
             font-family: UhBeeSehyun;
@@ -102,7 +104,7 @@ def create_css():
     return css
 
 
-def create_template():
+def create_template() -> Template:
     question_page = """
         <div class="center question hangeul">{{Grammar}}</div>
     """
@@ -121,7 +123,7 @@ def create_template():
     }
 
 
-def extract_examples(data):
+def extract_examples(data: Data):
     for j, row in enumerate(data):
         examples = row[2]
         examples_list = examples.split(";")
@@ -139,7 +141,7 @@ def extract_examples(data):
             print(f'Line {j+1}: Wrong number of example pairs. {len(examples_list)}: {examples_list}')
 
 
-def create_media_files():
+def create_media_files() -> Media:
     return [
         {
             'paths': [
@@ -152,7 +154,7 @@ def create_media_files():
     ]
 
 
-def create_model():
+def create_model() -> Model:
     return {
         'name': 'korean-grammar',
         'id': create_id('korean-grammar'),

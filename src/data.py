@@ -1,7 +1,11 @@
 import csv
+from typing import List
 
 
-def grab_data(file_path, column_indices, delimiter=";", skipFirstRow=False):
+Data = List[List[str]]
+
+
+def grab_data(file_path: str, column_indices: List[int], delimiter: str = ";", skip_first_row: bool = False) -> Data:
     data = []
 
     with open(file_path, encoding='utf-8') as f:
@@ -10,7 +14,7 @@ def grab_data(file_path, column_indices, delimiter=";", skipFirstRow=False):
         i = 0
         row: str
         for row in file_reader:
-            if not skipFirstRow or i > 0:
+            if not skip_first_row or i > 0:
                 try:
                     entries = []
                     for idx in column_indices:

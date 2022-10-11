@@ -1,11 +1,16 @@
 import random
 import re
+from typing import Type, Dict, List, Any
 
+import dash
 import dash_dangerously_set_inner_html
 from dash import Dash, html, dcc, Output, Input, State
 
+from src.data import Data
+from src.type import Element, ElementInstance, Card, Fields, Template, Content
 
-def count_matches(matches):
+
+def count_matches(matches: List[Any]) -> int:
     num = len(matches)
     for match in matches:
         if len(match) == 0:
@@ -13,7 +18,7 @@ def count_matches(matches):
     return num
 
 
-def extract_line_data(matches):
+def extract_line_data(matches: List[Any]) -> (str, str, str):
     tag_name = matches[0]
     tag_attr = matches[1]
     children = matches[2]
@@ -23,8 +28,9 @@ def extract_line_data(matches):
     return tag_name, tag_attr, children
 
 
-def match_element(tag_name):
+def match_element(tag_name: str) -> Element:
     # match element
+    elem: Element
     if tag_name == "div":
         elem = html.Div
     elif tag_name == "hr":
@@ -48,7 +54,7 @@ def match_element(tag_name):
     return elem
 
 
-def match_attributes(tag_attr):
+def match_attributes(tag_attr: str) -> Dict[str, str]:
     pattern = '([^> =]+\s*=\s*"[^>"]+")'
     matches = re.findall(pattern, tag_attr)
     attributes = {}
@@ -64,7 +70,7 @@ def match_attributes(tag_attr):
     return attributes
 
 
-def process_children(children_info, content):
+def process_children(children_info: str, content: Content):
     pattern = '{{([^{}]+)}}'
 
     children_out = children_info
@@ -87,26 +93,27 @@ def process_children(children_info, content):
     return children_out
 
 
-def add_children(children):
+def add_children(children: str) -> Element:
     return dash_dangerously_set_inner_html.DangerouslySetInnerHTML(children)
 
 
-def construct_result_element(elem, className, elemID, style, children):
-    if className and elemID:
+def construct_result_element(elem: Element, class_name: str, elem_id: str, style: Dict[str, str], children: str) \
+        -> ElementInstance:
+    if class_name and elem_id:
         if len(children) > 0:
-            result = elem(className=className, id=elemID, style=style, children=add_children(children))
+            result = elem(className=class_name, id=elem_id, style=style, children=add_children(children))
         else:
-            result = elem(className=className, id=elemID, style=style)
-    elif className:
+            result = elem(className=class_name, id=elem_id, style=style)
+    elif class_name:
         if len(children) > 0:
-            result = elem(className=className, style=style, children=add_children(children))
+            result = elem(className=class_name, style=style, children=add_children(children))
         else:
-            result = elem(className=className, style=style)
-    elif elemID:
+            result = elem(className=class_name, style=style)
+    elif elem_id:
         if len(children) > 0:
-            result = elem(id=elemID, style=style, children=add_children(children))
+            result = elem(id=elem_id, style=style, children=add_children(children))
         else:
-            result = elem(id=elemID, style=style)
+            result = elem(id=elem_id, style=style)
     else:
         if len(children) > 0:
             result = elem(style=style, children=add_children(children))
@@ -115,7 +122,7 @@ def construct_result_element(elem, className, elemID, style, children):
     return result
 
 
-def parse_line(line: str, content):
+def parse_line(line: str, content: Content) -> ElementInstance:
     pattern = '<([^> ]+)\s*(\s*[^> ]+\s*=\s*"[^>]+")?\s*>(?:([^<>]*)<\/\s*([^> ]+)\s*>)?'
     matches = re.findall(pattern, line)
 
@@ -138,17 +145,18 @@ def parse_line(line: str, content):
     children = process_children(children_info, content)
 
     # construct the actual element
-    result = construct_result_element(elem, className, elemID, style, children)
+    result: ElementInstance = construct_result_element(elem, className, elemID, style, children)
 
     return result
 
 
-def create_card(data, fields, question_template: str, answer_template: str):
+def create_card(card: Card, fields: Fields, question_template: str, answer_template: str) \
+        -> (List[ElementInstance], List[ElementInstance]):
     # create content dict for lookup of data that should be replaced
     content = {}
     for i in range(len(fields)):
-        if i < len(data):
-            content[fields[i]['name']] = data[i]
+        if i < len(card):
+            content[fields[i]['name']] = card[i]
 
     # parse all lines of the front template, we assume there will be only one element per line and no nesting is allowed
     elements_front = []
@@ -176,13 +184,14 @@ def create_card(data, fields, question_template: str, answer_template: str):
     return elements_front, elements_back
 
 
-def get_both_card_sides(data, fields, question, answer, card_idx):
+def get_both_card_sides(data: Data, fields: Fields, question: str, answer: str, card_idx: int) \
+        -> (List[ElementInstance], List[ElementInstance]):
     card_idx = card_idx if card_idx >= 0 else random.randint(0, len(data) - 1)
-    card = data[card_idx]
+    card: Card = data[card_idx]
     return create_card(card, fields, question, answer)
 
 
-def show_card_preview(data, deck_name, fields, template, css, card_idx=-1):
+def show_card_preview(data: Data, deck_name: str, fields: Fields, template: Template, css: str, card_idx: int = -1):
     template = template[0] if isinstance(template, list) else template
     question = template['qfmt']
     answer = template['afmt']
@@ -228,44 +237,3 @@ def show_card_preview(data, deck_name, fields, template, css, card_idx=-1):
         return card, deck_name, not show_front, title
 
     app.run_server(debug=True)
-
-
-if __name__ == '__main__':
-    data = ["e-mail", "이메일", "이메일 주소가 어떻게 되세요?", "What’s your email address?"]
-    fields = ["English", "Korean", "Sentence Korean", "Sentence English"]
-    question = """
-        <div class="center">{{English}}</div>
-    """
-    answer = """
-        {{FrontSide}}
-        <hr>
-        <div class="center">{{Korean}} {{Korean}}</div>
-        <div>{{Sentence Korean}}</div>
-        <div>{{Sentence English}}</div>
-    """
-    template = {
-        'qfmt': question,
-        'afmt': answer
-    }
-    css = """
-        #answer {
-            width: 33%;
-        }
-        .gap {
-            height: 2em;
-        }
-        .center {
-            text-align: center;
-        }
-        .hanzi {
-            font-size: 3em;
-        }
-        .left {
-            margin-left: 10%;
-        }
-        .space {
-            display: inline-block;
-            width: 2em;
-        }
-    """
-    show_card_preview(data, fields, template, css)

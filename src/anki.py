@@ -4,8 +4,11 @@ import csv
 import codecs
 import genanki
 
+from src.data import Data
+from src.type import Model
 
-def row_iterator(csv_file, delimiter=';', skip=True, num=-1):
+
+def row_iterator(csv_file, delimiter: str = ';', skip: bool = True, num: int = -1):
     file_reader = csv.reader(csv_file, delimiter=delimiter)
     i = 0
     for row in file_reader:
@@ -16,7 +19,7 @@ def row_iterator(csv_file, delimiter=';', skip=True, num=-1):
             break
 
 
-def generate_deck(output_file_name, data, deck_title, deck_id, model):
+def generate_deck(output_file_name: str, data: Data, deck_title: str, deck_id: int, model: Model):
     # extract variables
     model_name = model['name']
     model_id = model['id']

@@ -1,7 +1,9 @@
+from src.data import Data
+from src.type import Fields, Template, Model
 from src.util import create_id
 
 
-def create_fields():
+def create_fields() -> Fields:
     return [
         {'name': 'English'},
         {'name': 'Korean'},
@@ -9,7 +11,7 @@ def create_fields():
     ]
 
 
-def create_css():
+def create_css() -> str:
     css = """
         @font-face {
             font-family: UhBeeSehyun;
@@ -102,7 +104,7 @@ def create_css():
     return css
 
 
-def create_english_template():
+def create_english_template() -> Template:
     question_page = """
         <div class="center question">{{English}}</div>
     """
@@ -121,7 +123,7 @@ def create_english_template():
     }
 
 
-def create_korean_template():
+def create_korean_template() -> Template:
     question_page = """
         <div class="center question hangeul">{{Korean}}</div>
     """
@@ -140,7 +142,7 @@ def create_korean_template():
     }
 
 
-def check_data(data):
+def check_data(data: Data):
     existing_vocab = {}
     for j, row in enumerate(data):
         # make sure rows have only 3 entries
@@ -158,7 +160,7 @@ def check_data(data):
             existing_vocab[korean] = [j, row]
 
 
-def extract_examples(data):
+def extract_examples(data: Data):
     for j, row in enumerate(data):
         examples = row[2]
         examples_list = examples.split(";")
@@ -176,12 +178,12 @@ def extract_examples(data):
             print(f'Line {j+1}: Wrong number of example pairs. {len(examples_list)}: {examples_list}')
 
 
-def post_process(data):
+def post_process(data: Data):
     check_data(data)
     extract_examples(data)
 
 
-def create_model():
+def create_model() -> Model:
     return {
         'name': 'korean',
         'id': create_id('korean'),

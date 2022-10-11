@@ -1,8 +1,11 @@
+from typing import List, Callable
+
 from src.models import korean, grammar
+from src.type import ModelDescription
 from src.util import generate, preview, extract_data
 
 
-def vocab_model():
+def vocab_model() -> ModelDescription:
     csv_path = "../data/tsv/korean2a.csv"
     deck_title = "Korean Vocab 2A"
     columns = [1, 2, 3]
@@ -10,7 +13,7 @@ def vocab_model():
     return csv_path, deck_title, columns, model
 
 
-def grammar_model():
+def grammar_model() -> ModelDescription:
     csv_path = "../data/tsv/grammar2a.tsv"
     deck_title = "Korean Grammar 2A"
     columns = [1, 2, 3]
@@ -18,7 +21,7 @@ def grammar_model():
     return csv_path, deck_title, columns, model
 
 
-def generate_and_preview(model_func):
+def generate_and_preview(model_func: Callable[[], ModelDescription]):
     csv_path, deck_title, columns, model = model_func()
 
     data = extract_data(csv_path, columns, model)
