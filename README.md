@@ -57,3 +57,10 @@ if __name__ == '__main__':
 ```
 
 Lastly pass your newly defined function as a parameter to the function ```generate_and_preview(...)```. You are now done. You can execute the script and an Anki package should now be created in the directory _data/apkg_. This package file can then be imported in Anki.
+
+
+## 2 About the Data
+
+The vocabulary and grammar are mostly taken from vocabulary of my Korean class. Currently I'm studying with the **서울대 한국어 2A** student and work books. The example sentences used in the vocabulary and grammar decks are mostly taken from the [Naver Korean-English Dictionary](korean.dict.naver.com/). The dictionary offers example sentence submitted by people which is quite neat.
+
+You can use my decks without any restrictions, however take note that the fonts that I used might have a different licensing model.

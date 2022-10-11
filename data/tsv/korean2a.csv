@@ -110,8 +110,8 @@
 76	bookstore	서점	여자가 서점 앞에 있다.;The woman is in front of a book store.;난 그걸 서점에서 샀어요.;I bought it at the bookstore.
 76	to be the same	똑같다	두 아이는 키가 똑같다.;The two children are the same height.
 76	besides/next to N	N 옆에	네 옆에 앉아도 되겠니?;Can I sit next to you?;우리 집은 학교 옆에 있는 거예요.;Our house is the one next to the school.
-76	to be bored	심심하다	영화 보러 가자. 나 심심해.;Let's go to the movies. I'm bored.
-76	to be hungry	배가 고프다	그 아이들은 항상 배가 고파 보인다.;The children always seem to be hungry.
+76	bored	심심하다	영화 보러 가자. 나 심심해.;Let's go to the movies. I'm bored.
+76	hungry	배가 고프다	그 아이들은 항상 배가 고파 보인다.;The children always seem to be hungry.
 76	to have a meal	식사하다	우리는 식사할 곳을 찾고 있었다.;We were looking for a place to eat.
 76	to make friends	친구를 만들다	당신이 많은 좋은 친구들을 만들 수 있길 희망합니다!;Hope you make many good friends!
 76	to run	달리다	그가 문 밖으로 달려 나갔다.;He ran out the door.
@@ -137,6 +137,26 @@
 77	salt	소금	소금과 후추로 양념을 하라.;Season with salt and pepper.
 77	soy sauce	간장	그 다음에 간장을 넣고.;Then you add the soy sauce.
 77	knife	칼	그것을 칼을 가지고 잘라라.;Cut it with a knife.
+77	daily life, routine	일상	틀에 박힌 내 일상의 중단.;A break in my daily routine
+77	swimming pool	수영장	그 호텔에 수영장이 있었니?;Was there a pool at the hotel?
+77	village	시골	그녀의 책은 시골 마을 생활에 대한 것이다.;Her books are about village life.
+77	town	마을	그 마을들은 버려져 있었다.;The villages had been deserted.
+77	maximum	최대	그것은 세계 최대 컴퓨터 회사이다.;It’s the world’s biggest computer company.;브라질은 세계 최대 커피 생산국이다.;Brazil is the world’s largest producer of coffee.
+77	healthy	건강하다	그는 나이에 비해 건강하다.;He's in good shape for his age.
+77	be fun	즐겁다	음악을 듣는 것은 즐겁다.;Music is pleasant to listen to.;그녀는 함께 있으면 정말 즐겁다.;She’s really fun to be with.
+77	to cough	기침을 하다	때론 감기에 걸기면 기침을 하기도 해요.;Sometimes you also cough when you have a cold.
+77	to get sick	병이 생기다	병은 잘 먹지 못해서 생기기도 한다.;Illness may come from a poor diet.
+77	to bring sth.	을/를 가져오다	올 때 잊지 말고 책을 가져 와.;Don’t forget to bring your books with you.
+77	to take away	가져 가다	그녀는 우유를 좀 가지러 갔다.;She’s gone for some milk.;그들이 배달하는 데 차를 가지고 갔다.;They took the car out for a run.
+77	to start sth.	을/를 시작하다	불꽃놀이는 언제 시작해요?;When do the fireworks start?
+77	to end sth.	을/를 끝내다	우리는 회의를 빨리 끝내버렸다.;We got the meeting over with quickly.
+80	a center	센터	데이케어 센터.;A day care centre.;시내의 쇼핑센터.;A downtown shopping plaza.
+80	content, material	내용	정보를 담은 책의 내용.;The informational content of a book.
+80	martial arts	무술	난 무술 영화 좋아해.;I like martial arts movies.
+80	(work, study, ...) hard	열심히	넌 더 열심히 해 봐야 해.;You must try harder.;그 애는 수업 시간에 열심히 공부한다.;She works hard in class.
+80	club	동호회	나는 인터넷 동호회를 만들었다.;I've made a club on the Internet.;그는 야구 동호회의 회원이다.;He is a member of the baseball club.
+80	to join sth. (e.g. a club)	에 가입하다	나는 헬스클럽에 가입한 지 얼마 안 된다.;I just joined a gym.;그는 외바퀴 자전거 클럽에 가입했다.;He joined a unicycling club.
+80	sth. is important	이/가 중요하다	당신이 거기 오는 것이 내게는 아주 중요해요.;It’s very important to me that you should be there.;네 생각도 역시 중요해.;Your feelings are important too.
 83	conversely, vice versa	반대로(도)	나는 그 이야기를 그 반대로 들었다;I heard the story the other way around.
 83	old times, past	옛날	내가 옛날엔 너의 아빠를 알았지.;I used to know your pa.
 83	opinion	의견	그래, 당신 의견은 어떤가요?;Well, what’s your verdict?;당신의 솔직한 의견을 말해 봐요.;Give me your honest opinion.
