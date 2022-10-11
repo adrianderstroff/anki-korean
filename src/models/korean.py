@@ -1,6 +1,6 @@
 from src.data import Data
 from src.type import Fields, Template, Model
-from src.util import create_id
+from src.util import create_id, wrap_template
 
 
 def create_fields() -> Fields:
@@ -116,11 +116,7 @@ def create_english_template() -> Template:
         <div class="examples">{{Sentences}}</div>
     """
 
-    return {
-        'name': 'English-Korean',
-        'qfmt': question_page,
-        'afmt': answer_page
-    }
+    return wrap_template('English-Korean', question_page, answer_page)
 
 
 def create_korean_template() -> Template:
@@ -135,11 +131,7 @@ def create_korean_template() -> Template:
         <div class="examples">{{Sentences}}</div>
     """
 
-    return {
-        'name': 'Korean-English',
-        'qfmt': question_page,
-        'afmt': answer_page
-    }
+    return wrap_template('Korean-English', question_page, answer_page)
 
 
 def check_data(data: Data):
@@ -189,7 +181,6 @@ def create_model() -> Model:
         'id': create_id('korean'),
         'gui_field': 1,
         'fields': create_fields(),
-        'column_indices': create_fields(),
         'css': create_css(),
         'template': [create_english_template(), create_korean_template()],
         'post_process': post_process

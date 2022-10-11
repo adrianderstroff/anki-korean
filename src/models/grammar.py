@@ -1,6 +1,6 @@
 from src.data import Data
 from src.type import Fields, Template, Media, Model
-from src.util import create_id
+from src.util import create_id, wrap_template
 
 
 def create_fields() -> Fields:
@@ -116,11 +116,7 @@ def create_template() -> Template:
         <div class="examples">{{Examples}}</div>
     """
 
-    return {
-        'name': 'Korean Grammar',
-        'qfmt': question_page,
-        'afmt': answer_page
-    }
+    return wrap_template('Korean Grammar', question_page, answer_page)
 
 
 def extract_examples(data: Data):

@@ -1,4 +1,4 @@
-from typing import Type, List, Dict, Any
+from typing import Type, List, Dict, Any, Tuple
 
 import dash
 
@@ -9,7 +9,7 @@ Content = Dict[str, Any]
 Template = Dict[str, str]
 Model = Dict[str, Any]
 Media = List[Dict[str, Any]]
-ModelDescription = (str, str, List[int], Model)
+ModelDescription = Tuple[str, str, List[int], Model]
 
 # preview related types
 ElementInstance = dash.development.base_component.Component

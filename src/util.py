@@ -5,7 +5,7 @@ from typing import List
 from anki import generate_deck
 from src.data import grab_data, Data
 from src.preview import show_card_preview
-from src.type import Model
+from src.type import Model, Template
 
 
 def extract_data(data_path: str, columns: List[int], model: Model) -> Data:
@@ -51,3 +51,11 @@ def create_id(name: str) -> int:
     numbers = result.hexdigest()
     numbers = sdbm_hash_string(numbers)
     return numbers
+
+
+def wrap_template(name: str, question: str, answer: str) -> Template:
+    return {
+        'name': name,
+        'qfmt': question,
+        'afmt': answer
+    }
