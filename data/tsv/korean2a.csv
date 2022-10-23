@@ -100,7 +100,7 @@
 75	writing, text, article	글	그 글은 25호에 실렸다.;The article appeared in issue 25.
 75	souvenir	기념품	관광객들이 기념품을 사고 있다.;The tourists are shopping for souvenirs.
 75	pronunciation	발음	당신은 발음이 아주 좋아요.;Your pronunciation is excellent.
-75	interest, attention	관심	난 운동에 관심 없다.;I’m not interested in sport.
+75	interest, attention	관심	난 운동에 관심 없다.;I’m not interested in sport.;나는 역사에 관심이 많다.;I’m very interested in history.
 75	dessert	디저트	디저트는 식후에 가져다 주세요.;Please bring my dessert after the meal.
 75	to find/look for	찾다	문제에 대한 답을 찾다.;Find an answer to the problem.
 75	to count	세다	1부터 10까지 세다.;To count from 1 to 10.
@@ -157,8 +157,34 @@
 80	club	동호회	나는 인터넷 동호회를 만들었다.;I've made a club on the Internet.;그는 야구 동호회의 회원이다.;He is a member of the baseball club.
 80	to join sth. (e.g. a club)	에 가입하다	나는 헬스클럽에 가입한 지 얼마 안 된다.;I just joined a gym.;그는 외바퀴 자전거 클럽에 가입했다.;He joined a unicycling club.
 80	sth. is important	이/가 중요하다	당신이 거기 오는 것이 내게는 아주 중요해요.;It’s very important to me that you should be there.;네 생각도 역시 중요해.;Your feelings are important too.
+81	employee	직원	그녀는 일을 잘하는 직원이다.;She is a good employee.
+81	building	건물	이 건물은 정부 재산이다.;This building is government property.
+81	dialect	사투리	모두가 내 사투리를 놀린다.;Everyone makes fun of my dialect.
+81	tax, dues	회비	회비는 일 년에 2만 원이다.;Membership fee is 20 thousand won per year.
+81	comment	댓글	나는 댓글을 달 수 없어.;I am unable to post comments.
+81	training	훈련	그는 올림픽 팀을 훈련시킨다.;He trains the Olympic team.
+81	experience	경험	우리는 모두 경험을 통해 배운다.;We all learn by experience.
+81	almost, nearly	거의	그 병은 거의 비어 있다.;The bottle’s nearly empty.
+81	close, near	가깝다	그의 집은 아주 가깝다.;His house is very near.;내 생일은 크리스마스와 아주 가깝다.;My birthday is very near Christmas.
+81	afoot	걸어서	나는 걸어서 학교에 가다.;I go to school on foot.
+81	to quit, stop, discontinue	그만두다	그만두고 싶으면 당장 그만둬.;If you want to quit, quit right now.
+81	to participate	참여하다	이 토론에 참여 해주셔서 감사합니다.;Thank you for joining this talk.
+81	to improve	개선하다	그녀의 컴퓨터 성능을 개선하기.;Improve her computer’s performance.
+82	conference	컨퍼런스	그건 3층 컨퍼런스 룸에서 있어요.;It's in the third floor conference room.
+82	to hold a conference	컨퍼런스 하다	그는 비즈니스 컨퍼런스에 참석하고 있었어요.;He was attending a business conference.
+82	boss, superior	상사	그녀는 (직장) 상사와 달아났다.;She ran away with her boss.
+82	cloud	구름	해가 구름 뒤로 들어갔다.;The sun went behind a cloud.
+82	to be interested in	에 관심이 많다	나 이것에 관심이 많아.;I am so interested in this.;나는 너에 대해 관심이 많다.;I'm very interested in you.
+82	to understand	이해하다	제 입장도 이해해 주세요.;Try to understand my side of things, please.;제 선생님은 절 이해해 주세요.;My teacher understands me.
+82	thing	물건	내 물건들이 다 어디 갔지?;Where's all my stuff?
+82	a long ago	옛날	우리는 옛날부터 그를 알았다.;We know him of old.;내가 옛날엔 너의 아빠를 알았지.;I used to know your pa.
+82	oven	오븐	그후에 그것을 오븐에 넣으세요.;Afterwards, put it in the oven.;파이는 오븐 속에 들어 있다.;The pie is in the oven.
+82	housewarming party	집들이 파티	그 남자는 집들이 파티를 토요일에 할 것이다.;The man's housewarming party will be held on Saturday.
+82	noisy	시끄럽다	이 사무실은 아주 시끄럽다.;It's very noisy in this office.;음악은 시끄러울 수 있다.;Music can be loud.
+82	be full (belly)	배가 부르다	너무 배 불러요.;I'm so full.;배가 부르면 적게 먹는다.;When you feel full, you eat less.
+82	head office, headquarter	본사	그 회사의 본사는 런던에 있다.;The firm's headquarters are in London.;그 회사는 서울에 본사가 있다.;The company is headquartered in Seoul.
+82	to improve	을/를 개선하다	지역의 공공 서비스를 개선하다.;To improve public services in the area.;그녀의 컴퓨터 성능을 개선하기.;Improve her computer's performance.
 83	conversely, vice versa	반대로(도)	나는 그 이야기를 그 반대로 들었다;I heard the story the other way around.
-83	old times, past	옛날	내가 옛날엔 너의 아빠를 알았지.;I used to know your pa.
 83	opinion	의견	그래, 당신 의견은 어떤가요?;Well, what’s your verdict?;당신의 솔직한 의견을 말해 봐요.;Give me your honest opinion.
 83	floor, bottom	바닥	바닥 위로 물이 철벅 떨어졌다.;Water splashed onto the floor.
 83	theater	연극	나는 연극 분야에서 일하고 싶다.;I want to work in theatre.
