@@ -3,7 +3,7 @@ import re
 from typing import Type, Dict, List, Any
 
 import dash
-import dash_dangerously_set_inner_html
+import dash_dangerously_set_inner_html #pip install dash-dangerously-set-inner-html
 from dash import Dash, html, dcc, Output, Input, State
 
 from src.data import Data
