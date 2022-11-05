@@ -21,15 +21,21 @@ def grammar_model() -> ModelDescription:
     return csv_path, deck_title, columns, model
 
 
-def generate_and_preview(model_func: Callable[[], ModelDescription], show_preview: bool = False):
+def generate_and_preview(model_func: Callable[[], ModelDescription], show_preview: bool = False,
+                         vocab_range: List[int] = [0, -1]):
     csv_path, deck_title, columns, model = model_func()
 
     data = extract_data(csv_path, columns, model)
     generate(data, csv_path, deck_title, model)
+
     if show_preview:
+        # slice data if necessary
+        vocab_range[1] = len(data) if vocab_range[1] == -1 else vocab_range[1]
+        data = data[vocab_range[0]:vocab_range[1]]
+
         preview(data, model)
 
 
 if __name__ == '__main__':
-    generate_and_preview(grammar_model)
-    generate_and_preview(vocab_model, True)
+    generate_and_preview(vocab_model)
+    generate_and_preview(grammar_model, True, vocab_range=[0, 10])
