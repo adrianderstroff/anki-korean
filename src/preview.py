@@ -236,4 +236,4 @@ def show_card_preview(data: Data, deck_name: str, fields: Fields, template: Temp
         title = 'SHOW ANSWER' if show_front else 'NEXT CARD'
         return card, deck_name, not show_front, title
 
-    app.run_server(debug=True)
+    app.run_server(debug=True, use_reloader=False)
