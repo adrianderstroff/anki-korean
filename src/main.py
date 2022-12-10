@@ -6,7 +6,7 @@ from src.util import generate, preview, extract_data
 
 
 def vocab_model() -> ModelDescription:
-    csv_path = "../data/tsv/korean2a.csv"
+    csv_path = "../data/tsv/korean2a.tsv"
     deck_title = "Korean Vocab 2A"
     columns = [1, 2, 3]
     model = korean.create_model()
