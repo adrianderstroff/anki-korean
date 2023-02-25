@@ -9,8 +9,10 @@ from src.type import Model, Template
 
 
 def extract_data(data_path: str, columns: List[int], model: Model) -> Data:
+    print(' ├── Grab Data')
     data = grab_data(data_path, columns, delimiter='\t')
     if 'post_process' in model:
+        print(' ├── Perform Post Processing')
         model['post_process'](data)
     return data
 
@@ -27,8 +29,7 @@ def generate(data: Data, data_path: str, title: str, model: Model):
         deck_id=create_id(title),
         model=model
     )
-
-    print(f'Generated "{title}" at {out_path}')
+    # print(f'Generated "{title}" at {out_path}')
 
 
 def preview(data: Data, model: Model, card_idx: int = -1):

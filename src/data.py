@@ -1,5 +1,6 @@
 import csv
 from typing import List
+from colorama import Fore, Style
 
 
 Data = List[List[str]]
@@ -21,7 +22,7 @@ def grab_data(file_path: str, column_indices: List[int], delimiter: str = ";", s
                         entries.append(row[idx])
                     data.append(entries)
                 except Exception as err:
-                    print(err)
+                    print(f'{Fore.RED} ├──── [Line {i+1}] {row}: {err}{Style.RESET_ALL}')
             i += 1
 
     return data

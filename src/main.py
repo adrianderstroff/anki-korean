@@ -24,9 +24,13 @@ def grammar_model() -> ModelDescription:
 def generate_and_preview(model_func: Callable[[], ModelDescription], show_preview: bool = False,
                          vocab_range: List[int] = [0, -1]):
     csv_path, deck_title, columns, model = model_func()
+    print(f'[ Generating {deck_title} ]')
 
+    print(' ├ Extracting Data')
     data = extract_data(csv_path, columns, model)
+    print(' ├ Generating Anki Deck')
     generate(data, csv_path, deck_title, model)
+    print(' └ DONE')
 
     if show_preview:
         # slice data if necessary

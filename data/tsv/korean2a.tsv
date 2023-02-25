@@ -355,7 +355,7 @@
 100	technology	기술	새로운 과학 기술들의 부상.;The rise of new technologies.
 100	stationer (Schreibwaren)	문구	이 근처에 문구점이 있나요?;Is there a stationery store near here?
 100	illness	병	그 병의 빠른 진행.;The rapid progression of the disease.
-100	to withdraw money	돈을 찾으러 은행에 가야 한다.;I have to go to the bank to get some money.
+100	to withdraw money	돈을 찾다	돈을 찾으러 은행에 가야 한다.;I have to go to the bank to get some money.
 100	store, shop	상점	나는 거의 매일 그 상점에 간다.;I go to the store most every day.
 100	shelf	선반	그 선반은 너무 높다.;The shelf is too high.
 100	package, parcel	꾸러미	그 꾸러미에는 설명서가 들어 있다.;The package contains instructions.
@@ -368,3 +368,17 @@
 100	to let deliver sth.	-을/를 배달 시키다	배달 좀 시켜줄래?;Can you do some delivery?
 100	to fall down sth.	-에서 넘어지다	계단에서 넘어지다.;To fall down the stairs.
 100	to excuse	실례하다	실례지만, 지금 몇 시예요?;Excuse me, what time is it?
+101	과거형	past tense	take의 과거형은 took이다.;The past tense of 'take' is 'took'.
+101	현재형	present tense	'are'는 동사 'be'의 이인칭 현재형이다.;The word 'are' is the second person present tense of the verb 'be'.
+101	미래형	future tense	저는 이것이 바로 미래형 커뮤니케이션 기법이라고 봅니다.;I see this as a futuristic communication technique.
+101	화나다	angry	그는 아직도 화나 있다.;He is still angry.
+101	지루하다	boring	나는 쉽게 지루해 한다.;I get bored easily.
+101	강하다	strong	당신에 대한 내 사랑은 너무도 강해요.;The feeling that I have for you is so strong.
+101	약하다	weak	그는 언제나 약해 보인다.;She looks always weekly.
+101	페이지	page	이 페이지는 자동 재생된다.;The page refreshes automatically.
+101	계속	continuation, to continue, continuous	월요일부터 금요일까지 계속 일했어요.;I worked continuously from Monday to Friday.
+101	가격	price, pricing	기차표의 가격이 얼마정도예요?;How much is the train ticket?
+101	문어	octopus	문어 몸에는 뼈가 없다.;There are no bones in the body of an octopus.
+101	상어	shark	나는 상어를 보려고 철창 상자 다이빙을 했다.;I went cage diving to see sharks.
+101	직원	staff	우리는 직원 채용에 애를 먹고 있다.;We are struggling to recruit staff.
+101	입장료	entrance fee	그 미술관에는 입장료가 없다.;There is no entrance fee to the gallery.
