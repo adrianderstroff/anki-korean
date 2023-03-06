@@ -382,29 +382,29 @@
 101	상어	shark	나는 상어를 보려고 철창 상자 다이빙을 했다.;I went cage diving to see sharks.
 101	직원	staff	우리는 직원 채용에 애를 먹고 있다.;We are struggling to recruit staff.
 101	입장료	entrance fee	그 미술관에는 입장료가 없다.;There is no entrance fee to the gallery.
-102 수영복	swimsuit	그들은 수영복을 입고 있다.;They are wearing swimsuits.
-102 저번	last time	난 그것을 저번에 보았다.;I was it last time.;우리는 저번 여름에 만났어.;We met last August.
-102 교환학생	exchange student	제 친척이 교환학생으로 서울에 갔어요.;A relative of mine went to Seoul as an exchange student.
-102 유학생	foreign student	독일에 대학원생 유학생이 많아요.;There are many graduate students studying abroad in Germany.
-102 인상적이다	impressive	그 공연은 아주 인상적이었다.;That performance was impressive.;뮌스터의 첫인상은 베를린보다 좋았어요?;Was your first impression of Münster better than Berlin?
-102 지도	map	탁자 위에 지도를 펴라.;Open the map on the table.
-102 역사	history	나는 역사에 관심이 많다.;I'm very interested in history.
-102 팔다	to sell	나는 플레이스테이션5를 그에게 팔아요.;I sell my PlayStation 5 to him.
-102 문제	problem, question	3번 문제는 아주 어려웠다.;Question 3 was very difficult.;문제가 있어요.;I have a problem.
-102 속담	proverb	(속담:)좋은 약은 입에 쓰다.;Good medicine is bitter in the mouth.
-102 나이가 많다	old (people)	매 파티 후에 아주 피곤해서 나는 나이가 많게 느껴요.;I feel old because I'm so tired after every party.
-102 오래되다	old (things)	오래된 사진을 책 안에서 찾았어요.;I found an old photo in a book.;집에 오래된 책이 있어요? 50년 이상 된 책도 있어요?;Do you have old books at home? Are there any books that are over 50 years old?
-102 고객	customer	고객들이 커피숍에 빨리 갔다와요.;Customers go the the coffee shop quickly.
-102 서양	western	동양과 서양 문화 사이에는 차이가 있다.;There is a difference between Eastern and Western cultures.
-102 동양	eastern	동양 음식 아주 맛있어요.;Oriental food is very delicious
-102 면도하다	to shave	그는 스스로 머리카락을 면도했어요.;He shaved his hair himself.
-102 이상하다	weird, strange	그녀 농담이 아주 웃겨요.;Her jokes are very funny.;어제 웃긴 영화를 보고 많이 웃었어요.;I watched a funny movie yesterday and laughed a lot.
-102 돈을 찾다	to withdraw money	독일에서 현금으로 지불해서 매주 돈을 찾아요.;I pay in cash in Germany and withdraw money every week.
-102 현금	cash    독일에서 현금으로 지불해서 매주 현금을 찾아요.;I pay in cash in Germany and withdraw cash every week.
-102 N 사이에서	among N	우리 가족들 사이에서 남자 세 명이 있어요.;There are three men in (among) my family.
-102 세상에(서)	omg, in the world (with 서)
-102 최근에	recently	저는 최근에 담배를 피우는 것을 그만뒀어요.;I recently stopped smoking.
-102 코피가 나다	to have nose bleeding	최근 많은 코피가 나요.;I have had a lot of nosebleeds lately.
-102 카페	café	우리는 싸고 좋은 카페를 찾았다.;We found a cheap and cheerful café.
-102 웃다	to laugh	어제 웃긴 영화를 보고 많이 웃었어요.;I watched a funny movie yesterday and laughed a lot.
-102 농담	a joke	그녀 농담이 아주 웃겨요.;Her jokes are very funny.
+102	수영복	swimsuit	그들은 수영복을 입고 있다.;They are wearing swimsuits.
+102	저번	last time	난 그것을 저번에 보았다.;I was it last time.;우리는 저번 여름에 만났어.;We met last August.
+102	교환학생	exchange student	제 친척이 교환학생으로 서울에 갔어요.;A relative of mine went to Seoul as an exchange student.
+102	유학생	foreign student	독일에 대학원생 유학생이 많아요.;There are many graduate students studying abroad in Germany.
+102	인상적이다	impressive	그 공연은 아주 인상적이었다.;That performance was impressive.;뮌스터의 첫인상은 베를린보다 좋았어요?;Was your first impression of Münster better than Berlin?
+102	지도	map	탁자 위에 지도를 펴라.;Open the map on the table.
+102	역사	history	나는 역사에 관심이 많다.;I'm very interested in history.
+102	팔다	to sell	나는 플레이스테이션5를 그에게 팔아요.;I sell my PlayStation 5 to him.
+102	문제	problem, question	3번 문제는 아주 어려웠다.;Question 3 was very difficult.;문제가 있어요.;I have a problem.
+102	속담	proverb	(속담:)좋은 약은 입에 쓰다.;Good medicine is bitter in the mouth.
+102	나이가 많다	old (people)	매 파티 후에 아주 피곤해서 나는 나이가 많게 느껴요.;I feel old because I'm so tired after every party.
+102	오래되다	old (things)	오래된 사진을 책 안에서 찾았어요.;I found an old photo in a book.;집에 오래된 책이 있어요? 50년 이상 된 책도 있어요?;Do you have old books at home? Are there any books that are over 50 years old?
+102	고객	customer	고객들이 커피숍에 빨리 갔다와요.;Customers go the the coffee shop quickly.
+102	서양	western	동양과 서양 문화 사이에는 차이가 있다.;There is a difference between Eastern and Western cultures.
+102	동양	eastern	동양 음식 아주 맛있어요.;Oriental food is very delicious
+102	면도하다	to shave	그는 스스로 머리카락을 면도했어요.;He shaved his hair himself.
+102	이상하다	weird, strange	그녀 농담이 아주 웃겨요.;Her jokes are very funny.;어제 웃긴 영화를 보고 많이 웃었어요.;I watched a funny movie yesterday and laughed a lot.
+102	돈을 찾다	to withdraw money	독일에서 현금으로 지불해서 매주 돈을 찾아요.;I pay in cash in Germany and withdraw money every week.
+102	현금	cash	독일에서 현금으로 지불해서 매주 현금을 찾아요.;I pay in cash in Germany and withdraw cash every week.
+102	N 사이에서	among N	우리 가족들 사이에서 남자 세 명이 있어요.;There are three men in (among) my family.
+102	세상에(서)	omg, in the world (with 서)	이런 세상에! 시간 좀 봐!;My goodness! Look at the time!;세상에서 가장 운 좋은 놈이야.;He's the luckiest guy in the world.
+102	최근에	recently	저는 최근에 담배를 피우는 것을 그만뒀어요.;I recently stopped smoking.
+102	코피가 나다	to have nose bleeding	최근 많은 코피가 나요.;I have had a lot of nosebleeds lately.
+102	카페	café	우리는 싸고 좋은 카페를 찾았다.;We found a cheap and cheerful café.
+102	웃다	to laugh	어제 웃긴 영화를 보고 많이 웃었어요.;I watched a funny movie yesterday and laughed a lot.
+102	농담	a joke	그녀 농담이 아주 웃겨요.;Her jokes are very funny.
