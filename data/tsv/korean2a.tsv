@@ -131,7 +131,7 @@
 77	broccoli	브로콜리	브로콜리 샀어요?;Did you get the broccoli?
 77	carrot	당근	당근을 먹을 수 없습니다.;I can't eat carrots.
 77	salad	샐러드	남자가 샐러드를 담고 있다.;The man is getting a salad.
-77	onion	양파	양파를 버터에 볶아라.;Fry the onions in butter.
+77	onion	양파	양파를 버터에 볶아라.;Fry the onions in butter.;양파를 썰어요.;To chop onions.
 77	egg	계란	나는 계란 한 꾸러미를 샀다.;I bought a dozen eggs.
 77	sugar	설탕	내 커피에 설탕 넣었니?;Did you put sugar in my coffee?
 77	salt	소금	소금과 후추로 양념을 하라.;Season with salt and pepper.
@@ -413,3 +413,23 @@
 103	to help	도와주다	아무도 나를 도와줄 수 없어요.;Nobody can help me.
 103	to happen, to wake up	일어나다	그것은 아무에게나 일어날 수 있어.;This can happen to anyone.
 103	somewhere like X	X 같은 곳	뮌스터 같은 곳을 아무 데도 없어요.;There is nowhere like Münster.
+104	to cut/chop	을/를 썰다/다지다	양파를 썰어요.;To chop onions.
+104	french fries	감자튀김	나는 감자 튀김을 좋아한다.;I like french fries.
+104	pepper	후추	소금과 후추로 양념을 해요.;Season with salt and pepper.
+104	fridge	냉장고	다진 마늘이 냉장고에 있어요?;Is the minced garlic in the fridge?
+104	to sprinkle	-을/를 (-에) 뿌리다	후추를 수프에 뿌려요.;Sprinkle the pepper over the soup.;소금을 음식에 뿌려요.;Sprinkle salt over the food.
+104	to boil	-을/를 끓이다	물을 끓여요.;To boil water.;면을 요리할 때 물을 끓여요.;Boil water while cooking noodles.
+104	to fry	-을/를 굽다	소시지와 고기를 구워요.;Fry sausage and meat.;베이컨 굽는 냄새.;The smell of frying bacon.
+104	to fry (with much sauce)	-을/를 볶다	양파를 버터에 볶아라.;Fry onions in butter.
+104	to pour	-을/를 -에 붓다	계란을 프라이팬에 부어요.;Pour eggs in the frying pan.;소스를 샐러드에 부어요.;Pour sauce over the salad.
+104	to bake	-을/를 (오븐)에 굽다	오븐에 감자튀김을 구워요.;Bake french fries in the oven.;계란을 구워요.;To bake an egg.
+104	to deep fry (in oil)	-을/를 (기름)에 튀기다	감자를 울리브 기름에 튀겨요.;Fry potatoes in olive oil.;튀김기가 집에 없어요.;I don't have a deep fryer at home.
+104	to peel	N 껍질을 벗기다	바나나 껍질을 벗기다.;To peel a banana.
+104	to spread (on)	-을/를 -에 바르다	버터를 빵에 발라요.;To spread the butter on the bread.
+104	to taste	-의 맛을 보다	샐러드의 맛을 보다.;To taste salad.
+104	smell, scent	냄새	빵 굽는 맛있는 냄새.;The delicious smell of baking bread.
+104	fresh	신선하다	이 우유는 신선한가요?;Is this milk fresh?
+104	recipe	요리법	당신 이 요리법 한번 시도해 봐요.;You should try this recipe.
+104	(uncooked) noodles	면	나는 면 종류는 다 좋아한다.;I like all kinds of noodles.
+104	(cooked) noodles	국수	밥으로 하시겠어요 국수로 하시겠어요?;Would you prefer rice or noodles?
+104	oil	기름	기름과 물은 섞이지 않아요.;Oil and water don't mix.
