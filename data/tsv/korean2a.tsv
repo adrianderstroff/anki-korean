@@ -37,7 +37,7 @@
 71	before	전에	두 달 전에;two months ago
 71	after	후에	오늘 방과 후에 만날까?;Shall I meet you after school today?
 71	all	모두	우리는 모두 잘 지내요.;We are all doing well.
-71	to laugh, to smile	웃다	그 여자는 울다 웃다 했다.;The woman cried and laughed.
+71	to laugh, to smile	웃다	그 여자는 울다 웃다 했다.;The woman cried and laughed.;어제 웃긴 영화를 보고 많이 웃었어요.;I watched a funny movie yesterday and laughed a lot.
 71	to make a presentation	발표를 하다	언제 발표를 해볼까?;When do you want to present?
 71	to do a presentation on sth	에 대해(서) 발표하다	-;-
 72	flower	꽃	이 꽃 이름 아니?;Do you know the name of this flower?
@@ -169,7 +169,7 @@
 80	club	동호회	나는 인터넷 동호회를 만들었다.;I've made a club on the Internet.;그는 야구 동호회의 회원이다.;He is a member of the baseball club.
 80	to join sth. (e.g. a club)	에 가입하다	나는 헬스클럽에 가입한 지 얼마 안 된다.;I just joined a gym.;그는 외바퀴 자전거 클럽에 가입했다.;He joined a unicycling club.
 80	sth. is important	이/가 중요하다	당신이 거기 오는 것이 내게는 아주 중요해요.;It’s very important to me that you should be there.;네 생각도 역시 중요해.;Your feelings are important too.
-81	employee	직원	그녀는 일을 잘하는 직원이다.;She is a good employee.
+81	employee, staff	직원	그녀는 일을 잘하는 직원이다.;She is a good employee.;우리는 직원 채용에 애를 먹고 있다.;We are struggling to recruit staff.
 81	building	건물	이 건물은 정부 재산이다.;This building is government property.
 81	dialect	사투리	모두가 내 사투리를 놀린다.;Everyone makes fun of my dialect.
 81	tax, dues	회비	회비는 일 년에 2만 원이다.;Membership fee is 20 thousand won per year.
@@ -254,7 +254,7 @@
 89	the week after next	다다음 주	다다음주에 만나자.;Let's meet the week after next.
 89	the day after tomorrow	내일 모레	내일 모레란 말이죠?;You mean the day after tomorrow?
 89	salty	짜요	하지만 바닷물은 항상 짜요.;But the water in the sea is always salty.
-89	impressive	인상적이다	그 공연은 아주 인상적이었다.;That performance was pretty impressive.
+89	impressive	인상적이다	그 공연은 아주 인상적이었다.;That performance was pretty impressive.;뮌스터의 첫인상은 베를린보다 좋았어요?;Was your first impression of Münster better than Berlin?
 89	first impression	첫인상	첫 인상이 제일 중요합니다.;The first impression is most important.
 90	improve, get better	나아지다	버스로 가는 게 나을 것이다.;You'd be better going by bus.;김의 독일어가 빨리빨리 나아져요.;Kim's German is improving quickly.
 90	to talk about	에 대해서 얘기하다	나는 너에 대해서 얘기하고 싶어.; I want to talk about you.
@@ -350,7 +350,7 @@
 100	classroom	교실	어떤 학생도 교실을 나갈 수 없다.;No student may leave the classroom.
 100	toilet, bathroom	화장실	나 화장실 좀 가야겠어.;I need to go to the bathroom.
 100	translation	번역	그 텍스트에 대한 자유로운 번역.;A free translation of the text.
-100	weird, strange	이상하다	너는 그 사람이 이상해 보이지 않니?;Don't you think he looks weird?
+100	weird, strange	이상하다	너는 그 사람이 이상해 보이지 않니?;Don't you think he looks weird?;그녀 농담이 아주 웃겨요.;Her jokes are very funny.;어제 웃긴 영화를 보고 많이 웃었어요.;I watched a funny movie yesterday and laughed a lot.
 100	to break up	헤어지다	우리 부모님은 작년에 헤어지셨다.;My parents separated last year.
 100	technology	기술	새로운 과학 기술들의 부상.;The rise of new technologies.
 100	stationer (Schreibwaren)	문구	이 근처에 문구점이 있나요?;Is there a stationery store near here?
@@ -368,54 +368,48 @@
 100	to let deliver sth.	-을/를 배달 시키다	배달 좀 시켜줄래?;Can you do some delivery?
 100	to fall down sth.	-에서 넘어지다	계단에서 넘어지다.;To fall down the stairs.
 100	to excuse	실례하다	실례지만, 지금 몇 시예요?;Excuse me, what time is it?
-101	과거형	past tense	take의 과거형은 took이다.;The past tense of 'take' is 'took'.
-101	현재형	present tense	'are'는 동사 'be'의 이인칭 현재형이다.;The word 'are' is the second person present tense of the verb 'be'.
-101	미래형	future tense	저는 이것이 바로 미래형 커뮤니케이션 기법이라고 봅니다.;I see this as a futuristic communication technique.
-101	화나다	angry	그는 아직도 화나 있다.;He is still angry.
-101	지루하다	boring	나는 쉽게 지루해 한다.;I get bored easily.
-101	강하다	strong	당신에 대한 내 사랑은 너무도 강해요.;The feeling that I have for you is so strong.
-101	약하다	weak	그는 언제나 약해 보인다.;She looks always weekly.
-101	페이지	page	이 페이지는 자동 재생된다.;The page refreshes automatically.
-101	계속	continuation, to continue, continuous	월요일부터 금요일까지 계속 일했어요.;I worked continuously from Monday to Friday.
-101	가격	price, pricing	기차표의 가격이 얼마정도예요?;How much is the train ticket?
-101	문어	octopus	문어 몸에는 뼈가 없다.;There are no bones in the body of an octopus.
-101	상어	shark	나는 상어를 보려고 철창 상자 다이빙을 했다.;I went cage diving to see sharks.
-101	직원	staff	우리는 직원 채용에 애를 먹고 있다.;We are struggling to recruit staff.
-101	입장료	entrance fee	그 미술관에는 입장료가 없다.;There is no entrance fee to the gallery.
-102	수영복	swimsuit	그들은 수영복을 입고 있다.;They are wearing swimsuits.
-102	저번	last time	난 그것을 저번에 보았다.;I was it last time.;우리는 저번 여름에 만났어.;We met last August.
-102	교환학생	exchange student	제 친척이 교환학생으로 서울에 갔어요.;A relative of mine went to Seoul as an exchange student.
-102	유학생	foreign student	독일에 대학원생 유학생이 많아요.;There are many graduate students studying abroad in Germany.
-102	인상적이다	impressive	그 공연은 아주 인상적이었다.;That performance was impressive.;뮌스터의 첫인상은 베를린보다 좋았어요?;Was your first impression of Münster better than Berlin?
-102	지도	map	탁자 위에 지도를 펴라.;Open the map on the table.
-102	역사	history	나는 역사에 관심이 많다.;I'm very interested in history.
-102	팔다	to sell	나는 플레이스테이션5를 그에게 팔아요.;I sell my PlayStation 5 to him.
-102	문제	problem, question	3번 문제는 아주 어려웠다.;Question 3 was very difficult.;문제가 있어요.;I have a problem.
-102	속담	proverb	(속담:)좋은 약은 입에 쓰다.;Good medicine is bitter in the mouth.
-102	나이가 많다	old (people)	매 파티 후에 아주 피곤해서 나는 나이가 많게 느껴요.;I feel old because I'm so tired after every party.
-102	오래되다	old (things)	오래된 사진을 책 안에서 찾았어요.;I found an old photo in a book.;집에 오래된 책이 있어요? 50년 이상 된 책도 있어요?;Do you have old books at home? Are there any books that are over 50 years old?
-102	고객	customer	고객들이 커피숍에 빨리 갔다와요.;Customers go the the coffee shop quickly.
-102	서양	western	동양과 서양 문화 사이에는 차이가 있다.;There is a difference between Eastern and Western cultures.
-102	동양	eastern	동양 음식 아주 맛있어요.;Oriental food is very delicious
-102	면도하다	to shave	그는 스스로 머리카락을 면도했어요.;He shaved his hair himself.
-102	이상하다	weird, strange	그녀 농담이 아주 웃겨요.;Her jokes are very funny.;어제 웃긴 영화를 보고 많이 웃었어요.;I watched a funny movie yesterday and laughed a lot.
-102	돈을 찾다	to withdraw money	독일에서 현금으로 지불해서 매주 돈을 찾아요.;I pay in cash in Germany and withdraw money every week.
-102	현금	cash	독일에서 현금으로 지불해서 매주 현금을 찾아요.;I pay in cash in Germany and withdraw cash every week.
-102	N 사이에서	among N	우리 가족들 사이에서 남자 세 명이 있어요.;There are three men in (among) my family.
-102	세상에(서)	omg, in the world (with 서)	이런 세상에! 시간 좀 봐!;My goodness! Look at the time!;세상에서 가장 운 좋은 놈이야.;He's the luckiest guy in the world.
-102	최근에	recently	저는 최근에 담배를 피우는 것을 그만뒀어요.;I recently stopped smoking.
-102	코피가 나다	to have nose bleeding	최근 많은 코피가 나요.;I have had a lot of nosebleeds lately.
-102	카페	café	우리는 싸고 좋은 카페를 찾았다.;We found a cheap and cheerful café.
-102	웃다	to laugh	어제 웃긴 영화를 보고 많이 웃었어요.;I watched a funny movie yesterday and laughed a lot.
-102	농담	a joke	그녀 농담이 아주 웃겨요.;Her jokes are very funny.
-103	-하고 연락하다	to make contact with    아무하고나 연락해요.;To make contact with anyone.
-103	-에게 말하다	to tell 아무도에게 말하지 마세요.;Please don't tell anyone.
-103	-에게 사과하다	to apologize    왜 내가 사과해야 돼?;Why should I apologize?
-103	도착하다	to arrive   늦어도 8시까지는 도착해 주세요.;Please arrive no later than 8o'clock.
-103	아직	yet, still 난 아직 가방을 다 못 꾸렸어.;I haven't packed my suitcase yet.;엄마, 나 아직 배고파요!;Mum I'm still hungry.
-103	방문하다	to visit    이번 봄에 진해를 방문해요!;Let's visit Jinhae this spring.
-103 지하철 subway, metro   우리는 지하철을 타고 왔다.;We came by metro.
-103 그럼요 sure (strong affirmation)   “여기 앉아도 될까요?” “그럼요, 앉으세요.”;May I sit here? Sure with pleasure!
-103 지나다 to pass by, to go past  약속 시간이 지났는데 아무도 안 왔어요?;It's past the appointed time. Has nobody come?
-103 도와주다    to help 아무도 나를 도와줄 수 없어요.;Nobody can help me.
-103 일어나다    to happen, to wake up   그것은 아무에게나 일어날 수 있어.;This can happen to anyone.
+101	past tense	과거형	take의 과거형은 took이다.;The past tense of 'take' is 'took'.
+101	present tense	현재형	'are'는 동사 'be'의 이인칭 현재형이다.;The word 'are' is the second person present tense of the verb 'be'.
+101	future tense	미래형	저는 이것이 바로 미래형 커뮤니케이션 기법이라고 봅니다.;I see this as a futuristic communication technique.
+101	angry	화나다	그는 아직도 화나 있다.;He is still angry.
+101	boring	지루하다	나는 쉽게 지루해 한다.;I get bored easily.
+101	strong	강하다	당신에 대한 내 사랑은 너무도 강해요.;The feeling that I have for you is so strong.
+101	weak	약하다	그는 언제나 약해 보인다.;She looks always weekly.
+101	page	페이지	이 페이지는 자동 재생된다.;The page refreshes automatically.
+101	continuation, to continue, continuous	계속	월요일부터 금요일까지 계속 일했어요.;I worked continuously from Monday to Friday.
+101	price, pricing	가격	기차표의 가격이 얼마정도예요?;How much is the train ticket?
+101	octopus	문어	문어 몸에는 뼈가 없다.;There are no bones in the body of an octopus.
+101	shark	상어	나는 상어를 보려고 철창 상자 다이빙을 했다.;I went cage diving to see sharks.
+101	entrance fee	입장료	그 미술관에는 입장료가 없다.;There is no entrance fee to the gallery.
+102	swimsuit	수영복	그들은 수영복을 입고 있다.;They are wearing swimsuits.
+102	last time	저번	난 그것을 저번에 보았다.;I was it last time.;우리는 저번 여름에 만났어.;We met last August.
+102	exchange student	교환학생	제 친척이 교환학생으로 서울에 갔어요.;A relative of mine went to Seoul as an exchange student.
+102	foreign student	유학생	독일에 대학원생 유학생이 많아요.;There are many graduate students studying abroad in Germany.
+102	map	지도	탁자 위에 지도를 펴라.;Open the map on the table.
+102	to sell	팔다	나는 플레이스테이션5를 그에게 팔아요.;I sell my PlayStation 5 to him.
+102	problem, question	문제	3번 문제는 아주 어려웠다.;Question 3 was very difficult.;문제가 있어요.;I have a problem.
+102	proverb	속담	(속담:)좋은 약은 입에 쓰다.;Good medicine is bitter in the mouth.
+102	old (people)	나이가 많다	매 파티 후에 아주 피곤해서 나는 나이가 많게 느껴요.;I feel old because I'm so tired after every party.
+102	old (things)	오래되다	오래된 사진을 책 안에서 찾았어요.;I found an old photo in a book.;집에 오래된 책이 있어요? 50년 이상 된 책도 있어요?;Do you have old books at home? Are there any books that are over 50 years old?
+102	customer	고객	고객들이 커피숍에 빨리 갔다와요.;Customers go the the coffee shop quickly.
+102	western	서양	동양과 서양 문화 사이에는 차이가 있다.;There is a difference between Eastern and Western cultures.
+102	eastern	동양	동양 음식 아주 맛있어요.;Oriental food is very delicious
+102	to shave	면도하다	그는 스스로 머리카락을 면도했어요.;He shaved his hair himself.
+102	among N	N 사이에서	우리 가족들 사이에서 남자 세 명이 있어요.;There are three men in (among) my family.
+102	omg, in the world (with 서)	세상에(서)	이런 세상에! 시간 좀 봐!;My goodness! Look at the time!;세상에서 가장 운 좋은 놈이야.;He's the luckiest guy in the world.
+102	recently	최근에	저는 최근에 담배를 피우는 것을 그만뒀어요.;I recently stopped smoking.
+102	to have nose bleeding	코피가 나다	최근 많은 코피가 나요.;I have had a lot of nosebleeds lately.
+102	café	카페	우리는 싸고 좋은 카페를 찾았다.;We found a cheap and cheerful café.
+102	a joke	농담	그녀 농담이 아주 웃겨요.;Her jokes are very funny.
+103	to make contact with	-하고 연락하다	아무하고나 연락해요.;To make contact with anyone.
+103	to tell	-에게 말하다	아무도에게 말하지 마세요.;Please don't tell anyone.
+103	to apologize	-에게 사과하다	왜 내가 사과해야 돼?;Why should I apologize?
+103	to arrive	도착하다	늦어도 8시까지는 도착해 주세요.;Please arrive no later than 8o'clock.
+103	yet, still	아직	난 아직 가방을 다 못 꾸렸어.;I haven't packed my suitcase yet.;엄마, 나 아직 배고파요!;Mum I'm still hungry.
+103	to visit	방문하다	이번 봄에 진해를 방문해요!;Let's visit Jinhae this spring.
+103	subway, metro	지하철	우리는 지하철을 타고 왔다.;We came by metro.
+103	sure (strong affirmation)	그럼요	“여기 앉아도 될까요?” “그럼요, 앉으세요.”;May I sit here? Sure with pleasure!
+103	to pass by, to go past	지나다	약속 시간이 지났는데 아무도 안 왔어요?;It's past the appointed time. Has nobody come?
+103	to help	도와주다	아무도 나를 도와줄 수 없어요.;Nobody can help me.
+103	to happen, to wake up	일어나다	그것은 아무에게나 일어날 수 있어.;This can happen to anyone.
+103	somewhere like X	X 같은 곳	뮌스터 같은 곳을 아무 데도 없어요.;There is nowhere like Münster.
