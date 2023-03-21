@@ -433,5 +433,5 @@
 104	(uncooked) noodles	면	나는 면 종류는 다 좋아한다.;I like all kinds of noodles.
 104	(cooked) noodles	국수	밥으로 하시겠어요 국수로 하시겠어요?;Would you prefer rice or noodles?
 104	oil	기름	기름과 물은 섞이지 않아요.;Oil and water don't mix.
-104 ingredient  재료
-104 way, means, method  방법
+104	ingredient	재료	이 요리의 포인트는 신선한 재료다.;The point of this dish is fresh ingredients.
+104	way, means, method	방법	일을 하는 새로운 방법들.;New ways to do things.;이것을 하는 방법은 여러 가지가 있다.;There are several ways to do it.
