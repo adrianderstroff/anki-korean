@@ -21,8 +21,7 @@ def grammar_model() -> ModelDescription:
     return csv_path, deck_title, columns, model
 
 
-def generate_and_preview(model_func: Callable[[], ModelDescription], show_preview: bool = False,
-                         vocab_range: List[int] = [0, -1]):
+def generate_and_preview(model_func: Callable[[], ModelDescription], show_preview: bool = False, vocab_range: List[int] = [0, -1]):
     csv_path, deck_title, columns, model = model_func()
     print(f'[ Generating {deck_title} ]')
 
@@ -42,4 +41,4 @@ def generate_and_preview(model_func: Callable[[], ModelDescription], show_previe
 
 if __name__ == '__main__':
     generate_and_preview(vocab_model)
-    generate_and_preview(grammar_model, True, vocab_range=[0, 10])
+    generate_and_preview(grammar_model)
