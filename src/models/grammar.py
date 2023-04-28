@@ -1,3 +1,5 @@
+from colorama import Fore, Style
+
 from src.data import Data
 from src.type import Fields, Template, Media, Model
 from src.util import create_id, wrap_template
@@ -134,7 +136,7 @@ def extract_examples(data: Data):
 
         # check if examples were formated properly
         if len(examples_list) % 2 == 1:
-            print(f'Line {j+1}: Wrong number of example pairs. {len(examples_list)}: {examples_list}')
+            print(f'{Fore.RED}Line {j+1}: Wrong number of example pairs. {len(examples_list)}: {examples_list}{Style.RESET_ALL}')
 
 
 def create_media_files() -> Media:
