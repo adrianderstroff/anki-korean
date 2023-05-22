@@ -50,7 +50,7 @@
 72	history	역사	나는 역사에 관심이 많다.;I’m very interested in history.
 72	young	어리다	그는 나보다 여섯 살 어리다;He is six years younger than I (am).
 72	average, mean	평균	4, 5, 9의 평균은 6이다.;The average of 4, 5 and 9 is 6.;하루 평균 8시간 일한다.;I average 8 hours’ work a day.
-72	just, simply	그냥	난 그냥 커피만 준비할게.;I’ll just make the coffee.
+72	just, simply	그냥	난 그냥 커피만 준비할게.;I’ll just make the coffee.;그냥 한국어 공부했어요.;I just studied Korean.
 72	to celebrate	기념하다	당신 나라에서는 새해를 어떻게 기념해요?;How do people celebrate New Year in your country?
 72	to bring	가져오다	우산을 잊고 안 가져오다.;Forgot to bring an umbrella.
 72	to stand in line	줄을 서다	아이들은 모두 한 줄로 서 있었다.;The children all stood in a line.
@@ -224,7 +224,6 @@
 86	cool	멋있다	네가 입고 있는 그 옷 참 멋있다.;The clothes you're wearing are so cool.
 86	last week	저번 주	바로 저번 주에 그 친구를 위해서 송별회를 열었어.;We gave a farewell party for him just last week.
 86	far, distant	멀다	우리 집은 여기서 멀다.;My house is far from here.
-86	language exchange	언어를 교환	한국 언어 교환 친구를 만났어요.;I met my Korean language exchange partner.
 86	landscape, scenery	풍경	기분 좋은 시골 풍경.;Pleasant rural scenery.
 86	(software) developer	개발자	싸이는 소프트웨어 개발자로서의 자격이 없었다.;Psy was not qualified to be a software developer.
 87	half-half	반반	이걸 반반씩 나누자.;Let's split this fifty-fifty.
@@ -250,7 +249,7 @@
 88	professor	교수님	그 교수님은 학점을 잘 주신다.;The professor grades generally.
 88	to welcome	환영하다	따뜻하게 환영해 주셔서 고맙습니다.;Thank you for your warm welcome.
 88	physics	물리학	그녀는 물리학 성적으로 C를 받았다.;She got a C in Physics.
-88	language exchange	언어 교환	나는 언어 교환을 할 친구가 필요하다.;I need a friend to exchange languages.
+88	language exchange	언어 교환	나는 언어 교환을 할 친구가 필요하다.;I need a friend to exchange languages.;한국 언어 교환 친구를 만났어요.;I met my Korean language exchange partner.
 89	the week after next	다다음 주	다다음주에 만나자.;Let's meet the week after next.
 89	the day after tomorrow	내일 모레	내일 모레란 말이죠?;You mean the day after tomorrow?
 89	salty	짜요	하지만 바닷물은 항상 짜요.;But the water in the sea is always salty.
@@ -464,7 +463,7 @@
 105	to let someone know, to inform someone	-에게 (-을/를) 알려주다	친구에게 내 생일을 알려줬어요.;I informed my friend of my birthday.
 105	to prepare	준비하다	파티를 위해서 많은 음식을 준비해야 해요.;You need to prepare a lot of food for the party.
 105	to order	주문하다	카페에서 커피를 주문할 거예요.;I will order coffee at the cafe.
-106	niece, nephew	조카	저는 조카가 귀엽 다고 생각해요.;I think that my nephew is cute.
+106	niece, nephew	조카	저는 조카가 귀엽 다고 생각해요.;I think that my nephew is cute.;가끔 제 조카와 조카딸과 놀아요.;Sometimes I play with my nephew and niece.
 106	to be crazy, to go nuts	미치다	저는 그녀가 가끔 미쳤 다고 생각해요.;I think she's crazy sometimes.
 106	immediately, soon, shortly	곧	저는 제가 서울에 곧 갈 거라고 생각했어요.;I thought I would go to Seoul soon.
 106	paper	종이	그녀는 종이에 말 그림을 그렸다.;She draws a horse on the paper.
@@ -547,3 +546,12 @@
 111	let's have a look, let's think about it	한번 봅시다	이 문제를 한번 봅시다.;Let's take a look at this problem.
 111	the whole day	하루종일	우리는 하루 종일 기다려야 했다.;We had to wait all day long.;해가 하루 종일 비치고 있었다.;The sun was shining all day long.
 111	necessary, needed	필요하다	우리는 다른 컴퓨터가 필요하다.;We need another computer.
+112	language	언어	한국 문화와 언어 아주 재미있어요.;Korean culture and language is very interesting.
+112	to agree	동의하다	동의해요.;I agree.
+112	to envy	부럽다	너무 부러워요.;I'm so envious
+112	Let's see...	한번 보자!	-;-
+112	nervous	긴장하다	아무도 네가 긴장하고 있는지 모른다구.;No one will know you're nervous.
+112	last year	작년에	그녀는 작년에 아이를 낳았다.;She had a baby last year.
+112	this year	올해에	올해에 너에게 행복이 가득했으면 해!;I hope this year will be full of happiness for you!
+112	next year	내년에	나는 내년에 외국에 가려네.;I'm going abroad next year.
+112	to try	시도하다	너도 한번 시도해 봐.;You've gotta try it.
