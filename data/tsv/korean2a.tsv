@@ -406,7 +406,7 @@
 103	to arrive	도착하다	늦어도 8시까지는 도착해 주세요.;Please arrive no later than 8o'clock.
 103	yet, still	아직	난 아직 가방을 다 못 꾸렸어.;I haven't packed my suitcase yet.;엄마, 나 아직 배고파요!;Mum I'm still hungry.
 103	to visit	방문하다	이번 봄에 진해를 방문해요!;Let's visit Jinhae this spring.
-103	subway, metro	지하철	우리는 지하철을 타고 왔다.;We came by metro.
+103	subway, metro	지하철	우리는 지하철을 타고 왔다.;We came by metro.;이 지하철은 어디로 가는 건가요?;Where does this metro go?
 103	sure (strong affirmation)	그럼요	“여기 앉아도 될까요?” “그럼요, 앉으세요.”;May I sit here? Sure with pleasure!
 103	to pass by, to go past	지나다	약속 시간이 지났는데 아무도 안 왔어요?;It's past the appointed time. Has nobody come?
 103	to help	도와주다	아무도 나를 도와줄 수 없어요.;Nobody can help me.
@@ -555,3 +555,32 @@
 112	this year	올해에	올해에 너에게 행복이 가득했으면 해!;I hope this year will be full of happiness for you!
 112	next year	내년에	나는 내년에 외국에 가려네.;I'm going abroad next year.
 112	to try	시도하다	너도 한번 시도해 봐.;You've gotta try it.
+113	How long does it take from A to B by/using X?	A에서 B까지 X로 얼마나 걸려요?	학교에서 명동까지 지하철로 얼마나 걸려요?;How long does it take from school to Myeongdong by subway?
+113	bus	버스	나는 학교에 가기 위해 버스를 탑니다.;I take the bus to go to school.
+113	express bus	고속버스	나는 고향에 고속버스로 갈 거예요.;I will go to my hometown by express bus.
+113	train	기차	저는 기차를 좋아해요. 기차 여행이 즐거워요.;I like trains. Train travel is enjoyable.
+113	airplane	비행기	저는 비행기를 타고 해외로 여행을 갈 거예요.;I will travel abroad by airplane.
+113	car	자동차	저는 자동차로 출근합니다.;I commute by car.
+113	taxi	택시	저는 택시를 타고 회사에 갑니다.;I take a taxi to go to work.
+113	cruise ship	유람선	여름 휴가 때 유람선 여행을 가고 싶어요.;I want to go on a cruise trip during the summer vacation.
+113	motorcyle	오토바이	주말에 친구들과 오토바이로 산악지대를 탐험했어요.;On the weekend, I explored mountainous areas on motorcycles with friends.
+113	bus stop	보스 정류장	버스 정류장에서 친구를 만났어요.;I met my friend at the bus stop.
+113	bus terminal	버스 터미널	버스 터미널에서 티켓을 사야 해요.;I have to buy a ticket at the bus terminal.
+113	subway station	지하철역	지하철역에서 친구를 만났어요.;I met my friend at the subway station.
+113	train station	기차역	기차역에서 표를 구매해야 합니다.;You need to buy a ticket at the train station.
+113	airport	공항	저는 공항으로 가는 버스를 타려고 해요.;I'm going to take the bus to the airport.
+113	to cross the street	길을 건너다	신호가 바뀌면 길을 건너야 해요.;You have to cross the street when the traffic light changes.
+113	to get in, to ride	을/를 타다	비행기를 타기 위해 공항으로 가세요.;Please to to the airport to take the airplane.
+113	to get off	에서 내리다	버스에서 내리기 전에 알려주세요.;Please let me know before getting off the bus.
+113	to transfer	(으)로 갈아타다	다음 정류장에서 버스로 갈아타야 해요.;You need to transfer to a bus at the next bus stop.
+113	to depart from	에서 출발하다	기차가 서울역에서 출발했어요.;The train departed from Seoul station.
+113	to arrive at/in	에 도착하다	버스가 정류장에 도착했어요.;The bus arrived at the bus stop.
+113	to go up	을/를 오르다	계단을 오르면서 숨이 차요.;I get out of breath while climbing the stairs.
+113	to go up, to climp	을/를 올라가다	사다리를 올라가서 전구를 교체했어요.;I climbed the ladder and replaced the light bulb.
+113	to go down	에서 내려가다	계단을 내려가면서 조심하세요.;Be careful when going down the stairs.
+113	to walk	걷다	길을 걷다;Walk along the street
+113	to get a cold	감기에 걸리다	감기걸 겼어요?;Did you get a cold?
+113	not yet done	안 끝났다	시험이 아직 안 끝났어요.;The exam is not finished yet.
+113	island	섬	제주도가 근 섬이에요.;Jeju island is a big island.
+113	X-ern part	X쪽에	남쪽에;in the south, southern part;제주에서 남쪽이나 복쪽에 머물러요?;Do you stay in the south or north of Jeju?
+113	lake	호수	여름에는 친구들과 호수에서 수영해요.;In summer, I swim in the lake with my friends.
