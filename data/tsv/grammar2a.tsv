@@ -36,7 +36,7 @@
 76	전혀 잘 못V	don't do well at V whatsoever, don't do well at V at all	저는 수영 전혀 잘 못해요.;I'm not good at swimming whatsoever.
 79	V(으)ㄴ N	the N that (I) V	어제 본 영화 어땠어요?;How was the film that you watched yesterday?;제가 어제 안난 사람은 스티븐 씨에요.;The person that I've met yesterday was Steven.
 80	N 여러 가지	several kinds of N	맥주가 여러 가지 있어요.;There are several beers.;이것을 하는 방법은 여러 가지가 있다.;There are various ways of doing this.;그 사람들은 여러 가지 독일 음식을 요리해요.;They cook several kinds of German food.
-80	not A/V	지 않다	저는 키가 크지 않습니다.;I'm not tall.;내 동생은 오지 않았어요.;My younger sister didn't come.;김치는 맵지 않아요.;Kimchi is not spicy.
+80	않다	not A/V	지저는 키가 크지 않습니다.;I'm not tall.;내 동생은 오지 않았어요.;My younger sister didn't come.;김치는 맵지 않아요.;Kimchi is not spicy.
 81	V(으)ㄹ 줄 알다/모르다	(don't) know how to do V	수영할 줄 알아요?;Do you know how to swim?;생일케이크를 잘 만들 줄 몰라요.;I don’t know how to make a birthday cake well.
 82	첫/두/세/네 번째...	번째 can be added to a number to express first, second, third, fourth. The numbers after four use their normal form.	저의 첫 번째 친구는 착했어요.;My first friend was nice.;저는 두 번째 남자를 골랐어요.;I chose the second man.;저는 백 번째 페이지를 읽었어요.;I read the 100th page.
 82	V(으)려고 하다	expressing a plan or intention	오늘 도서관에 가려고 합니다.;Today I'm planning to go to the library.;내일은 일찍 일어나려고 해요.;I plan to get up early tomorrow.
@@ -81,5 +81,6 @@
 109	ㅎ irregular	1) Aㅎ+으 -> _ <br>2) Aㅎ+아/어 -> A|+아/어<br>Most common examples are 까맣다, 노랗다, 파랗다, 빨갛다, 하얗다, 이렇다, 그렇다, 저렇다, 어떻다	하얗다+(으)ㄴ;하얀;까맣다+(으)니까;까마니까;까맣다+아서;까매서;하얗다+아요;하얘요
 110	A(으)ㄴ지/V는지/N인지 알다	to know if/who/what/how	혹시 재현 씨가 누구인지 아세요?;Do you know who Jaehyun is?;지금 몇 시인지 알아?;Do you know what time it is now?
 110	V네	just felt/saw/heart sth.	눈이 많이 왔녜요!;It snowed a lot!;이 식당의 음식이 맛있네요.;The food at this restaurant is delicious.;이 옷이 착용감이 좋네요.;This dress is comfortable to wear.
-113	in the middle of (place)	N 중간에	인천 중간에 중국집이 있어요.;There is a china town in the middle of Incheon.
-113	in the middle of (time)	N 중에	수업 중에 전화를 받았어요.;I got a phone call during class.
+113	N 중간에	in the middle of (place)	인천 중간에 중국집이 있어요.;There is a china town in the middle of Incheon.
+113	N 중에	in the middle of (time)	수업 중에 전화를 받았어요.;I got a phone call during class.
+113	ㄹ irregular	르+V -> ㄹ러요/ㄹ라요	모르다;몰라요;배부르다;배불러요;머무르다;머물러요
