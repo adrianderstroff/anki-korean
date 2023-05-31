@@ -1,8 +1,12 @@
 from typing import List, Callable
 
+from src.logger import Logger
 from src.models import korean, grammar
 from src.type import ModelDescription
 from src.util import generate, preview, extract_data
+
+
+Logger.set_log_file('../data/log.json')
 
 
 def vocab_model() -> ModelDescription:
@@ -23,13 +27,13 @@ def grammar_model() -> ModelDescription:
 
 def generate_and_preview(model_func: Callable[[], ModelDescription], show_preview: bool = False, vocab_range: List[int] = [0, -1]):
     csv_path, deck_title, columns, model = model_func()
-    print(f'[ Generating {deck_title} ]')
+    Logger.print(f'[ Generating {deck_title} ]')
 
-    print(' ├ Extracting Data')
+    Logger.print(' ├ Extracting Data')
     data = extract_data(csv_path, columns, model)
-    print(' ├ Generating Anki Deck')
+    Logger.print(' ├ Generating Anki Deck')
     generate(data, csv_path, deck_title, model)
-    print(' └ DONE')
+    Logger.print(' └ DONE')
 
     if show_preview:
         # slice data if necessary

@@ -4,15 +4,16 @@ from typing import List
 
 from anki import generate_deck
 from src.data import grab_data, Data
+from src.logger import Logger
 from src.preview import show_card_preview
 from src.type import Model, Template
 
 
 def extract_data(data_path: str, columns: List[int], model: Model) -> Data:
-    print(' ├── Grab Data')
+    Logger.print(' ├── Grab Data')
     data = grab_data(data_path, columns, delimiter='\t')
     if 'post_process' in model:
-        print(' ├── Perform Post Processing')
+        Logger.print(' ├── Perform Post Processing')
         model['post_process'](data)
     return data
 

@@ -2,6 +2,7 @@ import csv
 from typing import List
 from colorama import Fore, Style
 
+from src.logger import Logger
 
 Data = List[List[str]]
 
@@ -22,7 +23,7 @@ def grab_data(file_path: str, column_indices: List[int], delimiter: str = ";", s
                         entries.append(row[idx])
                     data.append(entries)
                 except Exception as err:
-                    print(f'{Fore.RED} ├──── [Line {i+1}] {row}: {err}{Style.RESET_ALL}')
+                    Logger.error(f' ├──── [Line {i+1}] {row}: {err}')
             i += 1
 
     return data

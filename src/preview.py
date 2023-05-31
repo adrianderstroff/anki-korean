@@ -7,6 +7,7 @@ import dash_dangerously_set_inner_html #pip install dash-dangerously-set-inner-h
 from dash import Dash, html, dcc, Output, Input, State
 
 from src.data import Data
+from src.logger import Logger
 from src.type import Element, ElementInstance, Card, Fields, Template, Content
 
 
@@ -23,7 +24,7 @@ def extract_line_data(matches: List[Any]) -> (str, str, str):
     tag_attr = matches[1]
     children = matches[2]
     if tag_name != matches[3] and len(matches[3]) > 0:
-        print(f"Tags '{tag_name}' and '{matches[3]}' don't match")
+        Logger.error(f"Tags '{tag_name}' and '{matches[3]}' don't match")
 
     return tag_name, tag_attr, children
 
@@ -48,7 +49,7 @@ def match_element(tag_name: str) -> Element:
     elif tag_name == "h6":
         elem = html.H6
     else:
-        print(f"No match for tag '{tag_name}', used Div instead")
+        Logger.warn(f"No match for tag '{tag_name}', used Div instead")
         elem = html.Div
 
     return elem
@@ -62,9 +63,9 @@ def match_attributes(tag_attr: str) -> Dict[str, str]:
         pattern = '([^> =]+)\s*=\s*"([^>"]+)"'
         m = re.findall(pattern, match)
         if len(m) == 0:
-            print(f"No match found for tag '{match}'")
+            Logger.error(f"No match found for tag '{match}'")
         if len(m[0]) != 2:
-            print(f"Match doesn't have exactly 2 entries {m[0]}. Ignored.")
+            Logger.error(f"Match doesn't have exactly 2 entries {m[0]}. Ignored.")
             continue
         attributes[m[0][0]] = m[0][1]
     return attributes

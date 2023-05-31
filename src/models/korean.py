@@ -1,6 +1,7 @@
 from colorama import Fore, Style
 
 from src.data import Data
+from src.logger import Logger
 from src.type import Fields, Template, Model
 from src.util import create_id, wrap_template
 
@@ -141,7 +142,7 @@ def check_data(data: Data):
     for j, row in enumerate(data):
         # make sure rows have only 3 entries
         if len(row) != 3:
-            print(f'{Fore.RED}line {j+1}: number of entries is not 3: {row}{Style.RESET_ALL}')
+            Logger.error(f'line {j+1}: number of entries is not 3: {row}')
 
         # check for duplicates
         korean = row[1]
@@ -149,7 +150,7 @@ def check_data(data: Data):
             other = existing_vocab[korean]
             line = other[0]
             other_vocab = other[1]
-            print(f'{Fore.YELLOW}line {j+1}: {row} already existed in {line+1}: {other_vocab}{Style.RESET_ALL}')
+            Logger.warn(f'line {j+1}: {row} already existed in {line+1}: {other_vocab}')
         else:
             existing_vocab[korean] = [j, row]
 
@@ -169,7 +170,7 @@ def extract_examples(data: Data):
 
         # check if examples were formatted properly
         if len(examples_list) % 2 == 1:
-            print(f'{Fore.RED}Line {j+1}: Wrong number of example pairs. {len(examples_list)}: {examples_list}{Style.RESET_ALL}')
+            Logger.error(f'Line {j+1}: Wrong number of example pairs. {len(examples_list)}: {examples_list}')
 
 
 def post_process(data: Data):
