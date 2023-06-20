@@ -2,5 +2,21 @@
     "ff8fffb9a299b6a24a7f819d5f235f6bee4d74ef1bbcbf2d36d07163eaf56686": {
         "text": "\u001b[93mline 447: ['unit noun: bottle', '\ubcd1', '\uc5b4\uc81c \ub9e5\uc8fc\ub97c \uba87 \ubcd1 \ub9c8\uc168\uc5b4\uc694?;How many beers did you drink yesterday?'] already existed in 356: ['illness', '\ubcd1', '\uadf8 \ubcd1\uc758 \ube60\ub978 \uc9c4\ud589.;The rapid progression of the disease.']\u001b[0m",
         "ignore": true
+    },
+    "c61aca296e348ba62700b9e764aa922d7480da2065b9d1a48a0e233d466c29a6": {
+        "text": "\u001b[93mline 601: ['conference', '\ucee8\ud37c\ub7f0\uc2a4', '\ucee8\ud37c\ub7f0\uc2a4 \ub54c\ubb38\uc5d0 \ub77c\uc774\ud504\uce58\ud788\uc5d0 \uac14\uc5b4\uc694.;I went to Leipzig for a conference.'] already existed in 185: ['conference', '\ucee8\ud37c\ub7f0\uc2a4', \"\uadf8\uac74 3\uce35 \ucee8\ud37c\ub7f0\uc2a4 \ub8f8\uc5d0\uc11c \uc788\uc5b4\uc694.;It's in the third floor conference room.\"]\u001b[0m",
+        "ignore": false
+    },
+    "0d9e89106f9c447813373d17d4d5012c0848ccef4a962d05db633bbc270b97df": {
+        "text": "\u001b[93mline 603: ['to tell sb.', '-\uc5d0\uac8c \ub9d0\ud558\ub2e4', \"\uadf8 \uc0ac\ub78c\uc5d0\uac8c \ub9d0\ud560 \uac70\uc608\uc694.;I'll tell this person.\"] already existed in 404: ['to tell', '-\uc5d0\uac8c \ub9d0\ud558\ub2e4', \"\uc544\ubb34\ub3c4\uc5d0\uac8c \ub9d0\ud558\uc9c0 \ub9c8\uc138\uc694.;Please don't tell anyone.\"]\u001b[0m",
+        "ignore": false
+    },
+    "d3e4a0c70ab5b3e928c81c0d956e946b3ce8d7775175c7f7f16f2d9420d98af5": {
+        "text": "\u001b[91mLine 90: Wrong number of example pairs. 7: ['3\uba85 \uc815\ub3c4 \uc9d1\uc5d0 \uc640\uc694.', 'About 3 people come here.', '1\uc2dc\ucbe4\uc5d0 \uce5c\uad6c\ub97c \ub9cc\ub098\uc694.', \"I'm meeting my friend around 1 o'clock.\", '\ud55c \uc2dc\uac04 \uc815\ub3c4 \uac78\ub824\uc694.', 'It takes about an hour.', '']\u001b[0m",
+        "ignore": false
+    },
+    "925a39ee5959536826a16c55def4d08a83e52bad70485b268540bd55e42c433f": {
+        "text": "\u001b[93mline 602: ['to tell sb.', '-\uc5d0\uac8c \ub9d0\ud558\ub2e4', \"\uadf8 \uc0ac\ub78c\uc5d0\uac8c \ub9d0\ud560 \uac70\uc608\uc694.;I'll tell this person.\"] already existed in 404: ['to tell', '-\uc5d0\uac8c \ub9d0\ud558\ub2e4', \"\uc544\ubb34\ub3c4\uc5d0\uac8c \ub9d0\ud558\uc9c0 \ub9c8\uc138\uc694.;Please don't tell anyone.\"]\u001b[0m",
+        "ignore": false
     }
 }
