@@ -18,5 +18,9 @@
     "925a39ee5959536826a16c55def4d08a83e52bad70485b268540bd55e42c433f": {
         "text": "\u001b[93mline 602: ['to tell sb.', '-\uc5d0\uac8c \ub9d0\ud558\ub2e4', \"\uadf8 \uc0ac\ub78c\uc5d0\uac8c \ub9d0\ud560 \uac70\uc608\uc694.;I'll tell this person.\"] already existed in 404: ['to tell', '-\uc5d0\uac8c \ub9d0\ud558\ub2e4', \"\uc544\ubb34\ub3c4\uc5d0\uac8c \ub9d0\ud558\uc9c0 \ub9c8\uc138\uc694.;Please don't tell anyone.\"]\u001b[0m",
         "ignore": false
+    },
+    "820470a5361d7375033c3e57d56e307a38e2ad398ecc694ceff4536e9c1505a1": {
+        "text": "\u001b[93mline 610: ['floor', '\uce35', '\uc800\ub294 5\uce35\uc5d0 \uc0b4\uc544\uc694.;I live on the 5th floor.;\uc218\uc601\uc7a5\uc740 3\uce35\uc5d0 \uc788\uc2b5\ub2c8\ub2e4.;The swimming pool is on the 3rd floor.'] already existed in 325: ['layer', '\uce35', '\uc624\uc874\uce35\uc5d0 \uc0dd\uae34 \uad6c\uba4d.;The hole in the ozone layer.']\u001b[0m",
+        "ignore": false
     }
 }

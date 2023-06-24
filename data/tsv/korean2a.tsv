@@ -165,7 +165,7 @@
 80	a center	센터	데이케어 센터.;A day care centre.;시내의 쇼핑센터.;A downtown shopping plaza.
 80	content, material	내용	정보를 담은 책의 내용.;The informational content of a book.
 80	martial arts	무술	난 무술 영화 좋아해.;I like martial arts movies.
-80	(work, study, ...) hard	열심히	넌 더 열심히 해 봐야 해.;You must try harder.;그 애는 수업 시간에 열심히 공부한다.;She works hard in class.
+80	(work, study, ...) hard	열심히	넌 더 열심히 해 봐야 해.;You must try harder.;그 애는 수업 시간에 열심히 공부한다.;She works hard in class.;공부를 열심히 해야 해요.;I have to study hard.
 80	club	동호회	나는 인터넷 동호회를 만들었다.;I've made a club on the Internet.;그는 야구 동호회의 회원이다.;He is a member of the baseball club.
 80	to join sth. (e.g. a club)	에 가입하다	나는 헬스클럽에 가입한 지 얼마 안 된다.;I just joined a gym.;그는 외바퀴 자전거 클럽에 가입했다.;He joined a unicycling club.
 80	sth. is important	이/가 중요하다	당신이 거기 오는 것이 내게는 아주 중요해요.;It’s very important to me that you should be there.;네 생각도 역시 중요해.;Your feelings are important too.
@@ -322,7 +322,7 @@
 97	amazing, remarkable	엄청나다	엄청나게 큰 케이크네요!;What a huge cake!;엄청난 인기를 얻고 있는 가수.;A very popular singer.
 97	plot, storyline	줄거리	줄거리가 너무 뻔했어.;The plot was way too predictable.
 97	scene	장면	우리는 거의 모든 장면에 나왔다.;Most of us were in every scene.
-97	layer	층	오존층에 생긴 구멍.;The hole in the ozone layer.
+97	layer, floor (building)	층	오존층에 생긴 구멍.;The hole in the ozone layer.;저는 5층에 살아요.;I live on the 5th floor.;수영장은 3층에 있습니다.;The swimming pool is on the 3rd floor.
 97	to hope, to want	바라다	그가 곧 한국에 오기를 바라요!;I hope he comes to Korea soon!
 98	N fits well to someone	N에게 잘 어울리다	티셔츠 색깔이 잘 어울려요.;The color of the t-shirt suits you well.;제 여자친구가 저에게 잘 어울려요.;My girlfriend suits me well.
 98	orange	주황색	주황 자전거 좋아해요.;I like orange bicycles.
@@ -599,3 +599,13 @@
 114	chatting	채팅	저는 보통 인터넷 채팅으로 연락해요.;I usually contact my friends by internet chatting.
 114	dormitory	기숫사	넌 어디 기숙사에서 있니?;Which dorm do you live in?
 115	be surprised	놀라다	이 한국 사람이 아주 놀랐어요.;This korean was very surprised.
+115	to want	원하다	저는 여행을 원해요.;I want to travel.;아이들은 아이스크림을 원해요.;The children want ice cream.
+115	transportation card	교통카드	나는 교통카드로 버스를 타요.;I take the bus with my transportation card.;교통카드를 잃어버렸어요.;I lost my transportation card.
+115	transportation fee	요금	이 버스의 요금은 얼마인가요?;What is the fare for this bus?
+115	the place to get in	타는 곳	버스를 타는 곳은 저기 앞에 있어요.;The place to catch the bus is right over there.
+115	the place to get off	내리는 곳	지하철을 내리는 곳은 목적지 역에서입니다.;The place to get off the subway is at the destination station.
+115	entrance	들어가는 곳/입구	이 문이 들어가는 곳입니다;This door is the entrance.;여기가 박물관의 입구입니다.;This is the entrance of the museum.
+115	exit	나가는 곳/출구	나가는 곳에서 안내도를 확인하세요.;Check the map at the exit for guidance.;출구에서 기다리고 있을게요.;I'll be waiting at the exit.
+115	transfer spot	갈아타는 곳	이 버스 정류장이 갈아타는 곳입니다.;This bus stop is the transfer point.;갈아타는 곳에서 다른 교통수단을 이용할 수 있어요.;You can use different modes of transportation at the transfer point.
+115	to loose weight	살을 빼다	살을 빼고 싶어요.;I want to loose weight.;이번 달에는 목표로 한 2킬로 살을 빼고 싶어요.;I want to lose around 2 kilograms this month as my goal.
+115	be dirty	더럽다	교실이 너무 더러워요.;The classroom is too dirty.;방이 더러워서 청소를 해야 해요.;The room is dirty, so I need to clean it.
