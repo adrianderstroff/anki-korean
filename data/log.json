@@ -22,5 +22,9 @@
     "820470a5361d7375033c3e57d56e307a38e2ad398ecc694ceff4536e9c1505a1": {
         "text": "\u001b[93mline 610: ['floor', '\uce35', '\uc800\ub294 5\uce35\uc5d0 \uc0b4\uc544\uc694.;I live on the 5th floor.;\uc218\uc601\uc7a5\uc740 3\uce35\uc5d0 \uc788\uc2b5\ub2c8\ub2e4.;The swimming pool is on the 3rd floor.'] already existed in 325: ['layer', '\uce35', '\uc624\uc874\uce35\uc5d0 \uc0dd\uae34 \uad6c\uba4d.;The hole in the ozone layer.']\u001b[0m",
         "ignore": false
+    },
+    "8c7cfab8a7531b912ce8def8a96476a9583b4d39ffa33710ad10b2093db2f79c": {
+        "text": "\u001b[93mline 612: ['to borrow', '\ube4c\ub9ac\ub2e4', ';'] already existed in 283: ['to borrow, to lend, to rent', '\ube4c\ub9ac\ub2e4', \"\uc0ac\uc804\uc774 \uc5c6\ub294\ub370 \uc880 \ube4c\ub824 \uc8fc\uc138\uc694.;I don't have a dictionary. Please lend me one.\"]\u001b[0m",
+        "ignore": false
     }
 }
