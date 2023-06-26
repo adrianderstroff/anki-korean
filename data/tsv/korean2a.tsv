@@ -230,7 +230,7 @@
 87	nose	코	네 코에서 콧물 흘러.;Your nose is running.
 87	dangerous, risky	위험하다	흡연은 너의 건강에 위험해.;Smoking is hazardous to your health.;모기는 정말 위험해요!;Mosquitoes are very dangerous!;여기서 수영하는 건 위험하다.;Swimming here is unsafe.
 87	relatives	친척	대구에서 친척들이랑 떡국 먹는 중!;Enjoying tteokguk with my relatives in Daegu!
-87	to review, revise	복습하다	배운 것을 복습해 보자.;Let's review what you learned.
+87	to review, revise	복습하다	배운 것을 복습해 보자.;Let's review what you learned.;내일 시험이 있으니까 지금 공부한 내용을 복습해야 해요.;I have an exam tomorrow, so I need to review the material I studied now.
 87	to study in advance	예습하다	예습하는 것도 좋은 생각이고.;It's also a good idea to study in advance.
 87	I think, according to my opinion	제 생각에는	제 생각에는 기차로 가야 할 것 같습니다.;I think we should take the train.
 87	ugly	못생기다	그 애가 나한테 진짜 못생겼대!;He said he was really ugly to me!
@@ -273,7 +273,7 @@
 91	album	음반	아이유 새로운 음반이 어때요?;How do you like IU's new album?
 92	electric blanket	전기 장판	응, 나도 벌써부터 전기장판 깔고 잤어.;Yes, I have already slept on the electric blanket.
 92	to graduate	졸업하다	저는 박사를 아직 안 졸업했어요.;I haven't graduated from my PhD yet.;그는 평점 3 .8을 받고 졸업했다.;He graduated with a GPA of 3.8.
-92	nickname	별명	에어버스 A380의 별명은 고래 제트기이다.;The nickname of the Airbus A380 is the Whale Jet.
+92	nickname	별명	그녀의 별명은 '토끼'예요.;Her nickname is Rabbit.;에어버스 A380의 별명은 고래 제트기이다.;The nickname of the Airbus A380 is the Whale Jet.
 92	to be (not) interested in	는 것을 관심이 있다/없다	떡볶이 과자를 먹는 것을 관심이 있어요.;I'm interested in eating Tteokbokki snacks.;일 하는 것을 관심이 없어요.;I'm not interested in working.
 92	to take off	벗다	너 집에서 신발을 안 벗어도 돼요?;Can you take off your shoes at home?
 92	fireplace	벽난로	벽난로에서 장작이 타고 있다.;Wood is burning in the fireplace.
@@ -484,7 +484,7 @@
 108	daughter	딸	우리 딸이 학교에서 좋은 성적을 받았어요.;Our daughter got good grades in school.
 108	even now	지금도	독일에 지금도 트램이 있어요.;There are still trams in Germany.
 108	empty words, meaningless talk	발 없는 말	그 사람이 하는 말은 발 없는 말이에요.;What that person is saying is nonsense.
-108	to be changed	바뀌다	입은 옷이 바뀌었어요.;The clothes you wear have changed.
+108	to change, to be changed	바뀌다	입은 옷이 바뀌었어요.;The clothes you wear have changed.;한국 문화가 많이 바뀌고 있어요.;The korean culture is changing a lot.
 108	before	전에는	전에는 학교가 가기 싫었는데, 요즘은 좋아해요.;I used to have going to school, but these days I like it.;전에는 한국어를 몰랐는데, 이제는 조금 할 수 있어요.;I didn't know Korean before, but now I can speak a little.
 108	white (adj)	하얗다	하얀 셔츠.;white shirt.;하얀 눈이 좋아요.;I like white snow.
 108	black (adj)	까맣다	까만 바지.;black pants.;밤하늘이 까매요.;The night sky is black.
@@ -626,3 +626,6 @@
 115	to come in	-에/(으)로 들어오다	도서관에 들어와서 책을 빌렸어요.;I entered (came in) the library and borrowed some books.
 115	to go down	-에/(으)로 내려가다	계단을 내려가서 문을 열었어요.;I went downstairs and opened the door.
 115	to come down	-에/(으)로 내려오다	엘리베이터로 10층에서 내려와서 로비로 이동했어요.;I came down from the 10th floor in the elevator and moved to the lobby.
+116	to advise	조언하다	친절하게 조언해 주셔서 감사합니다.;Thank you for your kind advice.
+116	diligent	부지런하다	네가 언제부터 그렇게 부지런했냐?;Since when were you so diligent?
+116	on purpose	일부러	친구가 일부러 나를 기다리지 않고 먼저 가버렸어요.;My friend intentionally left without waiting for me.

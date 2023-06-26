@@ -26,5 +26,41 @@
     "8c7cfab8a7531b912ce8def8a96476a9583b4d39ffa33710ad10b2093db2f79c": {
         "text": "\u001b[93mline 612: ['to borrow', '\ube4c\ub9ac\ub2e4', ';'] already existed in 283: ['to borrow, to lend, to rent', '\ube4c\ub9ac\ub2e4', \"\uc0ac\uc804\uc774 \uc5c6\ub294\ub370 \uc880 \ube4c\ub824 \uc8fc\uc138\uc694.;I don't have a dictionary. Please lend me one.\"]\u001b[0m",
         "ignore": false
+    },
+    "797ba7b41cb696ab86e7b55ca63d081705c8819095379021b1094273a21af156": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 629] ['116', 'to review', '\ubcf5\uc2b5\ud558\ub2e4']: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "82417eb60cfcdf47965ce6e2408ff2f6583f57d1b9e31cf878c7c51ea67f6492": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 632] ['116', 'on purpose', '\uc77c\ubd80\ub7ec']: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "9cb653df870837fc4f1c589fe9d9290978249c562dd84c159a8f777aeff81210": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 633] ['116', 'nickname', '\ubcc4\uba85']: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "84be4c838dba6268b75cbb941e442750e523f0471afeda910266289aaa7b2c8f": {
+        "text": "\u001b[93mline 631: ['to change, replace', '\ubc14\ub00c\ub2e4', '\ud55c\uad6d \ubb38\ud654\uac00 \ub9ce\uc774 \ubc14\ub00c\uace0 \uc788\uc5b4\uc694.;The korean culture is changing a lot.'] already existed in 487: ['to be changed', '\ubc14\ub00c\ub2e4', '\uc785\uc740 \uc637\uc774 \ubc14\ub00c\uc5c8\uc5b4\uc694.;The clothes you wear have changed.']\u001b[0m",
+        "ignore": false
+    },
+    "10d6b532a0c9dfd5f0b54942ab46f61a359395fa1463fe0e508e48e713c74339": {
+        "text": "\u001b[91mLine 91: Wrong number of example pairs. 3: ['\uc778\uc0ac\ub3d9\uc5d0 \uac00\ub824\uba74 \ubc84\uc2a4\ub97c \ud0c0\uc57c \ud574\uc694.', 'If you go to Insadong, you should take a bus.', '\ucc45\uc744 \ube4c\ub9ac\ub824\uba74 \ub3c4\uc11c\uad00\uc5d0 \uac00\uc57c \ud574\uc694.']\u001b[0m",
+        "ignore": false
+    },
+    "2efebc39edfa94520c4a2019f4801d745945d28807f9845a07562d08a4f79af0": {
+        "text": "\u001b[93mline 629: ['to review', '\ubcf5\uc2b5\ud558\ub2e4', '\ub0b4\uc77c \uc2dc\ud5d8\uc774 \uc788\uc73c\ub2c8\uae4c \uc9c0\uae08 \uacf5\ubd80\ud55c \ub0b4\uc6a9\uc744 \ubcf5\uc2b5\ud574\uc57c \ud574\uc694.;I have an exam tomorrow, so I need to review the material I studied now.'] already existed in 233: ['to review, revise', '\ubcf5\uc2b5\ud558\ub2e4', \"\ubc30\uc6b4 \uac83\uc744 \ubcf5\uc2b5\ud574 \ubcf4\uc790.;Let's review what you learned.\"]\u001b[0m",
+        "ignore": false
+    },
+    "37a5a5825e34abc43a75ab47688608c87070952e08b676557c0fd094ea5fd5aa": {
+        "text": "\u001b[93mline 633: ['nickname', '\ubcc4\uba85', \"\uadf8\ub140\uc758 \ubcc4\uba85\uc740 '\ud1a0\ub07c'\uc608\uc694.;Her nickname is Rabbit.\"] already existed in 276: ['nickname', '\ubcc4\uba85', '\uc5d0\uc5b4\ubc84\uc2a4 A380\uc758 \ubcc4\uba85\uc740 \uace0\ub798 \uc81c\ud2b8\uae30\uc774\ub2e4.;The nickname of the Airbus A380 is the Whale Jet.']\u001b[0m",
+        "ignore": false
+    },
+    "a1f60178e593aec6c283041470c1d8db7f0e64ff6ed4ab4f3c4722a5c43aadd6": {
+        "text": "\u001b[93mline 634: ['to change, replace', '\ubc14\ub00c\ub2e4', '\ud55c\uad6d \ubb38\ud654\uac00 \ub9ce\uc774 \ubc14\ub00c\uace0 \uc788\uc5b4\uc694.;The korean culture is changing a lot.'] already existed in 487: ['to be changed', '\ubc14\ub00c\ub2e4', '\uc785\uc740 \uc637\uc774 \ubc14\ub00c\uc5c8\uc5b4\uc694.;The clothes you wear have changed.']\u001b[0m",
+        "ignore": false
+    },
+    "dc473177404e5bdf029a2b95a916a2fc66efcf5e128af1b02f97edbbc0cc0342": {
+        "text": "\u001b[93mline 633: ['to change, replace', '\ubc14\ub00c\ub2e4', '\ud55c\uad6d \ubb38\ud654\uac00 \ub9ce\uc774 \ubc14\ub00c\uace0 \uc788\uc5b4\uc694.;The korean culture is changing a lot.'] already existed in 487: ['to be changed', '\ubc14\ub00c\ub2e4', '\uc785\uc740 \uc637\uc774 \ubc14\ub00c\uc5c8\uc5b4\uc694.;The clothes you wear have changed.']\u001b[0m",
+        "ignore": false
     }
 }
