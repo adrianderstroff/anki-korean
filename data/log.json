@@ -62,5 +62,13 @@
     "dc473177404e5bdf029a2b95a916a2fc66efcf5e128af1b02f97edbbc0cc0342": {
         "text": "\u001b[93mline 633: ['to change, replace', '\ubc14\ub00c\ub2e4', '\ud55c\uad6d \ubb38\ud654\uac00 \ub9ce\uc774 \ubc14\ub00c\uace0 \uc788\uc5b4\uc694.;The korean culture is changing a lot.'] already existed in 487: ['to be changed', '\ubc14\ub00c\ub2e4', '\uc785\uc740 \uc637\uc774 \ubc14\ub00c\uc5c8\uc5b4\uc694.;The clothes you wear have changed.']\u001b[0m",
         "ignore": false
+    },
+    "5d52d91f9013a6568f664ed6479f3f5a27a04e8c1d84e71997b32bef8081c7c4": {
+        "text": "\u001b[93mline 636: ['short', '\uc9e7\ub2e4', '\ub0a0\ub4e4 \uc774 \uc544\uc8fc\uc544\uc8fc \uc9e7\uc544\uc694.;The days are very short.'] already existed in 479: ['short', '\uc9e7\ub2e4', '\uba38\ub9ac\uce74\ub77d\uc774 \uc9e7\uc544\uc84c\uc5b4\uc694.;My hair became short.']\u001b[0m",
+        "ignore": false
+    },
+    "299b54c2cdaca395c3093cfdc662491be8c83a99e473a4fb5bceafb2878f283e": {
+        "text": "\u001b[93mline 644: ['lazy', '\uac8c\uc73c\ub974\ub2e4', \"\ub098\ub294 \uc885\uc885 \uac8c\uc73c\ub974\ub2e4.;I'm lazy sometimes.\"] already existed in 342: ['lazy', '\uac8c\uc73c\ub974\ub2e4', '\ub0b4 \ub0a8\ub3d9\uc0dd\uc740 \ub9e4\uc6b0 \uac8c\uc73c\ub974\ub2e4.;My little brother is very lazy.']\u001b[0m",
+        "ignore": false
     }
 }

@@ -339,7 +339,7 @@
 99	every start of a year	매년 초에	매년 초에 새로운 습관들을 만들려고 해요.;At the beginning of each year, I try to create new habits.
 99	to use/play the phone	휴대폰을 하다	보통 일어난 후에 휴대폰을 해요.;I usually use my phone after waking up.
 99	insufficient	불충분하다	그는 잠이 불충분했기 때문에 피곤했다.;He was tired because he had not had enough sleep.
-99	lazy	게으르다	내 남동생은 매우 게으르다.;My little brother is very lazy.
+99	lazy	게으르다	내 남동생은 매우 게으르다.;My little brother is very lazy.;나는 종종 게으르다.;I'm lazy sometimes.
 99	energetic	활기차다	이 옷들은 재미나고 활기차 보인다.;These clothes look fun and energetic.;많은 음식을 먹은 후에 활기차게 안 느껴요.;I don't feel energetic after eating a lot of food.
 99	nice, kind	친절하다	웨이터도 친절했어요.;The waiter was also kind.
 99	to pay	돈을 내다	독일에서는 생일파티에서도 돈을 같이 내요?;Do you pay for birthday parties in Germany?
@@ -476,7 +476,7 @@
 107	broad, wide	넓다	나의 방은 다른 친구들의 방보다 넓다.;My room is wider than my friend's rooms.
 107	high	높다	여기 나무들은 높아요.;Here the trees are high.
 108	small	작다	방이 너무 작아요.;The room is too small.;사실 나는 그들보다 작아요.;In fact, I am smaller than them.
-108	short	짧다	머리카락이 짧아졌어요.;My hair became short.
+108	short	짧다	머리카락이 짧아졌어요.;My hair became short.;날들 이 아주아주 짧아요.;The days are very short.
 108	few, little	적다	시간이 적어.;Time is short.;실수를 적게 해.;Make fewer mistakes.
 108	number	숫자	한국어에서 숫자를 셀 줄 알아요.;I can count numbers in Korean.
 108	quantity	양	이 식당에서는 음식 양이 많아요.;The food portion size is big at this restaurant.
@@ -631,3 +631,13 @@
 116	on purpose	일부러	친구가 일부러 나를 기다리지 않고 먼저 가버렸어요.;My friend intentionally left without waiting for me.
 116	reason	이유	진짜 이유를 말해 봐.;Tell me the real reason.;아무 울 이유가 없어.;There's nothing to cry about.
 116	line (bus, tram, ..)	호선	지하철 2호선에서 4호선으로 갈아타요.;Transfer from subway line 2 to line 4.
+117	midsummer	한여름	저는 한여름에는 거기에 가지 않겠어요.;I wouldn't go there in midsummer.
+117	i agree (casual)	저도 그렇게 생각해요	A: 이 영화 정말 재미있어요. B: 저도 그렇게 생각해요.;A: This movie is really fun. B: I also think so.
+117	dark	어둡다	방이 어두워요.;The room is dark.;저녁에는 거리가 어두워요.;The street gets dark in the evening.
+117	bright	밝다	해가 떠서 밖이 밝아요.;The sun is up, so it's bright outside.;방에 창문이 많아서 밝아요.;There are many windows in the room, so it's bright.
+117	humid	습하다	오늘은 날씨가 습해요.;Today's weather is humid.
+117	active	활동 적이다	그 아이는 매우 활동 적이에요.;That child is very active.
+117	indoor	실내	실내에는 테이블과 의자가 있어요.;There are tables and chairs indoors.
+117	outdoor	실외	실외에 가면 많은 것을 볼 수 있어요.;You can see many things when you go outdoors.
+117	sauna	찜질방	찜질방에서 몸을 푸는 게 좋아요.;It's nice to relax and unwind at a sauna.
+117	to grow up	자라다	아이들은 빨리 자라.;Children grow quickly.;꽃이 이쁘게 자라.;The flower grows beautifully
