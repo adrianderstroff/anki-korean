@@ -78,5 +78,9 @@
     "3880f75b17537e787af189510097e5a4516ba51525e80bb8d6d3108b29c68df3": {
         "text": "\u001b[93mline 655: ['relatives', '\uce5c\ucc99', '\uba87 \uba85 \uc815\ub3c4\uc758 \uac00\uc871\uacfc \uce5c\ucc99\uc744 \ub9cc\ub098\uc694?;How many family members and relatives do you meet?'] already existed in 232: ['relatives', '\uce5c\ucc99', '\ub300\uad6c\uc5d0\uc11c \uce5c\ucc99\ub4e4\uc774\ub791 \ub5a1\uad6d \uba39\ub294 \uc911!;Enjoying tteokguk with my relatives in Daegu!']\u001b[0m",
         "ignore": false
+    },
+    "8001159516a9737c07533333fae7d7a0ce4fde897827745bd27a45109d2ebbe5": {
+        "text": "\u001b[91mLine 654: Wrong number of example pairs. 1: ['bar']\u001b[0m",
+        "ignore": false
     }
 }
