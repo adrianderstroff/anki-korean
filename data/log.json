@@ -70,5 +70,13 @@
     "299b54c2cdaca395c3093cfdc662491be8c83a99e473a4fb5bceafb2878f283e": {
         "text": "\u001b[93mline 644: ['lazy', '\uac8c\uc73c\ub974\ub2e4', \"\ub098\ub294 \uc885\uc885 \uac8c\uc73c\ub974\ub2e4.;I'm lazy sometimes.\"] already existed in 342: ['lazy', '\uac8c\uc73c\ub974\ub2e4', '\ub0b4 \ub0a8\ub3d9\uc0dd\uc740 \ub9e4\uc6b0 \uac8c\uc73c\ub974\ub2e4.;My little brother is very lazy.']\u001b[0m",
         "ignore": false
+    },
+    "1295ab2f99867212a8e5859390f6741c07ec8b8b3a8a3acf45fde2cccaab16bf": {
+        "text": "\u001b[93mline 646: ['wet', '\uc2b5\ud558\ub2e4', '\uc624\ub298 \ub0a0\uc528\uac00 \uc2b5\ud574\uc694.;The weather is humid (wet) today.'] already existed in 638: ['humid', '\uc2b5\ud558\ub2e4', \"\uc624\ub298\uc740 \ub0a0\uc528\uac00 \uc2b5\ud574\uc694.;Today's weather is humid.\"]\u001b[0m",
+        "ignore": false
+    },
+    "3880f75b17537e787af189510097e5a4516ba51525e80bb8d6d3108b29c68df3": {
+        "text": "\u001b[93mline 655: ['relatives', '\uce5c\ucc99', '\uba87 \uba85 \uc815\ub3c4\uc758 \uac00\uc871\uacfc \uce5c\ucc99\uc744 \ub9cc\ub098\uc694?;How many family members and relatives do you meet?'] already existed in 232: ['relatives', '\uce5c\ucc99', '\ub300\uad6c\uc5d0\uc11c \uce5c\ucc99\ub4e4\uc774\ub791 \ub5a1\uad6d \uba39\ub294 \uc911!;Enjoying tteokguk with my relatives in Daegu!']\u001b[0m",
+        "ignore": false
     }
 }

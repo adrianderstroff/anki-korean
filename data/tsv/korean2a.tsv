@@ -229,7 +229,7 @@
 87	half-half	반반	이걸 반반씩 나누자.;Let's split this fifty-fifty.
 87	nose	코	네 코에서 콧물 흘러.;Your nose is running.
 87	dangerous, risky	위험하다	흡연은 너의 건강에 위험해.;Smoking is hazardous to your health.;모기는 정말 위험해요!;Mosquitoes are very dangerous!;여기서 수영하는 건 위험하다.;Swimming here is unsafe.
-87	relatives	친척	대구에서 친척들이랑 떡국 먹는 중!;Enjoying tteokguk with my relatives in Daegu!
+87	relatives	친척	몇 명 정도의 가족과 친척을 만나요?;How many family members and relatives do you meet?;대구에서 친척들이랑 떡국 먹는 중!;Enjoying tteokguk with my relatives in Daegu!
 87	to review, revise	복습하다	배운 것을 복습해 보자.;Let's review what you learned.;내일 시험이 있으니까 지금 공부한 내용을 복습해야 해요.;I have an exam tomorrow, so I need to review the material I studied now.
 87	to study in advance	예습하다	예습하는 것도 좋은 생각이고.;It's also a good idea to study in advance.
 87	I think, according to my opinion	제 생각에는	제 생각에는 기차로 가야 할 것 같습니다.;I think we should take the train.
@@ -635,9 +635,19 @@
 117	i agree (casual)	저도 그렇게 생각해요	A: 이 영화 정말 재미있어요. B: 저도 그렇게 생각해요.;A: This movie is really fun. B: I also think so.
 117	dark	어둡다	방이 어두워요.;The room is dark.;저녁에는 거리가 어두워요.;The street gets dark in the evening.
 117	bright	밝다	해가 떠서 밖이 밝아요.;The sun is up, so it's bright outside.;방에 창문이 많아서 밝아요.;There are many windows in the room, so it's bright.
-117	humid	습하다	오늘은 날씨가 습해요.;Today's weather is humid.
+117	humid, wet	습하다	오늘은 날씨가 습해요.;Today's weather is humid.
 117	active	활동 적이다	그 아이는 매우 활동 적이에요.;That child is very active.
 117	indoor	실내	실내에는 테이블과 의자가 있어요.;There are tables and chairs indoors.
 117	outdoor	실외	실외에 가면 많은 것을 볼 수 있어요.;You can see many things when you go outdoors.
 117	sauna	찜질방	찜질방에서 몸을 푸는 게 좋아요.;It's nice to relax and unwind at a sauna.
 117	to grow up	자라다	아이들은 빨리 자라.;Children grow quickly.;꽃이 이쁘게 자라.;The flower grows beautifully
+117	sunny	화창하다	오늘 밖이 화창해.;It's sunny outside today.
+117	be near	가까이헤(서)	제 고향은 룩셈부르크 가까이에 있어요.;My hometown is near Luxembourg.;저는 제 집 가까이에서 조깅해요.;I jog near my house.
+117	dry	건조하다	여름에 건조한 것이 습한 것보다 좋아요.;In summer, dry is better than wet.
+117	insect	벌레	나무에는 작은 벌레들이 많이 있어요.;There are many small insects on the tree.
+117	mosquito	모기	저는 모기가 싫어서 실내에서만 요가를 해요.;I have mosquitoes, so I only do yoga indoors.
+117	a fly (fliege)	파리	으으! 내 커피 안에 파리 한 마리가 있어!;Ugh! There is a fly in my coffee!
+117	forest	숲	그 마을은 숲 가까이에 있어요.;The village is near the forest.
+117	border	경계	그 강이 국경이에요.;That river is the border.
+117	(national) border	국경	그 나라가 언제 국경을 개방했습니까?;When did the country open its borders?
+117	excited	신나다	한국 여행에 대해서 무엇이 가장 신나요?;What are you most excited about traveling to Korea?
