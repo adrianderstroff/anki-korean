@@ -293,7 +293,7 @@
 94	to bring	가져가다	우산을 가져가요. 오후에 비가 내린대요.;Take an umbrella. It's raining in the afternoon.
 94	place	곳	우리 이 곳에서 나가자!;Let's get out of this place!;이 곳은 내 자리이다.;This is my place.
 94	Yeouido (large island in Seoul where the parliament is located.)	여의도	우리는 여의도부터 신촌까지 걸어갔다.;We walked from Yeouido to Shinchon.
-94	exactly, definitely, absolutely	꼭	저는 꼭 가볼게요.;I'll definitely go.;너는 꼭 해야 돼.;You absolutely have to do it.;다음에 꼭 같이 가요.;I will definitely go with you next time.
+94	exactly, definitely, absolutely (when suggesting something)	꼭	저는 꼭 가볼게요.;I'll definitely go.;너는 꼭 해야 돼.;You absolutely have to do it.;다음에 꼭 같이 가요.;I will definitely go with you next time.;그럼 다음에 꼭 같이 가요.;Then let's go together next time.
 95	weekday	주중	이번 주중에 시간 있으세요?;Do you have time this week?
 95	beverage, drink	음료수	자주 마시는 음료수가 뭐예요?;What is your favourite drink?
 95	to complete	완성하다	문장을 완성해 보세요.;Try to complete the sentence.
@@ -655,9 +655,17 @@
 118	be unique	특이하다	한국 스타일 피자가 정말 특이하다.;Korean style pizza is really unique.
 118	be creative	창의적이다	여러분이 창의적이 되는 것이 중요해요.;It's important that you be creative.
 118	because	왜냐(하)면	왜냐하면 비가 오기 때문에 우산을 가져와야 해요.;Because it's raining, we need to bring an umbrella.
-118	N와/과 다르다	different from N	이 피자가 이탈리아 피자와 달라요.;This pizza is different from italian pizza.;나는 남동생과 성격이 달라요.;I have a different personality from my younger brother.
-118	와/과 가깝다	close to	네덜란드 가까이에 있어요.;It's near the Netherlands.
-118	행복하다	happy	행복한 것이 중요해요.;Being happy is important.;행복한 사람;A happy person.
-118	경찰	police	누구 경찰 좀 불러요!;Somebody call the cops!
-118	슈퍼,마트	supermarket	은행은 슈퍼마켓 건너편에 있다.;There is a bank opposite the supermarket.;저는 마트에서 식료품을 사러 갔어요.;I went to the mart to buy groceries.
-118	차이	difference	그 두 가지 제품 사이에는 큰 차이가 있어요.;There is a big difference between those two products.
+118	different from N	N와/과 다르다	이 피자가 이탈리아 피자와 달라요.;This pizza is different from italian pizza.;나는 남동생과 성격이 달라요.;I have a different personality from my younger brother.
+118	close to	와/과 가깝다	네덜란드 가까이에 있어요.;It's near the Netherlands.
+118	happy	행복하다	행복한 것이 중요해요.;Being happy is important.;행복한 사람;A happy person.
+118	police	경찰	누구 경찰 좀 불러요!;Somebody call the cops!
+118	supermarket	슈퍼,마트	은행은 슈퍼마켓 건너편에 있다.;There is a bank opposite the supermarket.;저는 마트에서 식료품을 사러 갔어요.;I went to the mart to buy groceries.
+118	difference	차이	그 두 가지 제품 사이에는 큰 차이가 있어요.;There is a big difference between those two products.
+119	expression	표현	이 표현은 어떻게 해석하나요?;How do you interpret this expression?
+119	phrases	구문	구문을 이해하는 것은 중요합니다.;Understanding phrases is important.
+119	to translate	번역하다	저는 영어를 한국어로 번역할 수 있어요. ;I can translate English into Korean.
+119	How to say X in Korean?	X을/를 한국어로 어떻게 말해요?	한국어로 '안녕하세요'를 어떻게 말해요?;How do you say 'hello' in Korean?;중국 친구가 한국어로 '안녕하세요'라고 어떻게 말해요?;My Chinese friend asked me how to say 'hello' in Korean.
+119	to remember	기억하다	나는 어제의 일을 잘 기억해요.;I remember what happened yesterday well.
+119	to lend	빌려주다	친구가 나에게 책을 빌려줬어요.;My friend lent me a book.
+119	well...	글쎄(요)	글쎄요. 수업 끝나고 2시쯤에 가려고요.;Well, I'm going to go around 2 o'clock after class.
+119	(piece of) work	작품	그 작품은 정말 아름답네요.;That work is really beautiful.

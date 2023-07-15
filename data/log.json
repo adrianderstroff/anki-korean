@@ -82,5 +82,9 @@
     "8001159516a9737c07533333fae7d7a0ce4fde897827745bd27a45109d2ebbe5": {
         "text": "\u001b[91mLine 654: Wrong number of example pairs. 1: ['bar']\u001b[0m",
         "ignore": false
+    },
+    "750c31eb5b949d8a54901de5a7d2f3e6684ed12f5dcb51d0640acafbfa522977": {
+        "text": "\u001b[93mline 670: ['surely, certainly(when suggesting)', '\uaf2d', \"\uadf8\ub7fc \ub2e4\uc74c\uc5d0 \uaf2d \uac19\uc774 \uac00\uc694.;Then let's go together next time.\"] already existed in 296: ['exactly, definitely, absolutely', '\uaf2d', \"\uc800\ub294 \uaf2d \uac00\ubcfc\uac8c\uc694.;I'll definitely go.;\ub108\ub294 \uaf2d \ud574\uc57c \ub3fc.;You absolutely have to do it.;\ub2e4\uc74c\uc5d0 \uaf2d \uac19\uc774 \uac00\uc694.;I will definitely go with you next time.\"]\u001b[0m",
+        "ignore": false
     }
 }
