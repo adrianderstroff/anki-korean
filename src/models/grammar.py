@@ -124,6 +124,18 @@ def create_template() -> Template:
 
 def extract_examples(data: Data):
     for j, row in enumerate(data):
+        # check if first entry contains at least one korean character
+        contains_korean = False
+        for char in row[0]:
+            # Get the Unicode code point of the character
+            code_point = ord(char)
+            # Check if the code point falls within the Korean character ranges
+            if (0xAC00 <= code_point <= 0xD7A3) or (0x1100 <= code_point <= 0x11FF) or (0x3130 <= code_point <= 0x318F):
+                contains_korean = True
+                break
+        if not contains_korean:
+            Logger.error(f'line {j + 1}: first entry should contain korean characters: {row}')
+
         examples = row[2]
         examples_list = examples.split(";")
 

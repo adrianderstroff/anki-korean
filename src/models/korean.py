@@ -144,6 +144,18 @@ def check_data(data: Data):
         if len(row) != 3:
             Logger.error(f'line {j+1}: number of entries is not 3: {row}')
 
+        # check if first entry contains only english characters
+        contains_korean = False
+        for char in row[0]:
+            # Get the Unicode code point of the character
+            code_point = ord(char)
+            # Check if the code point falls within the Korean character ranges
+            if (0xAC00 <= code_point <= 0xD7A3) or (0x1100 <= code_point <= 0x11FF) or (0x3130 <= code_point <= 0x318F):
+                contains_korean = True
+                break
+        if contains_korean:
+            Logger.error(f'line {j + 1}: first entry contains korean characters: {row}')
+
         # check for duplicates
         korean = row[1]
         if korean in existing_vocab:
