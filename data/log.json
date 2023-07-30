@@ -6,5 +6,33 @@
     "7975dd1f49405cfcc6b64dc7c6f2d125d156825e30b46f81d14bb4f53dfef4dc": {
         "text": "\u001b[91mline 23: first entry should contain korean characters: ['N+Num+Unit', 'Specify number of things', '\ubaa8\uc790\uac00 \uba87 \uac1c \uc788\uc5b4\uc694?;How many hats do you have?']\u001b[0m",
         "ignore": true
+    },
+    "a5acbfcabb6b2cb653ea4ec644744e4c8d8a0e0179a72ead8bc2df2bf9b7e4b9": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 708] ['121', 'to appear in (movie/drama)', '\uc774 \uc0ac\ub78c\ub4e4\uc774 \uc774 \ub4dc\ub77c\ub9c8\uc758 \ub4f1\uc7a5 \uc778\ubb3c\uc774\uc5d0\uc694.;These people are the characters in this drama.']: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "594f3dbbd2cecb08447748352e8a9614b3b4e979d746a48d46ee9f044aafc9c5": {
+        "text": "\u001b[93mline 701: ['soy sauce', '\uac04\uc7a5', '\uac04\uc7a5\uc744 \uc88b\uc544\ud574\uc694.;I like soy sauce.'] already existed in 138: ['soy sauce', '\uac04\uc7a5', '\uadf8 \ub2e4\uc74c\uc5d0 \uac04\uc7a5\uc744 \ub123\uace0.;Then you add the soy sauce.']\u001b[0m",
+        "ignore": false
+    },
+    "de469b118d77a86068a806dbc8001234b4350fd305622e812c8c28d9a9d93a8c": {
+        "text": "\u001b[93mline 709: ['title', '\uc81c\ubaa9', '\uc774 \uc601\ud654\uc758 \uc81c\ubaa9\uc740 \ubb34\uc5c7\uc778\uac00\uc694?;What is the title of this movie?'] already existed in 99: ['title, heading', '\uc81c\ubaa9', '\uc81c\ubaa9\uc740 \ud398\uc774\uc9c0 \ubc14\ub85c \ub9e8 \uc704\uc5d0 \uc788\ub2e4.;The title is right at the top of the page.']\u001b[0m",
+        "ignore": false
+    },
+    "af30df4b0c1dfe9408170b14e3ec4351f682d7a76755f0dc5e199105802ffcbf": {
+        "text": "\u001b[93mline 717: ['to act', '\uc5f0\uae30\ud558\ub2e4', '\uadf8\ub294 \uc774 \uc601\ud654\uc5d0\uc11c \uc5f0\uae30\ud574\uc694.;He acts in this movie.'] already existed in 472: ['to act', '\uc5f0\uae30\ud558\ub2e4', \"\uadf8\ub294 \uc5f0\uae30\ub97c \uc798\ud574\uc694.;He's good at acting.\"]\u001b[0m",
+        "ignore": false
+    },
+    "5d3360374e9536f540c5e7d760d499b9b1d4123933239bbe77757f371ce062e0": {
+        "text": "\u001b[91mLine 697: Wrong number of example pairs. 3: ['\ud3ec\uc7a5\ud574 \uc8fc\uc138\uc694.', 'Please wrap it up.\ud584\ubc84\uac70 \ub450 \uac1c \ud3ec\uc7a5\ud574 \uc8fc\uc138\uc694.', 'Two burgers to take away, please.']\u001b[0m",
+        "ignore": false
+    },
+    "cdcfc1150ac74cf73b9db7aee3abcbd87f640f50218050693b3d663b389b97e5": {
+        "text": "\u001b[93mline 710: ['title', '\uc81c\ubaa9', '\uc774 \uc601\ud654\uc758 \uc81c\ubaa9\uc740 \ubb34\uc5c7\uc778\uac00\uc694?;What is the title of this movie?'] already existed in 99: ['title, heading', '\uc81c\ubaa9', '\uc81c\ubaa9\uc740 \ud398\uc774\uc9c0 \ubc14\ub85c \ub9e8 \uc704\uc5d0 \uc788\ub2e4.;The title is right at the top of the page.']\u001b[0m",
+        "ignore": false
+    },
+    "fec0cf570263a8a223f789bc4aa1252d1621d3179cd491c57f1e9e6015dec59c": {
+        "text": "\u001b[93mline 718: ['to act', '\uc5f0\uae30\ud558\ub2e4', '\uadf8\ub294 \uc774 \uc601\ud654\uc5d0\uc11c \uc5f0\uae30\ud574\uc694.;He acts in this movie.'] already existed in 472: ['to act', '\uc5f0\uae30\ud558\ub2e4', \"\uadf8\ub294 \uc5f0\uae30\ub97c \uc798\ud574\uc694.;He's good at acting.\"]\u001b[0m",
+        "ignore": false
     }
 }

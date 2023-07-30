@@ -96,7 +96,7 @@
 74	sibling	형제	우리 집 형제들은 늘 다퉈.;My siblings always quarrel.
 74	meaning	뜻	이 단어의 뜻이 뭐죠?;What’s the meaning of this word?
 74	advertisement	광고	우리는 지역 신문에 광고를 냈다.;We put an ad in the local paper.
-75	title, heading	제목	제목은 페이지 바로 맨 위에 있다.;The title is right at the top of the page.
+75	title, heading	제목	제목은 페이지 바로 맨 위에 있다.;The title is right at the top of the page.;이 영화의 제목은 무엇인가요?;What is the title of this movie?
 75	writing, text, article	글	그 글은 25호에 실렸다.;The article appeared in issue 25.
 75	souvenir	기념품	관광객들이 기념품을 사고 있다.;The tourists are shopping for souvenirs.
 75	pronunciation	발음	당신은 발음이 아주 좋아요.;Your pronunciation is excellent.
@@ -135,7 +135,7 @@
 77	egg	계란	나는 계란 한 꾸러미를 샀다.;I bought a dozen eggs.
 77	sugar	설탕	내 커피에 설탕 넣었니?;Did you put sugar in my coffee?
 77	salt	소금	소금과 후추로 양념을 하라.;Season with salt and pepper.
-77	soy sauce	간장	그 다음에 간장을 넣고.;Then you add the soy sauce.
+77	soy sauce	간장	그 다음에 간장을 넣고.;Then you add the soy sauce.;간장을 좋아해요.;I like soy sauce.
 77	knife	칼	그것을 칼을 가지고 잘라라.;Cut it with a knife.
 77	daily life, routine	일상	틀에 박힌 내 일상의 중단.;A break in my daily routine
 77	swimming pool	수영장	그 호텔에 수영장이 있었니?;Was there a pool at the hotel?
@@ -469,7 +469,7 @@
 106	paper	종이	그녀는 종이에 말 그림을 그렸다.;She draws a horse on the paper.
 106	to shout, to yell	소리를 지르다	아이들이 놀이터에서 즐거움에 소리를 지르고 있었다.;The children were shouting in joy at the playground.
 106	several, various	여러가지	게임을 여러가지 해요.;I play various games.;여러가지(의) 게임을 해요.;I play various (of) games.
-106	to act	연기하다	그는 연기를 잘해요.;He's good at acting.
+106	to act	연기하다	그는 연기를 잘해요.;He's good at acting.;그는 이 영화에서 연기해요.;He acts in this movie.
 106	already	벌써	내 셔츠 벌써 말랐어요?;Is my shirt already dry?
 106	grades (exam)	점수	선생님이 부모님에 아들의 나쁜 점수를 알려줘요.;The teacher informs the parents of their son's bad grades.
 107	in the past, long ago	옛날에	옛날에 저는 거기 학교에 다녔었어요.;A long time ago I used to go there to school.
@@ -685,3 +685,31 @@
 120	This is the end of my presentation.	제 발표는 여기까지입니다.	-;-
 120	Please ask any questions.	질문 있으시면 해주세요.	-;-
 120	to be surprised	-이/가 놀라다	저는 이 드라마 때문에 놀랐어요.;I was surprised because of this drama.
+121	espresso	에스프레소	에스프레소를 마시고 싶어요.;I want to drink espresso.
+121	personal option	퍼스널 옵션	퍼스널 옵션을 선택하세요.;Please select the personal option.;퍼스널 옵션을 선택하여 나만의 음료를 만들어보세요!;Select the personal option and make your own drink!
+121	normal/low fat/no fat milk	일반/저지방/무지방 우유	일반 우유를 사용해요.;I use normal milk.;저지방 우유를 사용해요.;I use low fat milk.;무지방 우유를 사용해요.;I use no fat milk.
+121	soy milk	두유	두유를 사용해요.;I use soy milk.
+121	short/tall size	숏/톨 사이즈	따뜻한 음료는 숏 사이즈 가능.;Short size is available for hot drinks.
+121	to choose	선택하다	네가 선택해, 난 결정 못 하겠어.;You choose, I can't decide.
+121	to want	-을/를 원하다	나는 커피를 원해.;I want coffee.;무슨 사이즈 원하세요?;What size do you want?
+121	to give (formal)	드리다	무엇을 드릴까요?;What can I give you?
+121	to pay	계산하다	카드나 현금으로 계산하실까요?;Would you like to pay by card or cash?
+121	to take away	포장하다	포장해 주세요.;Please wrap it up.;햄버거 두 개 포장해 주세요.;Two burgers to take away, please.
+121	a bill	영수증	영수증 원하세요?;Do you want the bill?
+121	raw meat	육회	육회를 먹어 본 적 있어요?;Have you ever tried raw meat?
+121	kimchi soup	김치 찌개	김치 찌개를 먹어 본 적 있어요?;Have you ever tried kimchi soup?
+121	squid	오징어	오징어를 좋아해요.;I like squid.
+121	beef	소고기	소고기를 좋아해요.;I like beef.
+121	scary	무섭다	그 영화는 정말 무섭다.;That movie is really scary.
+121	to fight with (each other)	와/과 (서로) 싸우다	그들은 서로 싸웠어요.;They fought with each other.
+121	surprising, amazing	놀랍다	그가 연기하는 것이 놀라워요.;His acting is amazing.
+121	originally	원래	판다가 원래 중국에만 살아요.;Pandas originally live only in China.
+121	to appear in (movie/drama)	-에 등장하다	이 사람들이 이 드라마의 등장 인물이에요.;These people are the characters in this drama.
+121	to enjoy	즐기다	나는 여행을 즐겨요.;I enjoy traveling.
+121	to be based on	을/를 원작으로 하다	이 영화는 원작으로 만화를 사용했어요.;This movie is based on a comic book.
+121	to be murdered by	에게 살해되다	그는 그의 아내에게 살해되었어요.;He was murdered by his wife.
+121	to promise sth. to so.	-에게 -을/를 약속하다	저는 친구에게 복수를 약속했어요.;I promised my friend revenge.
+121	cast (of a movie)	등장인물	이 영화의 등장인물은 누구예요?;Who are the characters in this movie?
+121	script (of a movie)	대본	이 영화의 대본은 누가 썼어요?;Who wrote the script for this movie?
+121	subtitles	자막	이 영화는 한국어 자막이 있어요.;This movie has Korean subtitles.
+121	to come out, to release	나오다	이 영화는 언제 나와요?;When does this movie come out?
