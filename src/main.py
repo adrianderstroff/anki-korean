@@ -1,7 +1,7 @@
 from typing import List, Callable
 
 from src.logger import Logger
-from src.models import korean, grammar
+from src.models import korean, grammar, travelvocab
 from src.type import ModelDescription
 from src.util import generate, preview, extract_data
 
@@ -25,6 +25,14 @@ def grammar_model() -> ModelDescription:
     return csv_path, deck_title, columns, model
 
 
+def travel_vocab_model() -> ModelDescription:
+    csv_path = "../data/tsv/travelvocab.tsv"
+    deck_title = "Korean Travel Vocab"
+    columns = [1, 2]
+    model = travelvocab.create_model()
+    return csv_path, deck_title, columns, model
+
+
 def generate_and_preview(model_func: Callable[[], ModelDescription], show_preview: bool = False, vocab_range: List[int] = [0, -1]):
     csv_path, deck_title, columns, model = model_func()
     Logger.print(f'[ Generating {deck_title} ]')
@@ -45,4 +53,5 @@ def generate_and_preview(model_func: Callable[[], ModelDescription], show_previe
 
 if __name__ == '__main__':
     generate_and_preview(vocab_model)
-    generate_and_preview(grammar_model, show_preview=False, vocab_range=[-1,-1])
+    generate_and_preview(grammar_model)
+    generate_and_preview(travel_vocab_model, show_preview=True)

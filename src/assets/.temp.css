@@ -3,18 +3,6 @@
             font-family: UhBeeSehyun;
             src: url(./_UhBee-Se_hyun.ttf);
         }
-        @font-face {
-            font-family: Eunjin;
-            src: url(./_eunjinnakseo.ttf);
-        }
-        @font-face {
-            font-family: HoonGothic;
-            src: url(./_1HoonGothicgulim-Regular.ttf);
-        }
-        @font-face {
-            font-family: BareunBatang;
-            src: url(./_BareunBatang-1Light.ttf);
-        }
         .card{
             background-color: #e9ebee;
         }
@@ -76,9 +64,6 @@
         }
         .hangeul {
             font-family: UhBeeSehyun;
-        }
-        .hangeul2 {
-            font-family: HoonGothic;
         }
         .small {
             font-size: 0.7em;

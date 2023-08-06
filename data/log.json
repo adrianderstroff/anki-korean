@@ -34,5 +34,33 @@
     "fec0cf570263a8a223f789bc4aa1252d1621d3179cd491c57f1e9e6015dec59c": {
         "text": "\u001b[93mline 718: ['to act', '\uc5f0\uae30\ud558\ub2e4', '\uadf8\ub294 \uc774 \uc601\ud654\uc5d0\uc11c \uc5f0\uae30\ud574\uc694.;He acts in this movie.'] already existed in 472: ['to act', '\uc5f0\uae30\ud558\ub2e4', \"\uadf8\ub294 \uc5f0\uae30\ub97c \uc798\ud574\uc694.;He's good at acting.\"]\u001b[0m",
         "ignore": false
+    },
+    "45e3ce0b36a7bc0cc3a1909acd4e5d1cfff29a6a6408372e6f7d5f42adb6e78a": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 1] ['food', 'bell pepper', '\ud53c\ub9dd']: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "4aeb3436a424dc10483784e5503864dc268a1b22f5a91d547917515562fc1a20": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 2] ['food', 'chili pepper', '\uace0\ucd94']: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "fc30b8ee4fcf7a1fbdb6d71859cdad0f3beec79c2538b2d99af2519264546346": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 3] ['food', 'eggplant', '\uac00\uc9c0']: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "3347aca6d983cd2ec26739bdda2911cca82b59d0e0cf9f7a0dc186f3e98da469": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 4] ['food', 'carrot', '\ub2f9\uadfc']: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "495e6dd9d88d70a5db693b7894b8ec6cf715553be6196ec0480c144bbe04b170": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 5] ['food', 'potato', '\uac10\uc790']: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "fec3767f632802e34f7c101c8a0f88d8dcd51e000e6db7c0e133ee59f10fa666": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 6] ['food', 'taro', '\ud1a0\ub780']: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "32a2b942ed8874be21c38ad3f5373eca43877ffbc27d82c247cc86279a07b015": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 7] ['food', 'ginger', '\uc0dd\uac15']: list index out of range\u001b[0m",
+        "ignore": false
     }
 }
