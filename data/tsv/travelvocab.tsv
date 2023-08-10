@@ -1,3 +1,14 @@
+restaurant	Do you have a table available?	테이블이 있어요?
+restaurant	Do you have a table for X people?	X[native]명 테이블이 있어요?
+restaurant	Where can I sit?	어디에 앉아도 되나요?
+restaurant	Here! (calling the waiter)	여기요!
+restaurant	Please give me the menu.	메뉴 좀 주세요.
+restaurant	Do you have an english menu?	영어로 된 메뉴판 있나요?
+restaurant	What do you recommend?	어떤 거 추천하시나요?
+restaurant	What's the most popular dish?	가장 인기있는 요리는 뭐예요?
+restaurant	How is this dish called?	이 요리는 무슨 이름이에요?
+restaurant	Is this halal?	할랄인가요?
+restaurant	Does this dish contain X?	이 요리에 X가 들어있나요?
 food	bell pepper	피망
 food	chili pepper	고추
 food	eggplant	가지
