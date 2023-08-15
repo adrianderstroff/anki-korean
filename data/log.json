@@ -62,5 +62,61 @@
     "32a2b942ed8874be21c38ad3f5373eca43877ffbc27d82c247cc86279a07b015": {
         "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 7] ['food', 'ginger', '\uc0dd\uac15']: list index out of range\u001b[0m",
         "ignore": false
+    },
+    "17caaf36fabfacfaa2e8e85526c4cd338910f3a9ed0b11fee2bc94f220e0d128": {
+        "text": "\u001b[93mline 717: ['to pass, to cross', '\uc9c0\ub098\ub2e4', '\ub9c8\ud2b8\ub97c \uc9c0\ub098\ub2e4\uac00 \uacfc\uc77c\uc744 \uc0ac \uc654\uc5b4\uc694.;I bought some fruits while passing by the mart.'] already existed in 411: ['to pass by, to go past', '\uc9c0\ub098\ub2e4', \"\uc57d\uc18d \uc2dc\uac04\uc774 \uc9c0\ub0ac\ub294\ub370 \uc544\ubb34\ub3c4 \uc548 \uc654\uc5b4\uc694?;It's past the appointed time. Has nobody come?\"]\u001b[0m",
+        "ignore": false
+    },
+    "8edd4674b6339e455f9710a37eeb79ceb7bf5a2ced3732ddc4d6221d7f17f952": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 731] ['123', 'number', '\uc22b\uc790']: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "a4033e09dd8b55c1e1c752018bc9c2013a53c9cdc53422e3ed9df96e5de8d8dd": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 732] ['123', 'for how many hours?', '\uba87 \uc2dc\uac04']: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "169268d97b52c9c6e5c2c13f2af82e3589782a68134d9468c66043b286a9262a": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 733] ['123', 'on what time?', '\uba87 \uc2dc\uc5d0']: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "2fb9f17dd8318f15d8ada1587e82ce22aed50471da5cf88c46d84b6cddfcd350": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 734] ['123', 'to stop sth. (e.g. a car)', '\uc744/\ub97c \uc138\uc6b0\ub2e4']: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "c1216c5abdf674df04060b769f5dc1a3d6dee2e8bacbc902688d419f030451c6": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 735] ['123', 'verb', '\ub3d9\uc0ac']: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "8a4dbbc1c23fe721e173f58757f099b2e3f27e178a10859c054546cc911d2917": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 736] ['123', 'auntie, older lady', '\uc544\uc90c\ub9c8']: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "e9acb0d5916f2b2993ed8b1d860e9a6239c003a2879af01bf2cb381e97a63e02": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 737] ['123', 'uncle, older man', '\uc544\uc800\uc528']: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "5706e130263a77449b8634ed70a81ea4967e10b11f7b9972c4f3a0269ff80c8e": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 738] ['123', 'bad', '\ub098\uc058\ub2e4']: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "92e6649849a6915e2d2cb68e60c31ed4e721b8da7eba5e406143003061faf351": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 739] ['123', 'I have received much education. (proverb)', '\uc800\ub294 \uac00\ubc29\ub048\uc774 \uae38\uc5b4\uc694.']: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "80d25e43eec41c80918fe6efb0001cad4101f207e5031fa1383b125df96a4b42": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 740] ['123', 'dangerous ', '\uc704\ud5d8\ud558\ub2e4']: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "cd20594720fdfaac81560285a8993d380ffba6876224dc444eb65da1e95969b4": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 741] ['123', 'accomodation', '\uc219\uc18c']: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "f4576ffe8e837114b303b3bb1bd00b31dd6c7d97212164515aab29a27b89a826": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 742] ['123', 'to clean', '\uccad\uc18c\ud558\ub2e4']: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "b0cb274d88704c9cd455b208b2d8c06eb5a275988ab38a491bd3791ef4aa101e": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 743] ['123', 'smile (when taking a photo)', '\uc6c3\uc73c\uc138\uc694']: list index out of range\u001b[0m",
+        "ignore": false
     }
 }
