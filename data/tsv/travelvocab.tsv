@@ -32,6 +32,35 @@ hotel	Until when can I check inn?	언제까지 체크인할 수 있나요?
 hotel	Until when can I check out?	언제까지 체크아웃해야 하나요?
 hotel	Do I need to pay upfront?	선불로 결제해야 하나요?
 travel	Please take a picture of us.	여기서 사직 좀 찍어 주세요.
+travel	Excuse me.	실례합니다.
+travel	Where is the restroom?	화장실이 어디예요?
+travel	Do you know X (place)?	X (장소)를 아십니까?
+travel	How do I get to X?	X (장소)에 어떻게 가나요?
+travel	How long does it take to get there?	거기까지 가는데 얼마나 걸리나요?
+travel	Can I take the metro/bus/train to get there?	지하철/버스/기차를 타고 거기에 갈 수 있을까요?
+travel	Where is the next bus/metro stop?	다음 버스/지하철 정류장은 어디에 있나요?
+travel	At which bus/metro stop do I have to get off?	어느 버스/지하철 정류장에서 내려야 하나요?
+travel	How often does the bus take off at this stop?	이 정류장에서 버스는 얼마 간격으로 출발하나요?
+travel	Thank you for your help.	도움을 주셔서 감사합니다.
+travel	Have a nice day.	즐거운 하루 되세요.
+travel	Bye.	안녕.
+supermarket	Do you have X?	X 있나요?
+supermarket	Where can I find X?	X은 어디에서 찾을 수 있나요?
+supermarket	I want Y amount of X.	X을 Y (수량) 만큼 원해요.
+supermarket	How much does X cost.	X은 얼마인가요?
+supermarket	How much does it cost in total?	모두 다 해서 얼마예요?
+friends	Hey X!	X씨, 안녕!
+friends	Long time no see!	오랜만이야!
+friends	How have you been?	잘 지냈어?
+friends	What are you doing recently?	최근에 뭐 하고 지내(니)?
+friends	I'm good	잘 지내.
+friends	I'm soso	그럭저럭이야.
+friends	I'm not doing good	좀 힘들어/힘들었어
+friends	It was great to see you again.	다시 볼 수 있어서 좋았어.
+friends	See you next time.	다음에 봐.
+friends	Have a nice day.	좋은 하루 되세요/보내세요.
+friends	Have a good evening.	좋은 저녁 되세요/보내세요.
+friends	Bye (for friends)	다음에 봐요 / 잘 가요.
 filler	you know what...	있잖아...
 filler	Oh, I just remembered...	참!...
 filler	in short...(to summarize)	말하자면...
