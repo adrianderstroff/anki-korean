@@ -9,6 +9,14 @@ restaurant	What's the most popular dish?	가장 인기있는 요리는 뭐예요
 restaurant	How is this dish called?	이 요리는 무슨 이름이에요?
 restaurant	Is this halal?	할랄인가요?
 restaurant	Does this dish contain X?	이 요리에 X가 들어있나요?
+restaurant	I'm so full.	배불러요!
+restaurant	This is delicious.	맛있어요.
+restaurant	The dish is a bit spicy.	이 요리는 조금 매워요.
+restaurant	Bill please.	계산서 주세요.
+restaurant	It’s on me.	내가 낼게.
+restaurant	What’s the total price?	전체 얼마예요?
+restaurant	Do you accept cards?	카드 받으세요?
+restaurant	Can I pay with cash?	현금으로 낼 수 있어요?
 food	bell pepper	피망
 food	chili pepper	고추
 food	eggplant	가지
@@ -16,3 +24,15 @@ food	carrot	당근
 food	potato	감자
 food	taro	토란
 food	ginger	생강
+hotel	Do you have a room for 1 person?	1인용 방이 있나요?
+hotel	I want to book a room from A to B.	X월 A일부터 B일까지 방을 예약하고 싶어요.
+hotel	Is breakfast included?	조식이 포함되어 있나요?
+hotel	Until when do you offer breakfast?	언제까지 조식이 있나요?
+hotel	Until when can I check inn?	언제까지 체크인할 수 있나요?
+hotel	Until when can I check out?	언제까지 체크아웃해야 하나요?
+hotel	Do I need to pay upfront?	선불로 결제해야 하나요?
+travel	Please take a picture of us.	여기서 사직 좀 찍어 주세요.
+filler	you know what...	있잖아...
+filler	Oh, I just remembered...	참!...
+filler	in short...(to summarize)	말하자면...
+filler	anyway...(to change the topic)	아무튼...
