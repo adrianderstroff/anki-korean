@@ -118,5 +118,17 @@
     "b0cb274d88704c9cd455b208b2d8c06eb5a275988ab38a491bd3791ef4aa101e": {
         "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 743] ['123', 'smile (when taking a photo)', '\uc6c3\uc73c\uc138\uc694']: list index out of range\u001b[0m",
         "ignore": false
+    },
+    "ecbe7c45a970e5368d18b5306b098c21d66a2a0e6803a830e01eea4dff390539": {
+        "text": "\u001b[93mline 731: ['number', '\uc22b\uc790', '\uc22b\uc790\ub97c \uc4f0\uc138\uc694.;Write the number.'] already existed in 481: ['number', '\uc22b\uc790', '\ud55c\uad6d\uc5b4\uc5d0\uc11c \uc22b\uc790\ub97c \uc140 \uc904 \uc54c\uc544\uc694.;I can count numbers in Korean.']\u001b[0m",
+        "ignore": false
+    },
+    "d9a741435ebe43db0413f8d76dfe1ac661f58e341f7fdf7c5ff8d073955ec29d": {
+        "text": "\u001b[93mline 740: ['dangerous ', '\uc704\ud5d8\ud558\ub2e4', '\uc704\ud5d8\ud55c \uac83\uc774 \ubb34\uc5c7\uc778\uac00\uc694?;What is dangerous?'] already existed in 231: ['dangerous, risky', '\uc704\ud5d8\ud558\ub2e4', '\ud761\uc5f0\uc740 \ub108\uc758 \uac74\uac15\uc5d0 \uc704\ud5d8\ud574.;Smoking is hazardous to your health.;\ubaa8\uae30\ub294 \uc815\ub9d0 \uc704\ud5d8\ud574\uc694!;Mosquitoes are very dangerous!;\uc5ec\uae30\uc11c \uc218\uc601\ud558\ub294 \uac74 \uc704\ud5d8\ud558\ub2e4.;Swimming here is unsafe.']\u001b[0m",
+        "ignore": false
+    },
+    "ee9cc2a5d13cf29f0246b4a97eedb5b656ed15dd38ab854f99b90275bf377a02": {
+        "text": "\u001b[93mline 741: ['accomodation', '\uc219\uc18c', '\uc219\uc18c\ub294 \uc5b4\ub514\uc5d0 \uc788\uc5b4\uc694?;Where is the accommodation?'] already existed in 544: ['accommodation', '\uc219\uc18c', '\uc6b0\ub9ac\ub294 \uc7a0\uc798 \uc219\uc18c\uac00 \uc5c6\ub2e4.;We have no accommodation to sleep.;\uc219\uc18c\ub294 \uc815\ud558\uc168\uc2b5\ub2c8\uae4c?;Have you decided on an accommodation?']\u001b[0m",
+        "ignore": false
     }
 }
