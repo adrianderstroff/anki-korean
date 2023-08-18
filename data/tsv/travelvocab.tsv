@@ -17,6 +17,10 @@ restaurant	It’s on me.	내가 낼게.
 restaurant	What’s the total price?	전체 얼마예요?
 restaurant	Do you accept cards?	카드 받으세요?
 restaurant	Can I pay with cash?	현금으로 낼 수 있어요?
+restaurant  seat    자리
+restaurant  to recommend
+restaurant  bill    계산서
+restaurant  whole, total    전체
 food	bell pepper	피망
 food	chili pepper	고추
 food	eggplant	가지
@@ -24,6 +28,7 @@ food	carrot	당근
 food	potato	감자
 food	taro	토란
 food	ginger	생강
+food    to contain  들어있다
 hotel	Do you have a room for 1 person?	1인용 방이 있나요?
 hotel	I want to book a room from A to B.	X월 A일부터 B일까지 방을 예약하고 싶어요.
 hotel	Is breakfast included?	조식이 포함되어 있나요?
@@ -31,6 +36,10 @@ hotel	Until when do you offer breakfast?	언제까지 조식이 있나요?
 hotel	Until when can I check inn?	언제까지 체크인할 수 있나요?
 hotel	Until when can I check out?	언제까지 체크아웃해야 하나요?
 hotel	Do I need to pay upfront?	선불로 결제해야 하나요?
+hotel   to reserve, to book 예약하다
+hotel   breakfast   조식
+hotel   to include  포함되다
+hotel   upfront 선불로
 travel	Please take a picture of us.	여기서 사직 좀 찍어 주세요.
 travel	Excuse me.	실례합니다.
 travel	Where is the restroom?	화장실이 어디예요?
@@ -44,6 +53,11 @@ travel	How often does the bus take off at this stop?	이 정류장에서 버스�
 travel	Thank you for your help.	도움을 주셔서 감사합니다.
 travel	Have a nice day.	즐거운 하루 되세요.
 travel	Bye.	안녕.
+transportation  subway, metro  지하철
+transportation  train   기차
+transportation  station 정류장 [정뉴장]
+transportation  to get off  에서 내리다
+transportation  at what interval?   얼마 간격으로
 supermarket	Do you have X?	X 있나요?
 supermarket	Where can I find X?	X은 어디에서 찾을 수 있나요?
 supermarket	I want Y amount of X.	X을 Y (수량) 만큼 원해요.
@@ -61,7 +75,13 @@ friends	See you next time.	다음에 봐.
 friends	Have a nice day.	좋은 하루 되세요/보내세요.
 friends	Have a good evening.	좋은 저녁 되세요/보내세요.
 friends	Bye (for friends)	다음에 봐요 / 잘 가요.
+people  joyful, pleasant    즐겁다
 filler	you know what...	있잖아...
 filler	Oh, I just remembered...	참!...
 filler	in short...(to summarize)	말하자면...
 filler	anyway...(to change the topic)	아무튼...
+life    popular 인기있다
+life    to pay  내다, 결재하다
+life    X people    X[sino-korean] 인용
+life    to help 도움을 주다
+life    recently    최근에
