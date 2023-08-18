@@ -631,11 +631,8 @@
 116	on purpose	일부러	친구가 일부러 나를 기다리지 않고 먼저 가버렸어요.;My friend intentionally left without waiting for me.
 116	reason	이유	진짜 이유를 말해 봐.;Tell me the real reason.;아무 울 이유가 없어.;There's nothing to cry about.
 116	line (bus, tram, ..)	호선	지하철 2호선에서 4호선으로 갈아타요.;Transfer from subway line 2 to line 4.
-116 to have a conversation  대화하다
-116 topic   주제
-116 sunny   화창하다
-116 forest  숲
-116 chips   작은 조각
+116	to have a conversation	대화하다	저는 친구와 대화하고 싶어요.;I want to talk to my friend.
+116	topic	주제	이 주제에 대해 얘기해 봐요.;Let's talk about this topic.
 117	midsummer	한여름	저는 한여름에는 거기에 가지 않겠어요.;I wouldn't go there in midsummer.
 117	i agree (casual)	저도 그렇게 생각해요	A: 이 영화 정말 재미있어요. B: 저도 그렇게 생각해요.;A: This movie is really fun. B: I also think so.
 117	dark	어둡다	방이 어두워요.;The room is dark.;저녁에는 거리가 어두워요.;The street gets dark in the evening.
@@ -743,3 +740,12 @@
 123	I have received much education. (proverb)	저는 가방끈이 길어요.	-;-
 123	to clean	청소하다	방을 청소해야 해요.;I need to clean the room.
 123	smile (when taking a photo)	웃으세요	웃으세요!;Smile!
+123	there	저쪽	저쪽에 뭐가 있어요?;What's over there?
+123	to cross	건너다	길을 건너서 가세요.;Cross the road and go.
+123	to enter	들어가다	문을 열고 방에 들어갔어요.;I opened the door and entered the room.
+123	to transfer	환승하다	지하철을 환승해야 해요.;I need to transfer to the subway.
+123	to get off	내리다	지하철을 내리는 곳은 목적지 역에서입니다.;The place to get off the subway is at the destination station.
+123	now	이제	이제 집에 가야 해요.;I have to go home now.
+123	interval	간격	버스의 간격은 얼마나 되나요?;How long is the interval between buses?
+123	to pass an exam	시험에 합격하다	저는 입시에 합격했어요.;I passed the entrance exam.
+123	across	맞은편	맞은편에 뭐가 있어요?;What's across the street?

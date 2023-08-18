@@ -130,5 +130,73 @@
     "ee9cc2a5d13cf29f0246b4a97eedb5b656ed15dd38ab854f99b90275bf377a02": {
         "text": "\u001b[93mline 741: ['accomodation', '\uc219\uc18c', '\uc219\uc18c\ub294 \uc5b4\ub514\uc5d0 \uc788\uc5b4\uc694?;Where is the accommodation?'] already existed in 544: ['accommodation', '\uc219\uc18c', '\uc6b0\ub9ac\ub294 \uc7a0\uc798 \uc219\uc18c\uac00 \uc5c6\ub2e4.;We have no accommodation to sleep.;\uc219\uc18c\ub294 \uc815\ud558\uc168\uc2b5\ub2c8\uae4c?;Have you decided on an accommodation?']\u001b[0m",
         "ignore": false
+    },
+    "9863a540f37c0019230c1c1db094d0d7658307c71d545f313a81832cb5f694b5": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 634] ['116 to have a conversation  \ub300\ud654\ud558\ub2e4']: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "25723db2c3dabc59dffc3a98e7d514a74627c1175ab75bce2cdf148b41ee5b2d": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 635] ['116 topic   \uc8fc\uc81c']: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "4e51bc30d6cef891e8857142979103374f5ea5fb12fef513163be7e564b463d6": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 636] ['116 sunny   \ud654\ucc3d\ud558\ub2e4']: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "d5ef1bf5f90acaef6a44a68af28946a48adb0456c5ab7cc9ed728d8d1b77044a": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 637] ['116 forest  \uc232']: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "b480c155d34bbcd70e1b484029de794edcbf7d1bcf0bfcb74bd3178e720cfd4c": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 638] ['116 chips   \uc791\uc740 \uc870\uac01']: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "57819c295bb42436a32517980ac96d0f51db2e27c8337edc15026c59982d6686": {
+        "text": "\u001b[93mline 742: ['to wash', '\uc53b\ub2e4', '\uc800\ub294 \uc5bc\uad74\uc744 \uc53b\uc5b4\uc694.;I wash my face.;\uc800\ub141 \uc2dd\uc0ac \ud6c4\uc5d0\ub294 \uadf8\ub987\uc744 \uc53b\uc5b4\uc57c \ud574\uc694.;After dinner, we need to wash the dishes.'] already existed in 612: ['to wash', '\uc53b\ub2e4', '\uc800\ub294 \uc544\uce68\uc5d0 \uc5bc\uad74\uc744 \uc53b\uc5b4\uc694.;I wash my face in the morning.;\ubc14\ub2e5\uc744 \uccad\uc18c\ud558\uace0 \uc53b\uc5c8\uc5b4\uc694.;I cleaned the floor and washed it.;\uc800\ub141 \uc2dd\uc0ac \ud6c4\uc5d0\ub294 \uadf8\ub987\uc744 \uc53b\uc5b4\uc57c \ud574\uc694.;After dinner, we need to wash the dishes.']\u001b[0m",
+        "ignore": false
+    },
+    "56450c39671133d82e1bb96274c633b5a9da44bd1fc66dd2a45e8586c0d61ff4": {
+        "text": "\u001b[93mline 748: ['promise, appointment', '\uc57d\uc18d', '\uc57d\uc18d\uc2dc\uac04\uc744 \uc798 \uae30\uc5b5\ud558\uace0 \uc788\uc5b4\uc57c \ud574\uc694.;You need to remember the appointment time well.'] already existed in 270: ['appointment, promise', '\uc57d\uc18d', \"\ub0b4\uc77c \uc57d\uc18d\uc774 11\uc2dc \uc9c0\uc694?;The appointment is tomorrow at 11 o'clock?\"]\u001b[0m",
+        "ignore": false
+    },
+    "e8d590c54ec8e87d8aa8f1b619a7d989c10ee9a86e6cbb7c3d7a1ab4d7a5d824": {
+        "text": "\u001b[93mline 752: ['building', '\uac74\ubb3c', '\uadf8 \uac74\ubb3c\uc740 \ubb34\uc5c7\uc778\uac00\uc694?;What is that building?'] already existed in 173: ['building', '\uac74\ubb3c', '\uc774 \uac74\ubb3c\uc740 \uc815\ubd80 \uc7ac\uc0b0\uc774\ub2e4.;This building is government property.']\u001b[0m",
+        "ignore": false
+    },
+    "b4ce001b550390f1708e2e52927f8dfc52cb4ceeadd7202d9fa5b5e4fc328fcb": {
+        "text": "\u001b[93mline 81: ['Please take a picture of us.', '\uc5ec\uae30\uc11c \uc0ac\uc9c1 \uc880 \ucc0d\uc5b4 \uc8fc\uc138\uc694.'] already existed in 43: ['Please take a picture of us.', '\uc5ec\uae30\uc11c \uc0ac\uc9c1 \uc880 \ucc0d\uc5b4 \uc8fc\uc138\uc694.']\u001b[0m",
+        "ignore": false
+    },
+    "b7cca71721ae144708be0226790526e222f9466d744dbae927b583857b169772": {
+        "text": "\u001b[93mline 648: ['sunny', '\ud654\ucc3d\ud558\ub2e4', \"\uc624\ub298 \ubc16\uc774 \ud654\ucc3d\ud574.;It's sunny outside today.\"] already existed in 636: ['sunny', '\ud654\ucc3d\ud558\ub2e4', \"\uc624\ub298 \ubc16\uc774 \ud654\ucc3d\ud574.;It's sunny outside today.\"]\u001b[0m",
+        "ignore": false
+    },
+    "b2c55c718627856ac88108cf2469602ab3770ab47d4b15a352771981aedd7068": {
+        "text": "\u001b[93mline 654: ['forest', '\uc232', '\uadf8 \ub9c8\uc744\uc740 \uc232 \uac00\uae4c\uc774\uc5d0 \uc788\uc5b4\uc694.;The village is near the forest.'] already existed in 637: ['forest', '\uc232', '\uadf8 \ub9c8\uc744\uc740 \uc232 \uac00\uae4c\uc774\uc5d0 \uc788\uc5b4\uc694.;The village is near the forest.']\u001b[0m",
+        "ignore": false
+    },
+    "d3e5946a84714b5e84ab34eb635ad4a66f6eb55808ec0d616efa3a9a9cea72c3": {
+        "text": "\u001b[93mline 746: ['to wash', '\uc53b\ub2e4', '\uc800\ub294 \uc5bc\uad74\uc744 \uc53b\uc5b4\uc694.;I wash my face.;\uc800\ub141 \uc2dd\uc0ac \ud6c4\uc5d0\ub294 \uadf8\ub987\uc744 \uc53b\uc5b4\uc57c \ud574\uc694.;After dinner, we need to wash the dishes.'] already existed in 612: ['to wash', '\uc53b\ub2e4', '\uc800\ub294 \uc544\uce68\uc5d0 \uc5bc\uad74\uc744 \uc53b\uc5b4\uc694.;I wash my face in the morning.;\ubc14\ub2e5\uc744 \uccad\uc18c\ud558\uace0 \uc53b\uc5c8\uc5b4\uc694.;I cleaned the floor and washed it.;\uc800\ub141 \uc2dd\uc0ac \ud6c4\uc5d0\ub294 \uadf8\ub987\uc744 \uc53b\uc5b4\uc57c \ud574\uc694.;After dinner, we need to wash the dishes.']\u001b[0m",
+        "ignore": false
+    },
+    "cacfc26256ab392c970948e87856c0be142129b5648de65dc132cf16a1d67ad9": {
+        "text": "\u001b[93mline 752: ['promise, appointment', '\uc57d\uc18d', '\uc57d\uc18d\uc2dc\uac04\uc744 \uc798 \uae30\uc5b5\ud558\uace0 \uc788\uc5b4\uc57c \ud574\uc694.;You need to remember the appointment time well.'] already existed in 270: ['appointment, promise', '\uc57d\uc18d', \"\ub0b4\uc77c \uc57d\uc18d\uc774 11\uc2dc \uc9c0\uc694?;The appointment is tomorrow at 11 o'clock?\"]\u001b[0m",
+        "ignore": false
+    },
+    "a87d56c1d9189e507cbff085c97477104d09fe7e57b915fba2016d70105841ef": {
+        "text": "\u001b[93mline 756: ['building', '\uac74\ubb3c', '\uadf8 \uac74\ubb3c\uc740 \ubb34\uc5c7\uc778\uac00\uc694?;What is that building?'] already existed in 173: ['building', '\uac74\ubb3c', '\uc774 \uac74\ubb3c\uc740 \uc815\ubd80 \uc7ac\uc0b0\uc774\ub2e4.;This building is government property.']\u001b[0m",
+        "ignore": false
+    },
+    "e19a940f6330b19c140e74f7c020f1c036a04030c1ea14cf5b5ae74858fa2b12": {
+        "text": "\u001b[93mline 744: ['to wash', '\uc53b\ub2e4', '\uc800\ub294 \uc5bc\uad74\uc744 \uc53b\uc5b4\uc694.;I wash my face.;\uc800\ub141 \uc2dd\uc0ac \ud6c4\uc5d0\ub294 \uadf8\ub987\uc744 \uc53b\uc5b4\uc57c \ud574\uc694.;After dinner, we need to wash the dishes.'] already existed in 612: ['to wash', '\uc53b\ub2e4', '\uc800\ub294 \uc544\uce68\uc5d0 \uc5bc\uad74\uc744 \uc53b\uc5b4\uc694.;I wash my face in the morning.;\ubc14\ub2e5\uc744 \uccad\uc18c\ud558\uace0 \uc53b\uc5c8\uc5b4\uc694.;I cleaned the floor and washed it.;\uc800\ub141 \uc2dd\uc0ac \ud6c4\uc5d0\ub294 \uadf8\ub987\uc744 \uc53b\uc5b4\uc57c \ud574\uc694.;After dinner, we need to wash the dishes.']\u001b[0m",
+        "ignore": false
+    },
+    "f529666859ca9d5f1f2e190fe16f8d63dd880d06a0ed6505998cea55c7c733c1": {
+        "text": "\u001b[93mline 750: ['promise, appointment', '\uc57d\uc18d', '\uc57d\uc18d\uc2dc\uac04\uc744 \uc798 \uae30\uc5b5\ud558\uace0 \uc788\uc5b4\uc57c \ud574\uc694.;You need to remember the appointment time well.'] already existed in 270: ['appointment, promise', '\uc57d\uc18d', \"\ub0b4\uc77c \uc57d\uc18d\uc774 11\uc2dc \uc9c0\uc694?;The appointment is tomorrow at 11 o'clock?\"]\u001b[0m",
+        "ignore": false
+    },
+    "bcfa0d77a6c1e7207ac806c387e3506d1122c5c285631aa22c080216376fb97f": {
+        "text": "\u001b[93mline 754: ['building', '\uac74\ubb3c', '\uadf8 \uac74\ubb3c\uc740 \ubb34\uc5c7\uc778\uac00\uc694?;What is that building?'] already existed in 173: ['building', '\uac74\ubb3c', '\uc774 \uac74\ubb3c\uc740 \uc815\ubd80 \uc7ac\uc0b0\uc774\ub2e4.;This building is government property.']\u001b[0m",
+        "ignore": false
     }
 }
