@@ -48,6 +48,8 @@ def match_element(tag_name: str) -> Element:
         elem = html.H5
     elif tag_name == "h6":
         elem = html.H6
+    elif tag_name == "script":
+        elem = html.Script
     else:
         Logger.warn(f"No match for tag '{tag_name}', used Div instead")
         elem = html.Div
@@ -100,7 +102,9 @@ def add_children(children: str) -> Element:
 
 def construct_result_element(elem: Element, class_name: str, elem_id: str, style: Dict[str, str], children: str) \
         -> ElementInstance:
-    if class_name and elem_id:
+    if elem == html.Script:
+        result = elem(children)
+    elif class_name and elem_id:
         if len(children) > 0:
             result = elem(className=class_name, id=elem_id, style=style, children=add_children(children))
         else:

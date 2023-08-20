@@ -52,7 +52,11 @@ def generate_deck(output_file_name: str, data: Data, deck_title: str, deck_id: i
     class MyNote(genanki.Note):
         @property
         def guid(self):
-            return genanki.guid_for(self.fields[gui_field])
+            # if gui_field is a list, we concatenate the fields
+            if isinstance(gui_field, list):
+                return genanki.guid_for('-'.join([self.fields[i] for i in gui_field]))
+            else:
+                return genanki.guid_for(self.fields[gui_field])
 
     # add notes to deck
     for row in data:

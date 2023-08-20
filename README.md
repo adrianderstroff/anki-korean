@@ -15,7 +15,7 @@ The model should is a dictionary containing the following fields
 |--------------|------------------------------------------------------------------------------------------------------------------------------|-----------|
 | name         | Name of the note type                                                                                                        | Yes       |
 | id           | Unique note ID, this is used by Anki to identify which notes should be updated.                                              | Yes       |
-| gui_field    | Index of which card field should be used to identify a card. Should be unique among all cards                                | Yes       |
+| gui_field    | Index or list of indices of which card field should be used to identify a card. Should be unique among all cards             | Yes       |
 | fields       | A list of the field names used in the card template.                                                                         | Yes       |
 | css          | CSS styling that should be applied to the html elements specified in the card template                                       | Yes       |
 | template     | A list of card templates. Its a list because one might want cards for both directions (English->Korean and Korean->English). | Yes       | 

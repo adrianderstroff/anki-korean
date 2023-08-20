@@ -198,5 +198,13 @@
     "bcfa0d77a6c1e7207ac806c387e3506d1122c5c285631aa22c080216376fb97f": {
         "text": "\u001b[93mline 754: ['building', '\uac74\ubb3c', '\uadf8 \uac74\ubb3c\uc740 \ubb34\uc5c7\uc778\uac00\uc694?;What is that building?'] already existed in 173: ['building', '\uac74\ubb3c', '\uc774 \uac74\ubb3c\uc740 \uc815\ubd80 \uc7ac\uc0b0\uc774\ub2e4.;This building is government property.']\u001b[0m",
         "ignore": false
+    },
+    "3a985e9d01954563b65b066a56091f55a3be0fe9d672c16416d62ffcc70501bd": {
+        "text": "\u001b[93mNo match for tag 'script', used Div instead\u001b[0m",
+        "ignore": false
+    },
+    "1ed57bee31657e1c80005087145cf06e1ae53865adfcec728bf93f5018b1c15f": {
+        "text": "\u001b[93mNo match for tag '/script', used Div instead\u001b[0m",
+        "ignore": false
     }
 }

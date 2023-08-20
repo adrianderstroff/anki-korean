@@ -29,6 +29,22 @@ food	potato	감자
 food	taro	토란
 food	ginger	생강
 food	to contain	들어있다
+food	shrimps	새우
+food	pork	돼지고기
+food	beef	소고기
+food	chicken	닭고기
+food	fish	물고기
+food	squid	오징어
+food	tofu	두부
+food	egg	계란
+food	soy sauce	간장
+food	bread	빵
+food	milk	우유
+food	bitter	쓰다
+food	salty	짜다
+food	sweet	달다
+food	sour	시다
+food	spicy	시큼하다
 hotel	Do you have a room for 1 person?	1인용 방이 있나요?
 hotel	I want to book a room from A to B.	X월 A일부터 B일까지 방을 예약하고 싶어요.
 hotel	Is breakfast included?	조식이 포함되어 있나요?
@@ -57,13 +73,23 @@ transportation	subway, metro	지하철
 transportation	train	기차
 transportation	station	정류장 [정뉴장]
 transportation	to get off	에서 내리다
+transportation	to depart	출발하다
+transportation	to arrive	도착하다
+transportation	to turn right	우회전하다
+transportation	to turn left	좌회전하다
+transportation	to go straigt	직진하다
 transportation	at what interval?	얼마 간격으로
+location	beach	해변
+location	ATM	현금 인출기
+location	hospital	병원
+location	museum	박물관
 supermarket	Do you have X?	X 있나요?
 supermarket	Where can I find X?	X은 어디에서 찾을 수 있나요?
 supermarket	I want Y amount of X.	X을 Y (수량) 만큼 원해요.
 supermarket	How much does X cost.	X은 얼마인가요?
 supermarket	How much does it cost in total?	모두 다 해서 얼마예요?
 supermarket	Please pack this for me.	이거 포장해 주세요.
+supermarket	to pack, to wrap	포장하다
 friends	Hey X!	X씨, 안녕!
 friends	Long time no see!	오랜만이야!
 friends	How have you been?	잘 지냈어?

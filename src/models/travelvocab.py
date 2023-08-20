@@ -104,19 +104,6 @@ def create_english_template() -> Template:
     return wrap_template('Travel English-Korean', question_page, answer_page)
 
 
-def create_korean_template() -> Template:
-    question_page = """
-        <div class="center question hangeul">{{Korean}}</div>
-    """
-
-    answer_page = """
-        {{FrontSide}}
-        <div class="center explanation">{{English}}</div>
-    """
-
-    return wrap_template('Travel Korean-English', question_page, answer_page)
-
-
 def check_data(data: Data):
     existing_vocab = {}
     for j, row in enumerate(data):
@@ -155,9 +142,9 @@ def create_model() -> Model:
     return {
         'name': 'travel-vocab',
         'id': create_id('travel-vocab'),
-        'gui_field': 1,
+        'gui_field': [0,1],
         'fields': create_fields(),
         'css': create_css(),
-        'template': [create_english_template(), create_korean_template()],
+        'template': [create_english_template()],
         'post_process': post_process
     }
