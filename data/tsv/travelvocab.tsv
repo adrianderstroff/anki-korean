@@ -21,6 +21,8 @@ restaurant	seat	자리
 restaurant	to recommend	추천하다
 restaurant	bill	계산서
 restaurant	whole, total	전체
+restaurant	counter, cash desk	계산대
+food	Which flavor do you want?	어떤 맛이 원하세요?
 food	bell pepper	피망
 food	chili pepper	고추
 food	eggplant	가지
@@ -45,6 +47,7 @@ food	salty	짜다
 food	sweet	달다
 food	sour	시다
 food	spicy	시큼하다
+food	flavor	맛
 hotel	Do you have a room for 1 person?	1인용 방이 있나요?
 hotel	I want to book a room from A to B.	X월 A일부터 B일까지 방을 예약하고 싶어요.
 hotel	Is breakfast included?	조식이 포함되어 있나요?
@@ -52,10 +55,13 @@ hotel	Until when do you offer breakfast?	언제까지 조식이 있나요?
 hotel	Until when can I check inn?	언제까지 체크인할 수 있나요?
 hotel	Until when can I check out?	언제까지 체크아웃해야 하나요?
 hotel	Do I need to pay upfront?	선불로 결제해야 하나요?
+hotel	In which floor is the hotel room?	호텔 방은 몇 층에 있나요?
 hotel	to reserve, to book	예약하다
 hotel	breakfast	조식
 hotel	to include	포함되다
 hotel	upfront	선불로
+hotel	to pay upfront	선불하다
+hotel	to pay afterwards	후불하다
 travel	Please take a picture of us.	여기서 사직 좀 찍어 주세요.
 travel	Excuse me.	실례합니다.
 travel	Where is the restroom?	화장실이 어디예요?
@@ -79,10 +85,15 @@ transportation	to turn right	우회전하다
 transportation	to turn left	좌회전하다
 transportation	to go straigt	직진하다
 transportation	at what interval?	얼마 간격으로
+transportation	to go down	내려가다
+transportation	to go up	올라가다
+transportation	how often?	얼마나 자주
+transportation	to go afoot	걸어서 가다
 location	beach	해변
 location	ATM	현금 인출기
 location	hospital	병원
 location	museum	박물관
+location	stairs	계단
 supermarket	Do you have X?	X 있나요?
 supermarket	Where can I find X?	X은 어디에서 찾을 수 있나요?
 supermarket	I want Y amount of X.	X을 Y (수량) 만큼 원해요.
@@ -116,3 +127,12 @@ life	to help	도움을 주다
 life	recently	최근에
 life	any, which	어느
 life	afternoon	오후
+life	in advance, beforehand	미리
+life	later, afterwards	나중에
+life	mainly, mostly	주로
+life	adult	대인
+life	kid	소인
+life	fee	요금
+life	to enjoy sth.	을/를 즐기다
+life	enjoyable, pleasant	즐겁다
+life	in total	모두
