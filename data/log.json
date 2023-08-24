@@ -206,5 +206,13 @@
     "1ed57bee31657e1c80005087145cf06e1ae53865adfcec728bf93f5018b1c15f": {
         "text": "\u001b[93mNo match for tag '/script', used Div instead\u001b[0m",
         "ignore": false
+    },
+    "99ce12f914b2d17b040284edea9f4952955b65f819ae2adc734d663a51d5e2f8": {
+        "text": "\u001b[93mline 753: ['diligent', '\ubd80\uc9c0\ub7f0\ud558\ub2e4', '\ud55c\uad6d \uc120\uc870\ub4e4\uc774 \uc544\uce68\uc5d0 \ud56d\uc0c1 \ubd80\uc9c0\ub7f0\ud588\uc5b4\uc694.;Korean ancestors were always diligent in the morning.'] already existed in 630: ['diligent', '\ubd80\uc9c0\ub7f0\ud558\ub2e4', '\ub124\uac00 \uc5b8\uc81c\ubd80\ud130 \uadf8\ub807\uac8c \ubd80\uc9c0\ub7f0\ud588\ub0d0?;Since when were you so diligent?']\u001b[0m",
+        "ignore": false
+    },
+    "a6d5d3c8034797187277851747cd2c4830b081f76e9ed528b835e052bc6d98b5": {
+        "text": "\u001b[93mline 137: ['enjoyable, pleasant', '\uc990\uac81\ub2e4'] already existed in 116: ['joyful, pleasant', '\uc990\uac81\ub2e4']\u001b[0m",
+        "ignore": false
     }
 }
