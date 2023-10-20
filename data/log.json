@@ -214,5 +214,9 @@
     "a6d5d3c8034797187277851747cd2c4830b081f76e9ed528b835e052bc6d98b5": {
         "text": "\u001b[93mline 137: ['enjoyable, pleasant', '\uc990\uac81\ub2e4'] already existed in 116: ['joyful, pleasant', '\uc990\uac81\ub2e4']\u001b[0m",
         "ignore": false
+    },
+    "d1494b217f560928ab4de0882cda84f52694228ac0f8a75c3184b6e7b1c8f154": {
+        "text": "\u001b[93mline 758: ['pronunciation', '\ubc1c\uc74c', '\ubc1c\uc74c\uc744 \uc798 \ud558\ub824\uba74 \ub9ce\uc774 \uc5f0\uc2b5\ud574\uc57c \ud574\uc694.;You need to practice a lot to pronounce well.'] already existed in 102: ['pronunciation', '\ubc1c\uc74c', '\ub2f9\uc2e0\uc740 \ubc1c\uc74c\uc774 \uc544\uc8fc \uc88b\uc544\uc694.;Your pronunciation is excellent.']\u001b[0m",
+        "ignore": false
     }
 }

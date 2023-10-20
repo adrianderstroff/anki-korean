@@ -54,4 +54,4 @@ def generate_and_preview(model_func: Callable[[], ModelDescription], show_previe
 if __name__ == '__main__':
     generate_and_preview(vocab_model)
     generate_and_preview(grammar_model)
-    generate_and_preview(travel_vocab_model, show_preview=True)
+    # generate_and_preview(travel_vocab_model, show_preview=True)
