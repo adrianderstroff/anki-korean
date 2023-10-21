@@ -218,5 +218,13 @@
     "d1494b217f560928ab4de0882cda84f52694228ac0f8a75c3184b6e7b1c8f154": {
         "text": "\u001b[93mline 758: ['pronunciation', '\ubc1c\uc74c', '\ubc1c\uc74c\uc744 \uc798 \ud558\ub824\uba74 \ub9ce\uc774 \uc5f0\uc2b5\ud574\uc57c \ud574\uc694.;You need to practice a lot to pronounce well.'] already existed in 102: ['pronunciation', '\ubc1c\uc74c', '\ub2f9\uc2e0\uc740 \ubc1c\uc74c\uc774 \uc544\uc8fc \uc88b\uc544\uc694.;Your pronunciation is excellent.']\u001b[0m",
         "ignore": false
+    },
+    "7478cca84fcba26d7b22ea889486d7c31aa3b7828121e775faf0ee41ac7dfaa5": {
+        "text": "\u001b[93mline 778: ['sth. is popular', '\uc778\uae30\uac00 \ub9ce\ub2e4', '\ud0d5\ud6c4\ub8e8\ub294 \uc694\uc998\uc5d0 \ud55c\uad6d\uc5d0\uc11c \uc544\uc8fc \uc778\uae30\uac00 \ub9ce\uc544\uc694.;Tanghulu is very popular in Korea these days.'] already existed in 676: ['popular', '\uc778\uae30\uac00 \ub9ce\ub2e4', '\uc774 \uc601\ud654\ub294 \uc778\uae30\uac00 \ub9ce\uc544\uc694.;This movie is popular.']\u001b[0m",
+        "ignore": false
+    },
+    "66c31284e02f006a847bc1e908d9e4b0197cf3a992b447faf8c1d921ce5b47ba": {
+        "text": "\u001b[93mline 784: ['(nation) border', '\uad6d\uacbd', '\uadf8 \ub098\ub77c\uac00 \uc5b8\uc81c \uad6d\uacbd\uc744 \uac1c\ubc29\ud588\uc2b5\ub2c8\uae4c?;When did the country open its borders?'] already existed in 654: ['(national) border', '\uad6d\uacbd', '\uadf8 \ub098\ub77c\uac00 \uc5b8\uc81c \uad6d\uacbd\uc744 \uac1c\ubc29\ud588\uc2b5\ub2c8\uae4c?;When did the country open its borders?']\u001b[0m",
+        "ignore": false
     }
 }
