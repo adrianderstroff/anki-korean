@@ -509,7 +509,7 @@
 110	bag, briefcase	가방	가방을 들고 있어요.;I'm carrying a briefcase.
 110	perhaps, by any chance	혹시	혹시 티루엔 씨가 누군지 아세요?;Perhaps you know who Thiruen is?
 110	wow	어머	어머, 이 고양이 정말 귀엽네요.;Oh my, this cat is so cute!
-110	to change sth.	을/를 바꾸다	어머,캐럴 씨 머리 바꿨네요.;Oh my, Carol, you changed your hair.;제 이름을 한국어로 바꿨어요.;I changed my name to Korean.
+110	to change sth.	을/를 바꾸다	어머,캐럴 씨 머리 바꿨네요.;Oh my, Carol, you changed your hair.;제 이름을 한국어로 바꿨어요.;I changed my name to Korean.;저는 제 성격을 바꿀 거예요.;I'm going to change my personality.
 110	a while ago, a moment ago	아까	아까 버스 탔어.;I took the bus earlier.;아까 친구 만났어.;I met a friend earlier.
 110	pants	바지	그는 티셔츠와 바지를 입고 있었다.;He was wearing a T-shirt and shorts.
 110	dress	원피스	그녀는 내 것과 비슷한 원피스를 입고 있다.;She's wearing a dress like mine.;그 원피스 어디서 샀니?;Where did you buy that dress?
@@ -785,3 +785,30 @@
 126	type, kind, sort	종류	이 종류의 영화는 재미있어요.;This type of movie is interesting.;식당에 두 종류의 샐러드가 있었어요.;There were two kinds of salads at the restaurant.
 126	Long time no see!	오랜만이야!	-;-
 126	to be over	-이/가 끝나다	당신 일 몇 시에 끝나요?;What time do you finish work?
+127	fraud, swindler	사기꾼	그 사람은 사기꾼이에요.;He is a fraud.
+127	nearby	근처	근처에 뭐가 있어요?;What's nearby?
+127	surprisingly	놀랍게도	놀랍게도 그 영화는 재미있어요.;Surprisingly, that movie is interesting.;서울에는 놀랍게도 스타벅스가 590개 있어요.;Surprisingly, there are 590 Starbucks in Seoul.
+127	to research	연구하다	제 일은 코딩하는 것과 연구하는 것이에요.;My job is coding and researching.
+127	transitive verb	타동사	타동사를 쓰세요.;Write the transitive verb.;타동사는 무엇인가요?;What is the transitive verb?
+127	intransitive verb	자동사	자동사를 쓰세요.;Write the intransitive verb.;자동사는 무엇인가요?;What is the intransitive verb?
+127	to think about something	을/를 생각하다	나는 내 미래에 대해 생각해.;I think about my future.
+127	korean food	한식	한식을 좋아해요.;I like Korean food.
+127	snack	분식	분식을 좋아해요.;I like Korean snacks.
+127	kimchi stew	김치찌개	김치찌개를 좋아해요.;I like kimchi stew.
+127	always	항상 / 매일 / 늘 / 언제나 / 날마다	나는 항상 일찍 일어나요.;I always get up early.;나는 매일 일찍 일어나요.;I get up early every day.;나는 늘 일찍 일어나요.;I always get up early.;나는 언제나 일찍 일어나요.;I always get up early.;나는 날마다 일찍 일어나요.;I get up early every day.
+127	hardly	거의 안	나는 거의 안 일어나요.;I hardly get up.
+127	never	전혀 안	나는 전혀 안 일어나요.;I never get up.
+127	backpacking trip	배낭여행	나는 배낭여행을 좋아해요.;I like backpacking trips.
+127	ginseng	인삼	인삼을 좋아해요.;I like ginseng.
+127	jujube	대추	대추를 좋아해요.;I like jujube.
+127	to insert	넣다	넣어주세요.;Please insert it.;카드를 넣어주세요.;Please insert your card.
+127	then	그럼	그럼, 이제 끝났어요.;Then, it's over now.
+127	boardinghouse	하숙집	저는 하숙집에서 살아요.;I live in a boardinghouse.
+127	to smoke	담배를 피우다	저는 담배를 피우지 않아요.;I don't smoke.
+127	to make loud noise	큰소리로 떠들다	저는 큰소리로 떠들지 않아요.;I don't make loud noise.
+127	to be late for class	지각하다	저는 수업에 지각하지 않아요.;I'm not late for class.
+127	to throw out trash	쓰레기를 버리다	저는 쓰레기를 버리지 않아요.;I don't throw out trash.
+127	to turn on	켜다	저는 불을 켜지 않아요.;I don't turn on the light.
+127	to turn off	끄다	저는 불을 끄지 않아요.;I don't turn off the light.
+127	to be convenient	편리하다	저는 편리한 것을 좋아해요.;I like convenient things.
+127	to be inconvenient	불편하다	저는 불편한 것을 싫어해요.;I don't like inconvenient things.
