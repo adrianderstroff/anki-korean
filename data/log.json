@@ -226,5 +226,13 @@
     "66c31284e02f006a847bc1e908d9e4b0197cf3a992b447faf8c1d921ce5b47ba": {
         "text": "\u001b[93mline 784: ['(nation) border', '\uad6d\uacbd', '\uadf8 \ub098\ub77c\uac00 \uc5b8\uc81c \uad6d\uacbd\uc744 \uac1c\ubc29\ud588\uc2b5\ub2c8\uae4c?;When did the country open its borders?'] already existed in 654: ['(national) border', '\uad6d\uacbd', '\uadf8 \ub098\ub77c\uac00 \uc5b8\uc81c \uad6d\uacbd\uc744 \uac1c\ubc29\ud588\uc2b5\ub2c8\uae4c?;When did the country open its borders?']\u001b[0m",
         "ignore": false
+    },
+    "214fb40e39d7c8f6afbe87596c2f80979c5f471789827297a02913b544f59320": {
+        "text": "\u001b[93mline 815: ['calamari', '\uc624\uc9d5\uc5b4', '\uc624\uc9d5\uc5b4\ub97c \uc88b\uc544\ud574\uc694.;I like calamari.'] already existed in 703: ['squid', '\uc624\uc9d5\uc5b4', '\uc624\uc9d5\uc5b4\ub97c \uc88b\uc544\ud574\uc694.;I like squid.']\u001b[0m",
+        "ignore": false
+    },
+    "8c93d4ae3705ea0ca9394b8db540c3aa9ec2040c40b7d8c65d5d6d83e92b4717": {
+        "text": "\u001b[93mline 824: ['octopus', '\ubb38\uc5b4', '\ubb38\uc5b4\ub97c \uba39\uc5b4 \ubcf8 \uc801 \uc788\uc5b4\uc694?;Have you ever eaten octopus?'] already existed in 380: ['octopus', '\ubb38\uc5b4', '\ubb38\uc5b4 \ubab8\uc5d0\ub294 \ubf08\uac00 \uc5c6\ub2e4.;There are no bones in the body of an octopus.']\u001b[0m",
+        "ignore": false
     }
 }
