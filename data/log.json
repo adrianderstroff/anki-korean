@@ -234,5 +234,13 @@
     "8c93d4ae3705ea0ca9394b8db540c3aa9ec2040c40b7d8c65d5d6d83e92b4717": {
         "text": "\u001b[93mline 824: ['octopus', '\ubb38\uc5b4', '\ubb38\uc5b4\ub97c \uba39\uc5b4 \ubcf8 \uc801 \uc788\uc5b4\uc694?;Have you ever eaten octopus?'] already existed in 380: ['octopus', '\ubb38\uc5b4', '\ubb38\uc5b4 \ubab8\uc5d0\ub294 \ubf08\uac00 \uc5c6\ub2e4.;There are no bones in the body of an octopus.']\u001b[0m",
         "ignore": false
+    },
+    "d6d72d05bc9a5b0e5a8117d5abc4f397b33d40db3346c85b39de825283e0df1c": {
+        "text": "\u001b[93mline 823: ['novel', '\uc18c\uc124', '\uc18c\uc124\uc744 \uc77d\uc5b4 \ubcf8 \uc801 \uc788\uc5b4\uc694?;Have you ever read a novel?'] already existed in 680: ['novel', '\uc18c\uc124', '\uadf8 \uc18c\uc124\uc740 \uc815\ub9d0 \uc7ac\ubbf8\uc788\uc5b4\uc694.;That novel is really interesting.']\u001b[0m",
+        "ignore": false
+    },
+    "be2b028a8959e994b2a4c9a5e28c52b045c9bfcbd205043574049244f929aeec": {
+        "text": "\u001b[93mline 834: ['to bake, to roast', '\uad7d\ub2e4', '\uc774 \uc74c\uc2dd\uc740 \uad7d\ub294 \uac83\uc774\uc5d0\uc694.;This food is baked.'] already existed in 79: ['to bake', '\uad7d\ub2e4', '\uc624\ube10\uc5d0 \ube75\uc744 \uad7d\ub2e4.;Bake bread in an oven.']\u001b[0m",
+        "ignore": false
     }
 }
