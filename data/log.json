@@ -242,5 +242,33 @@
     "be2b028a8959e994b2a4c9a5e28c52b045c9bfcbd205043574049244f929aeec": {
         "text": "\u001b[93mline 834: ['to bake, to roast', '\uad7d\ub2e4', '\uc774 \uc74c\uc2dd\uc740 \uad7d\ub294 \uac83\uc774\uc5d0\uc694.;This food is baked.'] already existed in 79: ['to bake', '\uad7d\ub2e4', '\uc624\ube10\uc5d0 \ube75\uc744 \uad7d\ub2e4.;Bake bread in an oven.']\u001b[0m",
         "ignore": false
+    },
+    "2ff09f18aa078af085c5d2b44ff9df996a63e8a58751e5d5688400279305737c": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 836] ['130 to tie hair    \uba38\ub9ac\ub97c \ubb36\ub2e4    \uba38\ub9ac\ub97c \ubb36\uc5b4\uc57c \ud574\uc694.;I need to tie my hair.']: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "91e0590d215e5bde2afe053dc32a3192557c872e36d14f48cc30466a75237c8b": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 837] ['130 to untie hair  \uba38\ub9ac\ub97c \ud480\uc5b4\uc57c \ud574\uc694.;I need to untie my hair.']: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "d3d3690c135628439e1a39765fdc545baecf698711a40a4a09c8c1d3aacb1a30": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 838] [\"130 to turn on the camera   \uce74\uba54\ub77c\ub97c \ucf1c\ub2e4    \uce74\uba54\ub77c\ub97c \ucf24 \uc218 \uc5c6\uc5b4\uc694?;I can't turn on the camera?\"]: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "dc5837d57f67bcd86eb4d37e1d68bd2071ecdf144900166dc9ed7180638269ca": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 839] [\"130 to turn off the camera  \uce74\uba54\ub77c\ub97c \ub044\ub2e4    \uce74\uba54\ub77c\ub97c \ub04c \uc218 \uc5c6\uc5b4\uc694?;I can't turn off the camera?\"]: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "ec95de4c31cf5e5699bfa680eadb4dc735c9226042251a16579a5d5131176268": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 840] ['130 to have a problem with N    -\uc5d0 \ubb38\uc81c\uac00 \uc788\ub2e4    \uce74\uba54\ub77c\uc5d0 \ubb38\uc81c\uac00 \uc788\uc5b4\uc694.;There is a problem with the camera.;\ub178\ud2b8\ubd81\uc5d0 \ubb38\uc81c\uac00 \uc788\uc5b4\uc694.;There is a problem with the laptop.']: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "55d2938a32827f3b14f38671f3fad9da895c260460cb23551e6f7babb271608e": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 111] ['130 -\uc5b4\ub3c4/\uc544\ub3c4/\uc5ec\ub3c4 \ub418\ub2e4    can do V (permission) / used with A shows a sufficient condition   \uc5ec\uae30\uc5d0 \uc549\uc544\ub3c4 \ub3fc\uc694?;Can I sit here?;\uc880 \ub2a6\uc5b4\ub3c4 \ub429\ub2c8\ub2e4.;You can be a little late.']: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "079198c2b94aa9a14d81b335a7f716369544c5d5d5eaeb3a38b9ff1d3a62127c": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 112] ['130 -(\uc73c)\u3139 \uc218 \uc788\ub2e4/\uc5c6\ub2e4    can/cannot do V (ability)    \ud55c\uad6d\uc5b4\ub97c \uc798 \ud560 \uc218 \uc788\uc5b4\uc694.;I can speak Korean well.;\ud55c\uad6d\uc5b4\ub97c \uc798 \ubabb \ud560 \uc218 \uc788\uc5b4\uc694.;I cannot speak Korean well.']: list index out of range\u001b[0m",
+        "ignore": false
     }
 }

@@ -833,3 +833,8 @@
 129	vegetable	채소	음식에 채소 가루를 넣어요.;Put vegetable powder in the food.
 129	artificial sweetener	인공감미료	인공감미료를 넣어요.;Put artificial sweetener in it.
 129	AI	인공지능	회사는 제품에 인공지능을 사용하고 있어요.;The company is using AI in their product.
+130	to tie hair	머리를 묶다	머리를 묶어야 해요.;I need to tie my hair.
+130	to untie hair	머리를 풀다	머리를 풀어야 해요.;I need to untie my hair.
+130	to turn on the camera	카메라를 켜다	카메라를 켤 수 없어요?;I can't turn on the camera?
+130	to turn off the camera	카메라를 끄다	카메라를 끌 수 없어요?;I can't turn off the camera?
+130	to have a problem with N	-에 문제가 있다	카메라에 문제가 있어요.;There is a problem with the camera.;노트북에 문제가 있어요.;There is a problem with the laptop.
