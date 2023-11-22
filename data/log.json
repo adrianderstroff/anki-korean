@@ -270,5 +270,9 @@
     "079198c2b94aa9a14d81b335a7f716369544c5d5d5eaeb3a38b9ff1d3a62127c": {
         "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 112] ['130 -(\uc73c)\u3139 \uc218 \uc788\ub2e4/\uc5c6\ub2e4    can/cannot do V (ability)    \ud55c\uad6d\uc5b4\ub97c \uc798 \ud560 \uc218 \uc788\uc5b4\uc694.;I can speak Korean well.;\ud55c\uad6d\uc5b4\ub97c \uc798 \ubabb \ud560 \uc218 \uc788\uc5b4\uc694.;I cannot speak Korean well.']: list index out of range\u001b[0m",
         "ignore": false
+    },
+    "ab9735773b6a14290386166ae426dfaeefce32090cb7876d71716b46210a37e1": {
+        "text": "\u001b[93mline 844: ['to provide', '\uc81c\uacf5\ud558\ub2e4', '\uc800\ud76c \ud638\ud154\uc740 \uc870\uc2dd\uc744 \uc81c\uacf5\ud569\ub2c8\ub2e4.;Our hotel provides breakfast.'] already existed in 753: ['to provide, to offer', '\uc81c\uacf5\ud558\ub2e4', '\uc800\ud76c \ud638\ud154\uc740 \uc870\uc2dd\uc744 \uc81c\uacf5\ud569\ub2c8\ub2e4.;Our hotel provides breakfast.;\uc5b8\uc81c\uae4c\uc9c0 \uc870\uc2dd\uc744 \uc81c\uacf5\ud558\ub098\uc694?;Until when do you offer breakfast?']\u001b[0m",
+        "ignore": false
     }
 }
