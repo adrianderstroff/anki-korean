@@ -274,5 +274,13 @@
     "ab9735773b6a14290386166ae426dfaeefce32090cb7876d71716b46210a37e1": {
         "text": "\u001b[93mline 844: ['to provide', '\uc81c\uacf5\ud558\ub2e4', '\uc800\ud76c \ud638\ud154\uc740 \uc870\uc2dd\uc744 \uc81c\uacf5\ud569\ub2c8\ub2e4.;Our hotel provides breakfast.'] already existed in 753: ['to provide, to offer', '\uc81c\uacf5\ud558\ub2e4', '\uc800\ud76c \ud638\ud154\uc740 \uc870\uc2dd\uc744 \uc81c\uacf5\ud569\ub2c8\ub2e4.;Our hotel provides breakfast.;\uc5b8\uc81c\uae4c\uc9c0 \uc870\uc2dd\uc744 \uc81c\uacf5\ud558\ub098\uc694?;Until when do you offer breakfast?']\u001b[0m",
         "ignore": false
+    },
+    "901c51489ee7d37efff9dc3c7ea7ed4a5ee4990d16fc8e67c9db528f60ab860b": {
+        "text": "\u001b[93mline 857: ['opinion', '\uc758\uacac', \"\uc758\uacac\uc774\uc5d0\uc694.;It's an opinion.;\ub098\uc758 \uc758\uacac\uc744 \ub9d0\ud560 \ub54c ..;When I express my opinion..\"] already existed in 199: ['opinion', '\uc758\uacac', '\uadf8\ub798, \ub2f9\uc2e0 \uc758\uacac\uc740 \uc5b4\ub5a4\uac00\uc694?;Well, what\u2019s your verdict?;\ub2f9\uc2e0\uc758 \uc194\uc9c1\ud55c \uc758\uacac\uc744 \ub9d0\ud574 \ubd10\uc694.;Give me your honest opinion.']\u001b[0m",
+        "ignore": false
+    },
+    "4fd3f13b1229c3b0de510bd926a25c3dacd655e40970e095fe801848930ae7ba": {
+        "text": "\u001b[93mline 859: ['keep V-ing', '\uacc4\uc18d', '\uc2e0\ubc1c\uc744 \uacc4\uc18d \uc2e0\ub2e4.;Keep wearing shoes.'] already existed in 378: ['continuation, to continue, continuous', '\uacc4\uc18d', '\uc6d4\uc694\uc77c\ubd80\ud130 \uae08\uc694\uc77c\uae4c\uc9c0 \uacc4\uc18d \uc77c\ud588\uc5b4\uc694.;I worked continuously from Monday to Friday.']\u001b[0m",
+        "ignore": false
     }
 }

@@ -375,7 +375,7 @@
 101	strong	강하다	이 바람은 정말로 강하네요.;The wind is really strong!;당신에 대한 내 사랑은 너무도 강해요.;The feeling that I have for you is so strong.
 101	weak	약하다	그는 언제나 약해 보인다.;She looks always weekly.
 101	page	페이지	이 페이지는 자동 재생된다.;The page refreshes automatically.
-101	continuation, to continue, continuous	계속	월요일부터 금요일까지 계속 일했어요.;I worked continuously from Monday to Friday.
+101	continuation, to continue, continuous, keep V-ing	계속	월요일부터 금요일까지 계속 일했어요.;I worked continuously from Monday to Friday.;신발을 계속 신다.;Keep wearing shoes.
 101	price, pricing	가격	기차표의 가격이 얼마정도예요?;How much is the train ticket?
 101	octopus	문어	문어 몸에는 뼈가 없다.;There are no bones in the body of an octopus.
 101	shark	상어	나는 상어를 보려고 철창 상자 다이빙을 했다.;I went cage diving to see sharks.
@@ -843,3 +843,19 @@
 130	to chew	씹다	물고기는 먹기 전에 씹어야 돼요.;You have to chew the fish before eating it.
 130	to serve	서빙하다	저희 호텔은 조식을 서빙합니다.;Our hotel serves breakfast.
 130	both sides	양면	양면에 스테이크를 요리하세요.;Cook the steak on both sides.
+131	to import	수입하다	우리 회사는 제품을 수입해요.;Our company imports products.
+131	to save sth.	을/를 아끼다	PS5를 사려고 돈을 아끼고 싶어요.;I want to save money to buy a PS5.;We need to save energy in summer.;여름에는 전기를 아끼는 게 필요해요.
+131	environment	환경	환경을 보호해야 해요.;We need to protect the environment.
+131	to turn on sth	을/를 켜다	불을 켜주세요.;Turn on the light.
+131	to turn off sth	을/를 끄다	불을 끄세요.;Turn off the light.
+131	Alps	알프스산	알프스산은 유명해요.;The Alps are famous.
+131	to make noise	떠들다	저는 큰소리로 떠들지 않아요.;I don't make loud noise.
+131	to be late	늦다	저는 절대로 늦지 않아요.;I'm never late.
+131	to take a break	잠깐 쉬다	잠깐 쉬어도 돼요.;You can take a break.
+131	for a moment	잠깐 동안	잠깐 동안 쉬어도 돼요.;You can take a break for a moment.
+131	guess, assumption	추측	추측이에요.;It's a guess.
+131	rules	규칙	규칙이에요.;It's a rule.
+131	home (honorific)	댁	부모님 댁은 어디세요?;Where do your parents live?
+131	permission	허가	허가가 필요해요.;I need permission.
+131	unhappy	불행하다	저는 날씨가 안 좋을 때 불행해요.;I'm unhappy when the weather is bad.
+131	to miss so./sth.	그립다/보고 싶다	휴가를 갈 때 가좃이 그리워요.;I miss my family when I go on vacation.
