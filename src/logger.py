@@ -59,3 +59,18 @@ class Logger:
     @classmethod
     def error(cls, message):
         cls._log_message('error', f'\033[91m{message}\033[0m')
+
+    @classmethod
+    def cleanup_logs(cls):
+        # remove all entries that are set to ignore false
+        logs = cls._load_logs()
+        for key in list(logs.keys()):
+            if not logs[key]['ignore']:
+                del logs[key]
+        cls._save_logs(logs)
+
+
+if __name__ == '__main__':
+    # clean up logs
+    Logger.set_log_file('../data/log.json')
+    Logger.cleanup_logs()
