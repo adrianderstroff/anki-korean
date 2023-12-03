@@ -282,5 +282,9 @@
     "4fd3f13b1229c3b0de510bd926a25c3dacd655e40970e095fe801848930ae7ba": {
         "text": "\u001b[93mline 859: ['keep V-ing', '\uacc4\uc18d', '\uc2e0\ubc1c\uc744 \uacc4\uc18d \uc2e0\ub2e4.;Keep wearing shoes.'] already existed in 378: ['continuation, to continue, continuous', '\uacc4\uc18d', '\uc6d4\uc694\uc77c\ubd80\ud130 \uae08\uc694\uc77c\uae4c\uc9c0 \uacc4\uc18d \uc77c\ud588\uc5b4\uc694.;I worked continuously from Monday to Friday.']\u001b[0m",
         "ignore": false
+    },
+    "98836e72970f11bf95a1c156b2e8c8136c2ddf3b60a4c6c62c5415ba7485a3bb": {
+        "text": "\u001b[93mline 865: ['to come out', '\ub098\uc624\ub2e4', \"\uaf43\uc774 \ub098\uc624\ub294 \uacc4\uc808\uc774\uc5d0\uc694.;It's the season when flowers come out.;\uc5ec\ub4dc\ub984\uc774 \ub098\uc624\ub294 \uac83\uc744 \uc2eb\uc5b4\ud574\uc694.;I don't like it when pimples come out.\"] already existed in 717: ['to come out, to release', '\ub098\uc624\ub2e4', '\uc774 \uc601\ud654\ub294 \uc5b8\uc81c \ub098\uc640\uc694?;When does this movie come out?']\u001b[0m",
+        "ignore": false
     }
 }
