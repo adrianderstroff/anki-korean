@@ -6,5 +6,17 @@
     "7975dd1f49405cfcc6b64dc7c6f2d125d156825e30b46f81d14bb4f53dfef4dc": {
         "text": "\u001b[91mline 23: first entry should contain korean characters: ['N+Num+Unit', 'Specify number of things', '\ubaa8\uc790\uac00 \uba87 \uac1c \uc788\uc5b4\uc694?;How many hats do you have?']\u001b[0m",
         "ignore": true
+    },
+    "a17cff55213f7e60d48a2f9cdc6d213f0ad667db93543d729e66286f51cb21a6": {
+        "text": "\u001b[91mline 121: first entry should contain korean characters: ['honorific subject marker', 'N\uaed8', '\uadf8\ub0a0 \ubd80\ubaa8\ub2d8\uaed8\uc11c \ud55c\uad6d\uc5d0 \uc640\uc694.;My parents came to Korea that day.;\uc774 \ucc45\uc740 \uc120\uc0dd\ub2d8\uaed8\uc11c \uc4f0\uc2e0 \ucc45\uc774\uc5d0\uc694.;This book is written by the teacher.']\u001b[0m",
+        "ignore": false
+    },
+    "5323aab0c5bd928adf8e4db246540a0cabd1fcf1ea93ba5751a0d7adf3d92372": {
+        "text": "\u001b[91mline 122: first entry should contain korean characters: ['do V with N', 'N\uc640/\uacfc V', \"\uc81c\uc778 \uc528\uc640 \ubabb \ub9cc\ub098\uc694.;I can't meet Jane.;\uce5c\uad6c\ub4e4\uacfc \ud568\uaed8 \ub180\uc544\uc694.;I play with my friends.\"]\u001b[0m",
+        "ignore": false
+    },
+    "6fbb76f812c75acf3f3abf0a85cd4b8c539a5e258432d2334df0f1f2cd5f6e39": {
+        "text": "\u001b[91mline 123: first entry should contain korean characters: ['B instead of A', 'A \ub9d0\uace0 B', '\ub2e4\ub978 \ub2d8\uc790 \ub9d0\uace0 \ub108;You instead of another person;\uc774 \uc637 \ub9d0\uace0 \ub2e4\ub978 \uc637;Another clothes instead of this clothes']\u001b[0m",
+        "ignore": false
     }
 }
