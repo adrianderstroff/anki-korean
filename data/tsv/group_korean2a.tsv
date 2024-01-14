@@ -130,7 +130,7 @@
 109	to be like this	이렇다	이 문제는 이렇게 쉬웠나요?;Was this problem this easy?
 109	to be like that	그렇다	네, 그렇습니다.;Yes, that's correct.
 109	to be like that (over there)	저렇다	저렇게 말하지 마세요.;Please don't talk like that.
-109	to be how, to be like what (used in questions)	어떻다	이 음식은 어떻게 만들어졌나요?;How was this food made?
+109	to be how, to be like what (used in questions)	어떻다	이 음식은 어떻게 만들어졌나요?;How was this food made?;이 스웨터가 어때요?;How is this sweater?
 109	sky, heaven	하늘	가을 하늘이 정말 파래요.;The autumn sky is really blue.
 110	to describe	묘사하다	그는 그의 경험을 자세히 묘사했다.;He described his experience in detail.
 110	earrings	귀걸	목걸이와 귀걸이를 하고 있어요.;I'm wearing a necklace and earrings.
@@ -521,3 +521,11 @@
 135	to fall asleep	잠들기 위하다	저는 잠들기 위해 책을 읽어요.;I read books to fall asleep.
 135	uniform	교복	저는 교복을 입어요.;I wear a uniform.
 135	to be oily	기름지다	이 음식은 기름져요.;This food is oily.
+136	to suit, to fit	-에(게) 어울리다	이 옷은 나에게 어울려요.;This clothes suit me.;이 소파가 우리 집에 잘 어울려요.;This sofa fits well in our house.
+136	to wash one's hair	머리를 감다	저는 머리를 갈아요.;I wash my hair.
+136	skin	피부	저는 피부가 좋아요.;I have good skin.
+136	what do you think about N?	-에 대해서 어떻게 생각해요?	이 영화에 대해서 어떻게 생각해요?;What do you think about this movie?
+136	like this	이렇게	이렇게 해요.;Do it like this.
+136	like that	저렇게	저렇게 해요.;Do it like that.;어떻게 나에게 그렇게 말했어?;How could you say that to me?
+136	like that (over there)	그렇게	그렇게 해요.;Do it like that (over there).
+136	shy	부끄럽다	저는 부끄러워요.;I'm shy.;너무 부끄러워서, 얼굴이 빨개져요.;I'm so shy that my face turns red.

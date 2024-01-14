@@ -18,5 +18,65 @@
     "6fbb76f812c75acf3f3abf0a85cd4b8c539a5e258432d2334df0f1f2cd5f6e39": {
         "text": "\u001b[91mline 123: first entry should contain korean characters: ['B instead of A', 'A \ub9d0\uace0 B', '\ub2e4\ub978 \ub2d8\uc790 \ub9d0\uace0 \ub108;You instead of another person;\uc774 \uc637 \ub9d0\uace0 \ub2e4\ub978 \uc637;Another clothes instead of this clothes']\u001b[0m",
         "ignore": false
+    },
+    "c248cfca766e84590477ac45e12ae1943746487dd7dcb6e976541578a1f6d26e": {
+        "text": "\u001b[93mline 514: ['queen', '\uc655\ube44', '\uc655\ube44\uac00 \uc655\uad81\uc5d0 \uc0b4\uc544\uc694.;The queen lives in the palace.'] already existed in 128: ['queen', '\uc655\ube44', '\uc655\ube44\ub294 \ubc31\uc124\uc8fc\uc5d0\uac8c \ube68\uac04 \uc0ac\uacfc\ub97c \uc92c\uc5b4\uc694.;The queen gave Snow White a red apple.']\u001b[0m",
+        "ignore": false
+    },
+    "ab3c46dd8da710b9b181f6c8ce675602012ecf0fe1bb1c461a6b2ee83ef0c675": {
+        "text": "\u001b[93mline 517: ['skirt', '\uce58\ub9c8', '\uce58\ub9c8\ub97c \uc785\uc5b4\uc694.;I wear a skirt.'] already existed in 139: ['skirt', '\uce58\ub9c8', \"\uce58\ub9c8\ub97c \uc785\uace0 \uc788\uc5b4\uc694.;I'm wearing a skirt.;\uadf8\ub140\ub294 \ubcf4\ud1b5 \uae34 \uce58\ub9c8\ub97c \uc785\ub294\ub2e4.;She usually wears long skirts.\"]\u001b[0m",
+        "ignore": false
+    },
+    "5175204bdb0bcce67ced34f135703bdf74a3c6deaa54a740c0f25cba93844b2a": {
+        "text": "\u001b[93mline 518: ['socks', '\uc591\ub9d0', '\uc591\ub9d0\uc744 \uc2e0\uc5b4\uc694.;I wear socks.'] already existed in 161: ['socks', '\uc591\ub9d0', \"\uadf8\ub294 \uc591\ub9d0\uc744 \uc2e0\uc9c0 \uc54a\uc558\uc5b4\uc694.;He wasn't wearing socks.\"]\u001b[0m",
+        "ignore": false
+    },
+    "128ad093f23aaa6f2856d82b4a6b70cd11bf2abc2298de39e653092628dd06d5": {
+        "text": "\u001b[93mline 519: ['necklace', '\ubaa9\uac78\uc774', '\ubaa9\uac78\uc774\ub97c \ud558\uc138\uc694.;Wear a necklace.'] already existed in 137: ['necklace', '\ubaa9\uac78\uc774', \"\ubaa9\uac78\uc774\uc640 \uadc0\uac78\uc774\ub97c \ud558\uace0 \uc788\uc5b4\uc694.;I'm wearing a necklace and earrings.;\uadf8\ub140\ub294 \uc9c4\uc8fc \ubaa9\uac78\uc774\ub97c \ud558\uace0 \uc788\uc5c8\ub2e4.;She was wearing a pearl necklace.\"]\u001b[0m",
+        "ignore": false
+    },
+    "65da9904af986441cc93ee445b68bf1ea1b87b000487f7c40f5126136c4205fa": {
+        "text": "\u001b[93mline 521: ['clock', '\uc2dc\uacc4', '\uc2dc\uacc4\ub97c \ud558\uc138\uc694.;Wear a watch.'] already existed in 157: ['clock, watch', '\uc2dc\uacc4', '\uadf8\ub294 \ube44\uc2fc \uc2dc\uacc4\ub97c \ucc28\uace0 \uc788\uc5b4\uc694.;He is wearing an expensive watch.']\u001b[0m",
+        "ignore": false
+    },
+    "da5e0f053a95a1c21d9a27ba8dbf093001b8b979bf581696df08a92fff910a44": {
+        "text": "\u001b[93mline 524: ['to be hurt, to be injured', '\ub2e4\uce58\ub2e4', \"\uc800\ub294 \ub2e4\ucce4\uc5b4\uc694.;I'm hurt.\"] already existed in 86: ['to get hurt', '\ub2e4\uce58\ub2e4', '\uc0ac\ub78c \ub450 \uba85\uc774 \ub2e4\ucce4\uc5b4\uc694.;Two people were injured.']\u001b[0m",
+        "ignore": false
+    },
+    "ea37546dfb4b05a503f17210fc8a8952d0e4beac5bada1a85950cd5d491161b6": {
+        "text": "\u001b[93mline 529: ['to be dry', '\uac74\uc870\ud558\ub2e4', '\ub0a0\uc528\uac00 \uac74\uc870\ud574\uc694.;The weather is dry.'] already existed in 281: ['dry', '\uac74\uc870\ud558\ub2e4', '\uc5ec\ub984\uc5d0 \uac74\uc870\ud55c \uac83\uc774 \uc2b5\ud55c \uac83\ubcf4\ub2e4 \uc88b\uc544\uc694.;In summer, dry is better than wet.']\u001b[0m",
+        "ignore": false
+    },
+    "1a1ee1bd031c372e6e56401b3aa2258d5a13597bdca3c71309e7d722a835deff": {
+        "text": "\u001b[93mline 531: ['prince', '\uc655\uc790', '\uc655\uc790\uac00 \uc655\uad81\uc5d0 \uc0b4\uc544\uc694.;The prince lives in the palace.'] already existed in 129: ['prince', '\uc655\uc790', '\uc655\uc790\ub294 \ud06c\uace0 \ud30c\ub780 \ub208\uc73c\ub85c \uacf5\uc8fc\ub97c \ubd24\uc5b4\uc694.;The prince looked at the princess with his big blue eyes.']\u001b[0m",
+        "ignore": false
+    },
+    "136f5856f191ca1ac57e2cbe03c03e1b8967d06220775b4f9b5195cecef5ff98": {
+        "text": "\u001b[93mline 532: ['to be like this', '\uc774\ub807\ub2e4', '\uc774\ub807\uac8c \ud574\uc694.;Do it like this.'] already existed in 130: ['to be like this', '\uc774\ub807\ub2e4', '\uc774 \ubb38\uc81c\ub294 \uc774\ub807\uac8c \uc26c\uc6e0\ub098\uc694?;Was this problem this easy?']\u001b[0m",
+        "ignore": false
+    },
+    "3cc863f25eb323766354837a64ed32fcf1734e5e3c71120c3771da9206b55e91": {
+        "text": "\u001b[93mline 533: ['to be like that', '\uadf8\ub807\ub2e4', '\uadf8\ub807\uac8c \ud574\uc694.;Do it like that.'] already existed in 131: ['to be like that', '\uadf8\ub807\ub2e4', \"\ub124, \uadf8\ub807\uc2b5\ub2c8\ub2e4.;Yes, that's correct.\"]\u001b[0m",
+        "ignore": false
+    },
+    "5940fd63a763169aaa7678e1934e76a63ccb8787b5deff2cda005c7f00050c1a": {
+        "text": "\u001b[93mline 534: ['to be like that (over there)', '\uc800\ub807\ub2e4', '\uc800\ub807\uac8c \ud574\uc694.;Do it like that.'] already existed in 132: ['to be like that (over there)', '\uc800\ub807\ub2e4', \"\uc800\ub807\uac8c \ub9d0\ud558\uc9c0 \ub9c8\uc138\uc694.;Please don't talk like that.\"]\u001b[0m",
+        "ignore": false
+    },
+    "20ec9807ceea68df9db5300d3d184dda02b5b83745d42023bc46123d676cac45": {
+        "text": "\u001b[93mline 535: ['to be how, to be like what?', '\uc5b4\ub5bb\ub2e4', '\uc5b4\ub5bb\uac8c \ud574\uc694?;How do you do it?'] already existed in 133: ['to be how, to be like what (used in questions)', '\uc5b4\ub5bb\ub2e4', '\uc774 \uc74c\uc2dd\uc740 \uc5b4\ub5bb\uac8c \ub9cc\ub4e4\uc5b4\uc84c\ub098\uc694?;How was this food made?']\u001b[0m",
+        "ignore": false
+    },
+    "5eb167cc11630b64de1099413e6187a507b54b7cbb52b9eb6213c5f3932b6f3e": {
+        "text": "\u001b[91mline 124: first entry should contain korean characters: ['A and A N', 'A\uace0 A(\uc73c)\u3134 N', \"\uc800\ub294 \ube68\ub9ac \uba39\uace0 \ube68\ub9ac \uc790\ub294 \uc0ac\ub78c\uc774\uc5d0\uc694.;I'm a person who eats fast and sleeps fast.;\uae4c\ub9e3\uace0 \ud070 \uad6c\ub450.;Black and big shoes.\"]\u001b[0m",
+        "ignore": false
+    },
+    "f0258fa1318671da21553ac87e3a96e5cdd9bc07d2aa8f5d6e0654c10386d015": {
+        "text": "\u001b[91mline 125: first entry should contain korean characters: ['just like N', 'N\ucc98\ub7fc', '\ud558\ub298\uc774 \ud30c\ub797\uace0 \uad6c\ub984\uc774 \uadf8\ub9bc\ucc98\ub7fc \ud558\uc598\uc694.;The sky is blue and the clouds are white like a picture.']\u001b[0m",
+        "ignore": false
+    },
+    "282a6f762831f5734195e3fffdd3d869b641e62f623d39d340687ede006e5227": {
+        "text": "\u001b[91mline 124: first entry should contain korean characters: ['', 'A\uace0 A(\uc73c)\u3134 NA and A N', \"\uc800\ub294 \ube68\ub9ac \uba39\uace0 \ube68\ub9ac \uc790\ub294 \uc0ac\ub78c\uc774\uc5d0\uc694.;I'm a person who eats fast and sleeps fast.;\uae4c\ub9e3\uace0 \ud070 \uad6c\ub450.;Black and big shoes.\"]\u001b[0m",
+        "ignore": false
     }
 }
