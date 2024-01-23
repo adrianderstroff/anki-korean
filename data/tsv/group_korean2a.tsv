@@ -71,7 +71,7 @@
 105	per month	한 달에 X 번	그는 한 달에 한두 번 파리를 방문해요.;He visits Paris once or twice a month.
 105	Thailand	태국	태국음식을 한번 먹어보고 싶어요.;I want to try Thai food once.
 105	tool	도구	이 도구는 뭐하는 거지?;What is this tool for?
-105	oh no!	저런	저런! 사람이 차에 치였나봐.;Oh no! I think someone got hit by a car.
+105	oh no!	저런!	저런! 사람이 차에 치였나봐.;Oh no! I think someone got hit by a car.
 105	unit noun: people	명	저는 아주 좋아하는 친구 네 명 이 있어요.;I have four friends that I like very much.
 105	unit noun: animals	마리	엄마 아빠 모두 개 세 마리 가 있었어요.;Mom and Dad both had three dogs.
 105	unit noun: clothes	벌	요즘에 티셔츠 세 벌 을 샀어요.;I bought three T-shirts these days.
@@ -529,3 +529,7 @@
 136	like that	저렇게	저렇게 해요.;Do it like that.;어떻게 나에게 그렇게 말했어?;How could you say that to me?
 136	like that (over there)	그렇게	그렇게 해요.;Do it like that (over there).
 136	shy	부끄럽다	저는 부끄러워요.;I'm shy.;너무 부끄러워서, 얼굴이 빨개져요.;I'm so shy that my face turns red.
+137	paper, article	논문	논문을 쓰다.;Write a paper.;다음주에 논문을 저널 보낼 거예요.;I will send the paper to the journal next week.
+137	letter	문자	문자를 보내다.;Send a text message.;문자를 보냈어요.;I sent a text message.
+137	baseball cap	야구모자	야구모자를 쓰다.;Wear a baseball cap.;야구모자를 썼어요.;I wore a baseball cap.
+137	be clean	깨끗하다	저는 깨끗해요.;I'm clean.;집이 깨끗해요.;The house is clean.
