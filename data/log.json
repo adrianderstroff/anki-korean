@@ -78,5 +78,9 @@
     "282a6f762831f5734195e3fffdd3d869b641e62f623d39d340687ede006e5227": {
         "text": "\u001b[91mline 124: first entry should contain korean characters: ['', 'A\uace0 A(\uc73c)\u3134 NA and A N', \"\uc800\ub294 \ube68\ub9ac \uba39\uace0 \ube68\ub9ac \uc790\ub294 \uc0ac\ub78c\uc774\uc5d0\uc694.;I'm a person who eats fast and sleeps fast.;\uae4c\ub9e3\uace0 \ud070 \uad6c\ub450.;Black and big shoes.\"]\u001b[0m",
         "ignore": false
+    },
+    "9bfa92dc5ac50e82fa8aecbaacfa4edfc5f90ae830f6e01ef9f30ec37a015e80": {
+        "text": "\u001b[93mline 551: ['exactly, certainly', '\uaf2d', '\uaf2d \uadf8\ub807\uac8c \ud574\uc57c \ud574\uc694.;You have to do it exactly like that.'] already existed in 518: ['exactly', '\uaf2d', '\uaf2d \uadf8\ub807\uac8c \ud574\uc57c \ud574\uc694.;You have to do it exactly like that.']\u001b[0m",
+        "ignore": false
     }
 }
