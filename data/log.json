@@ -86,5 +86,9 @@
     "6ce4889f93cd7f202b0595f1f1ca99b386b11febc45d050c4c1d9f44012b7ab2": {
         "text": "\u001b[93mline 558: ['to give (honorific)', '\ub4dc\ub9ac\ub2e4', '\uc5c4\ub9c8\uaed8 \uc120\ubb3c\uc744 \ub4dc\ub838\uc5b4\uc694.;I gave a present to my mom.'] already existed in 330: ['to give (formal)', '\ub4dc\ub9ac\ub2e4', '\ubb34\uc5c7\uc744 \ub4dc\ub9b4\uae4c\uc694?;What can I give you?']\u001b[0m",
         "ignore": false
+    },
+    "7f1f4d70372ef48971b74986f954bb0a87edd91a0206534efbc128f1f76e70e8": {
+        "text": "\u001b[93mline 581: ['that way (over there)', '\uc800\ucabd', '\uc800\ucabd\uc73c\ub85c \uac00\uc138\uc694.;Go that way (over there).'] already existed in 376: ['there', '\uc800\ucabd', \"\uc800\ucabd\uc5d0 \ubb50\uac00 \uc788\uc5b4\uc694?;What's over there?\"]\u001b[0m",
+        "ignore": false
     }
 }
