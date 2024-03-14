@@ -90,5 +90,49 @@
     "7f1f4d70372ef48971b74986f954bb0a87edd91a0206534efbc128f1f76e70e8": {
         "text": "\u001b[93mline 581: ['that way (over there)', '\uc800\ucabd', '\uc800\ucabd\uc73c\ub85c \uac00\uc138\uc694.;Go that way (over there).'] already existed in 376: ['there', '\uc800\ucabd', \"\uc800\ucabd\uc5d0 \ubb50\uac00 \uc788\uc5b4\uc694?;What's over there?\"]\u001b[0m",
         "ignore": false
+    },
+    "b2fec1bcc59ca6d2ad5bec06dc4417d4eebbb37e3992b9512ce5900bfd9a52fe": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 1] ['school', '\u5b66[\u304c\u3063]\u6821[\u3053\u3046]', '-']: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "3081c70f04cfad4b7a91807d98334ac971013979b1773d926ddf37bf8e881475": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 2] ['telephone', '\u96fb[\u3067\u3093]\u8a71[\u308f]', '-']: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "5b312c6841e083e20bd1da22e9c4ff5c65ef10684ea6e645007757b9fb6f4933": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 3] ['friend', '\u53cb[\u3068\u3082]\u9054[\u3060\u3061]', '-']: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "b222df39caa2900760c2b9653dce85602208be8e5990cda301ea7b0cd9cc4d2c": {
+        "text": "\u001b[91mline 1: number of entries is not 4: [\"I'm German.\", '\u79c1[\u308f\u305f\u3057]\u306f\u30c9\u30a4\u30c4\u4eba\u3067\u3059\u3002', 'Watashi wa Doitsu jin desu.']\u001b[0m",
+        "ignore": false
+    },
+    "ddd5c3c268eca3569412833d10a954ac894d1f757fefc23836511012003aa6f2": {
+        "text": "\u001b[91mline 2: number of entries is not 4: ['school', '\u5b66[\u304c\u3063]\u6821[\u3053\u3046]', 'gakkou']\u001b[0m",
+        "ignore": false
+    },
+    "238c8731f3b8330a78c5bb206f5321a5344babb25a55bda891d29c493b313a48": {
+        "text": "\u001b[91mline 3: number of entries is not 4: ['telephone', '\u96fb[\u3067\u3093]\u8a71[\u308f]', 'denwa']\u001b[0m",
+        "ignore": false
+    },
+    "29b5604d6b6280bf1039c45468ad75b9c9998c4c493fab5678628396988beaae": {
+        "text": "\u001b[91mline 4: number of entries is not 4: ['friend', '\u53cb[\u3068\u3082]\u9054[\u3060\u3061]', 'tomodachi']\u001b[0m",
+        "ignore": false
+    },
+    "7db8fd5cb7950b9cd505e22f878d19b39d3a79ebb4266b5e96439c4de49365dd": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 1] [\"I'm German.\", '\u79c1[\u308f\u305f\u3057]\u306f\u30c9\u30a4\u30c4\u4eba\u3067\u3059\u3002', 'Watashi wa Doitsu jin desu.']: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "7064673535ca324a62f81cd598c22979380e9e20dddfee3448a6cd5cc743bc1b": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 2] ['school', '\u5b66[\u304c\u3063]\u6821[\u3053\u3046]', 'gakkou']: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "646b7ad7f22a482559350a6d344290d590e504026ce348f44ecbb549be6b18a3": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 3] ['telephone', '\u96fb[\u3067\u3093]\u8a71[\u308f]', 'denwa']: list index out of range\u001b[0m",
+        "ignore": false
+    },
+    "2fec8dc5d204daa8a8e8a1371467af261166b02564d80a4e73f65e8607aa0104": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 4] ['friend', '\u53cb[\u3068\u3082]\u9054[\u3060\u3061]', 'tomodachi']: list index out of range\u001b[0m",
+        "ignore": false
     }
 }

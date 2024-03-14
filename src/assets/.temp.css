@@ -1,8 +1,4 @@
 
-        @font-face {
-            font-family: UhBeeSehyun;
-            src: url(./_UhBee-Se_hyun.ttf);
-        }
         .card{
             background-color: #e9ebee;
         }
@@ -12,13 +8,21 @@
             margin-top: 15px;
             margin-left: 15px;
             margin-right: 15px;
-            font-size: 1em;
-            background: steelblue;
-            color: white;
+            font-size: 2em;
+            color: black;
             border-radius: 2px;
         }
         #answer {
             display: none;
+        }
+        .japanese {
+            width: calc(100% - 30px - 30px);
+            margin-top: 10px;
+            margin-left: 15px;
+            margin-right: 15px;
+            padding: 15px;
+            font-size: 2em;
+            color: black;
         }
         .explanation {
             width: calc(100% - 30px - 30px);
@@ -28,47 +32,14 @@
             padding: 15px;
             font-size: 1em;
             color: black;
-            background: white;
-        }
-        .examples-header {
-            width: calc(100% - 30px - 4px - 2px);
-            height: 1em;
-            line-height: 1em;
-            margin-top: 40px;
-            margin-left: 15px;
-            margin-right: 15px;
-            padding-left: 2px;
-            border-left: 2px solid steelblue;
-            border-right: 2px solid steelblue;
-            border-bottom: 2px solid steelblue;
-            border-top-right-radius: 2px;
-            border-top-left-radius: 2px;
-            background: steelblue;
-            color: white;
-            font-size: 1em;
-        }
-        .examples {
-            width: calc(100% - 30px - 4px - 30px);
-            margin-left: 15px;
-            margin-right: 15px;
-            padding: 15px;
-            border-top: 1px solid steelblue;
-            border-left: 2px solid steelblue;
-            border-right: 2px solid steelblue;
-            border-bottom: 2px solid steelblue;
-            border-bottom-right-radius: 2px;
-            border-bottom-left-radius: 2px;
-            background: white;
-            color: black;
-            font-size: 1em;
-        }
-        .hangeul {
-            font-family: UhBeeSehyun;
-        }
-        .small {
-            font-size: 0.7em;
         }
         .center {
             text-align: center;
+        }
+        rt {
+            color: gray;
+        }
+        .romaji {
+            color: gray;
         }
     
