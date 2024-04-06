@@ -134,5 +134,9 @@
     "2fec8dc5d204daa8a8e8a1371467af261166b02564d80a4e73f65e8607aa0104": {
         "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 4] ['friend', '\u53cb[\u3068\u3082]\u9054[\u3060\u3061]', 'tomodachi']: list index out of range\u001b[0m",
         "ignore": false
+    },
+    "1b2e6f323cd59063e84aeb0648c56663aa05547685d8c9a46f98436ed1c2baa7": {
+        "text": "\u001b[93mline 594: ['dirty', '\ub354\ub7fd\ub2e4', '\uc774 \ubc29\uc740 \ub354\ub7ec\uc6cc\uc694.;This room is dirty.'] already existed in 244: ['be dirty', '\ub354\ub7fd\ub2e4', '\uad50\uc2e4\uc774 \ub108\ubb34 \ub354\ub7ec\uc6cc\uc694.;The classroom is too dirty.;\ubc29\uc774 \ub354\ub7ec\uc6cc\uc11c \uccad\uc18c\ub97c \ud574\uc57c \ud574\uc694.;The room is dirty, so I need to clean it.']\u001b[0m",
+        "ignore": false
     }
 }
