@@ -1,19 +1,42 @@
+################################################################################
+# basic phrases
+################################################################################
 Good morning.	おはようございます。	Ohayō gozaimasu.	.
-Hello.	こんにちは。	Konnichiwa.	.
-Good evening.	こんばんは。	Konbanwa.	.
+Hello.	こんにちは。	Konnichi wa.	.
+Good evening.	こんばんは。	Konban wa.	.
+Good night.	おやすみなさい。	O-yasumi nasai.	.
 Excuse me.	すみません。	Sumimasen.	.
 I'm sorry.	ごめんなさい。	Gomen nasai.	.
 Thank you.	ありがとう。	Arigatō.	.
-Nice to meet you.	はじめまして。	Hajimemashite.	This is used when meeting someone for the first time.
-I am X.	Xです。	X desu.	For example 'I am John' would be 'ジョンです。' (Jon desu.)
+Bye.	じゃね。	Ja ne.	.
 Goodbye.	さようなら。	Sayōnara.	.
 
+Can you speak English?	英語を話せますか？	Eigo o hanasemasu ka?	.
+I only speak a little Japanese.	私 は 少しだけ 日本ーご が 話せます。	Watashi wa sukoshi dake Nihongo ga hanasemasu.	.
+I understood.	わかりました。	Wakarimashita.	.
+I don't understand.	わかりません。	Wakarimasen.	.
+
+################################################################################
+# meeting people
+################################################################################
+Nice to meet you.	はじめまして。	Hajimemashite.	This is used when meeting someone for the first time.
+I am X.	Xです。	X desu.	For example 'I am John' would be 'ジョンです。' (Jon desu.)
+How are you?	お元気ですか？	O-genki desu ka?	.
+What's your name?	お名前は何ですか？	O-namae wa nan desu ka?	.
+I'm from Germany.	ドイツから来ました。	Doitsu kara kimashita.	.
+
+################################################################################
+# directions and places
+################################################################################
 hotel	ホテル	hoteru	.
 supermarket	スーパー	sūpā	.
 restaurant	レストラン	resutoran	.
 café	カフェ	kafe	.
 Where is X?	Xはどこにありますか？	X wa doko ni arimasu ka?	.
 
+################################################################################
+# in the restaurant
+################################################################################
 beer	ビール	bīru	.
 coca cola	コカ・コーラ	koka kōra	.
 Welcome (when entering a place)	いらっしゃいませ！	irasshaimase!	Upon entering a store, restaurant, etc. you might hear the staff say this to you.
@@ -29,3 +52,7 @@ Can I have two of X, please?	Xを二つお願いします?	X o futatsu onegaishi
 What do you recommend?	お勧めは何ですか?	O-susume wa nan desu ka?	.
 Can I have the bill, please?	お勘定をお願いします.	O-kanjō o onegaishimasu	If the bill was placed on your table earlier, as in many small restaurants, take it to the cashier to pay.
 Thanks for the food.	ごちそうさまでした.	Gochisō-sama deshita.	After paying the bill, you might say this to the staff.
+
+################################################################################
+# time
+################################################################################

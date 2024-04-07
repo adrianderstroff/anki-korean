@@ -138,5 +138,13 @@
     "1b2e6f323cd59063e84aeb0648c56663aa05547685d8c9a46f98436ed1c2baa7": {
         "text": "\u001b[93mline 594: ['dirty', '\ub354\ub7fd\ub2e4', '\uc774 \ubc29\uc740 \ub354\ub7ec\uc6cc\uc694.;This room is dirty.'] already existed in 244: ['be dirty', '\ub354\ub7fd\ub2e4', '\uad50\uc2e4\uc774 \ub108\ubb34 \ub354\ub7ec\uc6cc\uc694.;The classroom is too dirty.;\ubc29\uc774 \ub354\ub7ec\uc6cc\uc11c \uccad\uc18c\ub97c \ud574\uc57c \ud574\uc694.;The room is dirty, so I need to clean it.']\u001b[0m",
         "ignore": false
+    },
+    "2e2d583d41fa8b95311248b58ef8b9cff88f7c3b5337bc2fd7c11502419950e3": {
+        "text": "\u001b[93mline 596: ['to fix', '\uace0\uce58\ub2e4', \"\uc0ac\ub78c\uc744 \uace0\uccd0\uc4f8 \uc218 \uc5c6\uc5b4\uc694.;You can't fix people.;\ubb38\uc7a5\uc744 \uace0\uce58\ub2e4.;Fix the sentence.\"] already existed in 515: ['to fix, to repair', '\uace0\uce58\ub2e4', '\uc800\ub294 \ucef4\ud4e8\ud130\ub97c \uace0\uce60 \uc218 \uc788\uc5b4\uc694.;I can fix computers.;\ub108\ub294 \uc131\uaca9\uc744 \uc880 \uace0\ucc44\uc57c \ud574.;You need to fix your personality.']\u001b[0m",
+        "ignore": false
+    },
+    "3e9cee619120b8d755d95796d5c9b4b903c3e363b3acd723ae7f7ebabab0a3a6": {
+        "text": "\u001b[93mline 598: ['sleepy', '\uc878\ub9ac\ub2e4', \"\uc800\ub294 \uc878\ub824\uc694.;I'm sleepy.\"] already existed in 500: ['sleepy', '\uc878\ub9ac\ub2e4', \"\uc800\ub294 \uc878\ub824\uc694.;I'm sleepy.\"]\u001b[0m",
+        "ignore": false
     }
 }
