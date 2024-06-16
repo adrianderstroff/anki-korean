@@ -146,5 +146,17 @@
     "3e9cee619120b8d755d95796d5c9b4b903c3e363b3acd723ae7f7ebabab0a3a6": {
         "text": "\u001b[93mline 598: ['sleepy', '\uc878\ub9ac\ub2e4', \"\uc800\ub294 \uc878\ub824\uc694.;I'm sleepy.\"] already existed in 500: ['sleepy', '\uc878\ub9ac\ub2e4', \"\uc800\ub294 \uc878\ub824\uc694.;I'm sleepy.\"]\u001b[0m",
         "ignore": false
+    },
+    "ef9a72f7c7f5c96537c81ca65409f72d54287a18600178dc29a52cc0df67f181": {
+        "text": "\u001b[93mline 599: ['be curious', '\uad81\uae08\ud558\ub2e4', \"\ubaa8\uc784\uc5d0 \uc65c \uc548 \uc654\ub294\uc9c0 \uad81\uae08\ud574\uc11c\uc694.;I'm curious why you didn't come to the meeting.\"] already existed in 458: ['be curious', '\uad81\uae08\ud558\ub2e4', \"\uadf8 \uc601\ud654\ub294 \uad81\uae08\ud574\uc694.;I'm curious about that movie.\"]\u001b[0m",
+        "ignore": false
+    },
+    "507882c05a2415354a76e9f78e15a8905326fc32b6b68c782a90aab8a7729114": {
+        "text": "\u001b[93mline 610: ['train station', '\uae30\ucc28\uc5ed', '\uae30\ucc28\uc5ed\uc5d0\uc11c \uae30\ucc28\ub97c \ud0c0\uc694.;Take the train at the train station.'] already existed in 203: ['train station', '\uae30\ucc28\uc5ed', '\uae30\ucc28\uc5ed\uc5d0\uc11c \ud45c\ub97c \uad6c\ub9e4\ud574\uc57c \ud569\ub2c8\ub2e4.;You need to buy a ticket at the train station.']\u001b[0m",
+        "ignore": false
+    },
+    "addbc8a37827e321a998f59a8f42a0a6f98804c68bfe18ac8526848db77cb763": {
+        "text": "\u001b[93mline 614: ['to be high', '\ub192\ub2e4', '\uc0b0\uc774 \uc544\uc8fc \ub192\uc544\uc694.;The mountain is very high.;\uadf8 \ud0d1\uc740 \uc138\uacc4\uc5d0\uc11c \uac00\uc7a5 \ub192\uc544\uc694.;That tower is the highest in the world.'] already existed in 110: ['high', '\ub192\ub2e4', '\uc5ec\uae30 \ub098\ubb34\ub4e4\uc740 \ub192\uc544\uc694.;Here the trees are high.']\u001b[0m",
+        "ignore": false
     }
 }

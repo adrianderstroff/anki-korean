@@ -107,7 +107,7 @@
 106	grades (exam)	점수	선생님이 부모님에 아들의 나쁜 점수를 알려줘요.;The teacher informs the parents of their son's bad grades.
 107	in the past, long ago	옛날에	옛날에 저는 거기 학교에 다녔었어요.;A long time ago I used to go there to school.
 107	broad, wide	넓다	나의 방은 다른 친구들의 방보다 넓다.;My room is wider than my friend's rooms.
-107	high	높다	여기 나무들은 높아요.;Here the trees are high.
+107	high	높다	여기 나무들은 높아요.;Here the trees are high.;산이 아주 높아요.;The mountain is very high.;그 탑은 세계에서 가장 높아요.;That tower is the highest in the world.
 108	small	작다	방이 너무 작아요.;The room is too small.;사실 나는 그들보다 작아요.;In fact, I am smaller than them.
 108	short	짧다	머리카락이 짧아졌어요.;My hair became short.;날들 이 아주아주 짧아요.;The days are very short.
 108	few, little	적다	시간이 적어.;Time is short.;실수를 적게 해.;Make fewer mistakes.
@@ -200,7 +200,7 @@
 113	bus stop	보스 정류장	버스 정류장에서 친구를 만났어요.;I met my friend at the bus stop.
 113	bus terminal	버스 터미널	버스 터미널에서 티켓을 사야 해요.;I have to buy a ticket at the bus terminal.
 113	subway station	지하철역	지하철역에서 친구를 만났어요.;I met my friend at the subway station.
-113	train station	기차역	기차역에서 표를 구매해야 합니다.;You need to buy a ticket at the train station.
+113	train station	기차역	기차역에서 기차를 타요.;Take the train at the train station.;기차역에서 표를 구매해야 합니다.;You need to buy a ticket at the train station.
 113	airport	공항	저는 공항으로 가는 버스를 타려고 해요.;I'm going to take the bus to the airport.
 113	to cross the street	길을 건너다	신호가 바뀌면 길을 건너야 해요.;You have to cross the street when the traffic light changes.
 113	to get in, to ride	을/를 타다	비행기를 타기 위해 공항으로 가세요.;Please to to the airport to take the airplane.
@@ -594,3 +594,18 @@
 143	secret	비밀	비밀이에요.;It's a secret.
 144	to blossom	꽃이 피다	꽃이 피었어요.;The flowers have blossomed.
 144	time flies	시간 가는 줄 몰랐어요.	-;-
+144	I see	그랬군요.	-;-
+144	to worry, be worried	걱정하다	저는 걱정해요.;I'm worried.
+149	better	-이/가 낫다	이 옷이 저 옷보다 낫아요.;This clothes is better than that clothes.
+150	sth. is drawn	-이/가 (그려져) 있다	그림이 그려져 있어요.;The picture is drawn.
+150	bill (money)	지폐	지폐를 가지고 있어요?;Do you have money?
+150	to exist	존재하다	이 사람은 존재하지 않아요.;This person doesn't exist.
+150	to build	전절하다	그 건물은 1990년에 건설되었어요.;That building was built in 1990.
+150	the most	가장 자주/많이	가장 많이 먹는 음식은 뭐예요?;What food do you eat the most?;가장 자주 만나는 친구는 누구예요?;Who is the friend you meet the most often?
+150	basically	기본적으로	기본적으로, 이것을 해야 해요.;Basically, you have to do this.
+150	to appear (in everyday life)	나타나다	그녀가 파티에 나타났어요.;She appeared at the party.
+150	to appear (in a movie, drama, ...)	등장하다	그 배우는 영화에 등장했어요.;The actor appeared in the movie.
+150	cathedral	대성당	대성당은 아름다워요.;The cathedral is beautiful.
+150	to get well/better	낫다	이 약을 먹으면 감기가 나아요.;If you take this medicine, your cold will get better.
+150	grammar	문법	문법을 배우는 것은 중요해요.;Learning grammar is important.
+150	to be low	낮다	오늘 기온이 낮아요.;Today's temperature is low.;집의 천장이 낮아요.;The ceiling of the house is low.
