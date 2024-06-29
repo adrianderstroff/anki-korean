@@ -194,5 +194,9 @@
     "41011a8d731b9361b545794ef66b3630db5c2a56a076481c7a6d9859bd80b2ca": {
         "text": "\u001b[91mLine 624: Wrong number of example pairs. 1: ['\uba38\ub9ac\ub97c \uac74\uc870\ud574\uc694.']\u001b[0m",
         "ignore": false
+    },
+    "2791091d0d4bfa87ab983f5871022999f244634490635c483f6f06d2ddc21d5f": {
+        "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 646] ['153', 'gray', '\ud68c\uc0c9']: list index out of range\u001b[0m",
+        "ignore": false
     }
 }
