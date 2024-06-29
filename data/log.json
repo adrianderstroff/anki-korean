@@ -158,5 +158,41 @@
     "addbc8a37827e321a998f59a8f42a0a6f98804c68bfe18ac8526848db77cb763": {
         "text": "\u001b[93mline 614: ['to be high', '\ub192\ub2e4', '\uc0b0\uc774 \uc544\uc8fc \ub192\uc544\uc694.;The mountain is very high.;\uadf8 \ud0d1\uc740 \uc138\uacc4\uc5d0\uc11c \uac00\uc7a5 \ub192\uc544\uc694.;That tower is the highest in the world.'] already existed in 110: ['high', '\ub192\ub2e4', '\uc5ec\uae30 \ub098\ubb34\ub4e4\uc740 \ub192\uc544\uc694.;Here the trees are high.']\u001b[0m",
         "ignore": false
+    },
+    "a9124522c04833b5d9f2d7913fe5940d122f75801b84d32994f470a2eb800d95": {
+        "text": "\u001b[93mline 620: ['to wash', '\uc53b\ub2e4', '\ub9e4\uc77c \uc544\uce68 \uc5bc\uad74\uc744 \uc53b\uc5b4\uc694.;Wash the face every morning.'] already existed in 245: ['to wash', '\uc53b\ub2e4', '\uc800\ub294 \uc544\uce68\uc5d0 \uc5bc\uad74\uc744 \uc53b\uc5b4\uc694.;I wash my face in the morning.;\ubc14\ub2e5\uc744 \uccad\uc18c\ud558\uace0 \uc53b\uc5c8\uc5b4\uc694.;I cleaned the floor and washed it.;\uc800\ub141 \uc2dd\uc0ac \ud6c4\uc5d0\ub294 \uadf8\ub987\uc744 \uc53b\uc5b4\uc57c \ud574\uc694.;After dinner, we need to wash the dishes.']\u001b[0m",
+        "ignore": false
+    },
+    "6914dff9a800c8fe0e181940e0fa252be4de01adea2bae9d5ce9dc8a3afa44a7": {
+        "text": "\u001b[93mline 622: ['refridgerator', '\ub0c9\uc7a5\uace0', '\ub0c9\uc7a5\uace0\uc5d0 \uc74c\uc2dd\uc744 \ub123\uc5b4\uc694.;Put the food in the refrigerator.'] already existed in 51: ['fridge', '\ub0c9\uc7a5\uace0', '\ub2e4\uc9c4 \ub9c8\ub298\uc774 \ub0c9\uc7a5\uace0\uc5d0 \uc788\uc5b4\uc694?;Is the minced garlic in the fridge?']\u001b[0m",
+        "ignore": false
+    },
+    "d7f6fba6223f566dd8fc6ac4a45bea2b0f24c8255a8a0ac8e50d453567c9a44c": {
+        "text": "\u001b[93mline 623: ['to clean', '\uccad\uc18c\ud558\ub2e4', '\uccad\uc18c\ub97c \ub3c4\uc640\uc904 \uc218 \uc788\uc5b4\uc694?;Can you help me clean?'] already existed in 374: ['to clean', '\uccad\uc18c\ud558\ub2e4', '\ubc29\uc744 \uccad\uc18c\ud574\uc57c \ud574\uc694.;I need to clean the room.']\u001b[0m",
+        "ignore": false
+    },
+    "666da94df2607505fc43ae88b64ba135ffbdbefe0217804079d801f1208690ae": {
+        "text": "\u001b[93mline 624: ['to dry', '\uac74\uc870\ud558\ub2e4', '\uba38\ub9ac\ub97c \uac74\uc870\ud574\uc694.'] already existed in 281: ['dry', '\uac74\uc870\ud558\ub2e4', '\uc5ec\ub984\uc5d0 \uac74\uc870\ud55c \uac83\uc774 \uc2b5\ud55c \uac83\ubcf4\ub2e4 \uc88b\uc544\uc694.;In summer, dry is better than wet.']\u001b[0m",
+        "ignore": false
+    },
+    "f71772fb4c0c33b2085fffc15635ec70b5d8e403fc0b6c8930b432978a76e349": {
+        "text": "\u001b[93mline 628: ['public place', '\uacf5\uacf5\uc7a5\uc18c', '\uacf5\uacf5\uc7a5\uc18c\uc5d0\uc11c\ub294 \uc870\uc6a9\ud788 \ud574\uc57c \ud574\uc694.;You should be quiet in public places.'] already existed in 549: ['public place', '\uacf5\uacf5\uc7a5\uc18c', '\uacf5\uacf5\uc7a5\uc18c\uc5d0\uc11c\ub294 \ub9c8\uc2a4\ud06c\ub97c \uaf2d \uc368\uc57c \ud574\uc694.;You must wear a mask in public places.']\u001b[0m",
+        "ignore": false
+    },
+    "20dbf32bc1e77109cba0da639f04a337d901d941debd04e4668812a940773e64": {
+        "text": "\u001b[93mline 634: ['to smoke', '\ub2f4\ubc30\ub97c \ud53c\uc6b0\ub2e4', \"\uc5ec\uae30\uc11c \ub2f4\ubc30\ub97c \ud53c\uc6b0\uc9c0 \ub9c8\uc138\uc694.;Please don't smoke here.\"] already existed in 440: ['to smoke', '\ub2f4\ubc30\ub97c \ud53c\uc6b0\ub2e4', \"\uc800\ub294 \ub2f4\ubc30\ub97c \ud53c\uc6b0\uc9c0 \uc54a\uc544\uc694.;I don't smoke.\"]\u001b[0m",
+        "ignore": false
+    },
+    "5995af37f590bf74c7aff807d064db0908a5abd4bc2e79c22fb39c90aa2b5f7d": {
+        "text": "\u001b[93mline 649: ['to have fever', '\uc5f4\uc774 \ub098\ub2e4', '\uac11\uc790\uae30 \uc5f4\uc774 \ub0ac\uc5b4\uc694.;I suddenly got a fever.'] already existed in 570: ['to have a fever', '\uc5f4\uc774 \ub098\ub2e4', '\uc800\ub294 \uc5f4\uc774 \ub098\uc694.;I have a fever.']\u001b[0m",
+        "ignore": false
+    },
+    "73faecf804b765cbcaa0edb2f9d2466043b5830fb51f30492c4830931379b8ec": {
+        "text": "\u001b[93mline 650: ['the throat hurts', '\ubaa9\uc774 \uc544\ud504\ub2e4', '\uac10\uae30 \ub54c\ubb38\uc5d0 \ubaa9\uc774 \uc544\ud30c\uc694.;My throat hurts because of a cold.'] already existed in 569: ['to have a sore throat', '\ubaa9\uc774 \uc544\ud504\ub2e4', '\uc800\ub294 \ubaa9\uc774 \uc544\ud30c\uc694.;I have a sore throat.']\u001b[0m",
+        "ignore": false
+    },
+    "41011a8d731b9361b545794ef66b3630db5c2a56a076481c7a6d9859bd80b2ca": {
+        "text": "\u001b[91mLine 624: Wrong number of example pairs. 1: ['\uba38\ub9ac\ub97c \uac74\uc870\ud574\uc694.']\u001b[0m",
+        "ignore": false
     }
 }
