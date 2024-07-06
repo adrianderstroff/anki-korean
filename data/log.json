@@ -198,5 +198,21 @@
     "2791091d0d4bfa87ab983f5871022999f244634490635c483f6f06d2ddc21d5f": {
         "text": "\u001b[91m \u251c\u2500\u2500\u2500\u2500 [Line 646] ['153', 'gray', '\ud68c\uc0c9']: list index out of range\u001b[0m",
         "ignore": false
+    },
+    "e4d20268b44c75d66d08eb133879d03e8391282cd658a91ebce8954adb131032": {
+        "text": "\u001b[93mline 647: ['grammar', '\ubb38\ubc95', '\ubb38\ubc95\uc744 \ubc30\uc6b0\ub294 \uac83\uc740 \uc911\uc694\ud574\uc694.;Learning grammar is important.'] already existed in 610: ['grammar', '\ubb38\ubc95', '\ubb38\ubc95\uc744 \ubc30\uc6b0\ub294 \uac83\uc740 \uc911\uc694\ud574\uc694.;Learning grammar is important.']\u001b[0m",
+        "ignore": false
+    },
+    "99ca12b0b7cd7a3e01dd81bd2f4a2e4e44e15ac1c6ec4a7c2305dd412e882555": {
+        "text": "\u001b[93mline 649: ['sad', '\uc2ac\ud504\ub2e4', '\uc2ac\ud508 \uc601\ud654\ub97c \ubcf4\uba74 \uc6b8\uc5b4\uc694.;I cry when I watch a sad movie.'] already existed in 363: ['to be sad', '\uc2ac\ud504\ub2e4', '\uadf8 \uc601\ud654\ub97c \ubcf4\uba74 \ud56d\uc0c1 \uc2ac\ud37c\uc838\uc694.;I always feel sad when I watch that movie.']\u001b[0m",
+        "ignore": false
+    },
+    "0e35704124f9d8291e295e0116cac434eb3be0460c82d3f55204072e03bd8ddb": {
+        "text": "\u001b[93mline 654: ['key', '\uc5f4\uc1e0', '\uc5f4\uc1e0\ub97c \ucc3e\uc544\uc694.;Look for the key.'] already existed in 405: ['key', '\uc5f4\uc1e0', '\uc5f4\uc1e0\ub97c \uc783\uc5b4\ubc84\ub838\uc5b4\uc694.;I lost my keys.']\u001b[0m",
+        "ignore": false
+    },
+    "8a85653837ad9e6982fd2fb3ac5ff20e50969d94f31570a5f19296c0245d27f3": {
+        "text": "\u001b[93mline 656: ['yesternight', '\uc5b4\uc82f\ubc24', '\uc5b4\uc82f\ubc24\uc5d0 \ubb50\ud588\uc5b4\uc694?;What did you do yesternight?'] already existed in 566: ['yesternight', '\uc5b4\uc82f\ubc24', '\uc5b4\uc82f\ubc24\uc5d0 \ubb50\ud588\uc5b4\uc694?;What did you do yesternight?']\u001b[0m",
+        "ignore": false
     }
 }
