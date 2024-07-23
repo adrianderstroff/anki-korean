@@ -214,5 +214,33 @@
     "8a85653837ad9e6982fd2fb3ac5ff20e50969d94f31570a5f19296c0245d27f3": {
         "text": "\u001b[93mline 656: ['yesternight', '\uc5b4\uc82f\ubc24', '\uc5b4\uc82f\ubc24\uc5d0 \ubb50\ud588\uc5b4\uc694?;What did you do yesternight?'] already existed in 566: ['yesternight', '\uc5b4\uc82f\ubc24', '\uc5b4\uc82f\ubc24\uc5d0 \ubb50\ud588\uc5b4\uc694?;What did you do yesternight?']\u001b[0m",
         "ignore": false
+    },
+    "e86e935967b7ee14a8fcd1a4f52cd4bbc1b16c2bfe99678e5bec44869b78c159": {
+        "text": "\u001b[93mline 680: ['to serve (food)', '\uc11c\ube59\ud558\ub2e4', '\uc774 \ud638\ud154\uc740 \uc870\uc2dd\uc744 \uc11c\ube59\ud569\ub2c8\ub2e4.;This hotel serves breakfast.'] already existed in 477: ['to serve', '\uc11c\ube59\ud558\ub2e4', '\uc800\ud76c \ud638\ud154\uc740 \uc870\uc2dd\uc744 \uc11c\ube59\ud569\ub2c8\ub2e4.;Our hotel serves breakfast.']\u001b[0m",
+        "ignore": false
+    },
+    "ba1470173d0917e5f8b10f758b29d28dd6870f235a0259437c3b2f3abf93950d": {
+        "text": "\u001b[93mline 687: ['employee', '\uc9c1\uc6d0', '\uc9c1\uc6d0\ub4e4\uc740 \uce5c\uc808\ud574\uc694.;The staff is kind.'] already existed in 565: ['staff, employee', '\uc9c1\uc6d0', '\uc9c1\uc6d0\ub4e4\uc740 \uce5c\uc808\ud574\uc694.;The staff is kind.']\u001b[0m",
+        "ignore": false
+    },
+    "1904fd051005123d913c10fe0c6ac2d44b2b5bfe9fab24a7b74ee40447c3d17d": {
+        "text": "\u001b[93mline 692: ['receipt', '\uc601\uc218\uc99d', '\uc601\uc218\uc99d\uc744 \ubc1b\uc544\uc694.;Get a receipt.'] already existed in 333: ['a bill', '\uc601\uc218\uc99d', '\uc601\uc218\uc99d \uc6d0\ud558\uc138\uc694?;Do you want the bill?']\u001b[0m",
+        "ignore": false
+    },
+    "742a7b75ee50844804f6aee4743945743117b9e2aacc030f6ffaa22490262534": {
+        "text": "\u001b[93mline 697: ['be diligent', '\ubd80\uc9c0\ub7f0\ud558\ub2e4', '\ubd80\uc9c0\ub7f0\ud558\uac8c \uc77c\ud558\uc138\uc694.;Work diligently.'] already existed in 263: ['diligent', '\ubd80\uc9c0\ub7f0\ud558\ub2e4', '\ub124\uac00 \uc5b8\uc81c\ubd80\ud130 \uadf8\ub807\uac8c \ubd80\uc9c0\ub7f0\ud588\ub0d0?;Since when were you so diligent?;\ud55c\uad6d \uc120\uc870\ub4e4\uc774 \uc544\uce68\uc5d0 \ud56d\uc0c1 \ubd80\uc9c0\ub7f0\ud588\uc5b4\uc694.;Korean ancestors were always diligent in the morning.']\u001b[0m",
+        "ignore": false
+    },
+    "f4bc1fec0059b26aefe7d7a4ec9ab53bcf37135abf03d890871cd887aa6b50b2": {
+        "text": "\u001b[93mline 699: ['to need', '\ud544\uc694\ud558\ub2e4', '\ud544\uc694\ud55c \ub3c8\uc774 \uc5bc\ub9c8\uc608\uc694?;How much money is needed?'] already existed in 181: ['necessary, needed', '\ud544\uc694\ud558\ub2e4', '\uc6b0\ub9ac\ub294 \ub2e4\ub978 \ucef4\ud4e8\ud130\uac00 \ud544\uc694\ud558\ub2e4.;We need another computer.']\u001b[0m",
+        "ignore": false
+    },
+    "be07f93a2b31820d684891a0b00c5bb7b41cf7b7ca5afea902b059be98b489d4": {
+        "text": "\u001b[93mline 712: ['to turn on sth.', '\ucf1c\ub2e4', '\ubd88\uc744 \ucf1c\uc8fc\uc138\uc694.;Turn on the light.'] already existed in 444: ['to turn on', '\ucf1c\ub2e4', \"\uc800\ub294 \ubd88\uc744 \ucf1c\uc9c0 \uc54a\uc544\uc694.;I don't turn on the light.\"]\u001b[0m",
+        "ignore": false
+    },
+    "33f8134bc51d87bd37e3a551b62b50ccd2b95fae9c5d28b74e3d3ca97f888a0c": {
+        "text": "\u001b[93mline 713: ['to turn off sth.', '\ub044\ub2e4', '\ubd88\uc744 \ub044\uc138\uc694.;Turn off the light.'] already existed in 445: ['to turn off', '\ub044\ub2e4', \"\uc800\ub294 \ubd88\uc744 \ub044\uc9c0 \uc54a\uc544\uc694.;I don't turn off the light.\"]\u001b[0m",
+        "ignore": false
     }
 }
